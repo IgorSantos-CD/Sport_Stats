@@ -33,3 +33,15 @@ for item in json_torneios['uniqueTournaments']:
         "id_pais" : item['category']['id']
         }
     dicionario_torneios[id_torneio] = infos
+
+dicionario_seasons = {}
+for comp_id in dicionario_torneios.keys():
+    driver.get(f"https://api.sofascore.com/api/v1/unique-tournament/{comp_id}/seasons")
+    json_seasons = json.loads(driver.find_element(By.XPATH, "/html/body/pre").text)
+    for item in json_seasons['seasons']:
+        id_season = item['id']
+        data_season = {
+            "id_competition" : comp_id,
+            "year" : item['year']
+            }
+        dicionario_seasons[id_season] = data_season
