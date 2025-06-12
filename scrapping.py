@@ -22,4 +22,14 @@ driver.get("https://www.sofascore.com/api/v1/config/default-unique-tournaments/B
 
 json_torneios = json.loads(driver.find_element(By.XPATH, "/html/body/pre").text)
 
-print(json_torneios)
+dicionario_torneios = {}
+for item in json_torneios['uniqueTournaments']:
+    id_torneio = item['id']
+    infos = {
+        "name" : item['name'],
+        "slug" : item['slug'],
+        "primary_color" : item.get('primaryColorHex', None),
+        "secondary_color" : item.get('secondaryColorHex', None),
+        "id_pais" : item['category']['id']
+        }
+    dicionario_torneios[id_torneio] = infos
