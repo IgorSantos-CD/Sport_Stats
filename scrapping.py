@@ -18,3 +18,8 @@ for item in json_categorias['categories']:
     name_id = item['id']
     dicionario_paises[name] = name_id
 
+driver.get("https://www.sofascore.com/api/v1/config/default-unique-tournaments/BR/football")
+
+json_torneios = json.loads(driver.find_element(By.XPATH, "/html/body/pre").text)
+
+print(json_torneios)
