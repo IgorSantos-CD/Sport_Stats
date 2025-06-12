@@ -8,7 +8,7 @@ from time import sleep
 
 #INICIALIZANDO O NAVEGADOR E ACESSANDO A PÁGINA PARA SCRAPPING
 driver = iniciar_driver()
-driver.get("https://www.sofascore.com/api/v1/team/1999/team-statistics/seasons")
+driver.get("https://www.sofascore.com/api/v1/sport/football/categories/all")
 
 response = driver.find_element(By.XPATH, "/html/body/pre").text
 dicionario = json.loads(response)['uniqueTournamentSeasons']
