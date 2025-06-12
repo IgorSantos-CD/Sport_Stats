@@ -10,13 +10,11 @@ from time import sleep
 driver = iniciar_driver()
 driver.get("https://www.sofascore.com/api/v1/sport/football/categories/all")
 
-response = driver.find_element(By.XPATH, "/html/body/pre").text
-dicionario = json.loads(response)['uniqueTournamentSeasons']
+json_categorias = json.loads(driver.find_element(By.XPATH, "/html/body/pre").text)
 
-for item in dicionario:
-    seasons = item['seasons']
-    for season in seasons:
-        liga_nome = season['name']
-        liga_id = season['id']
-        print(f'{liga_nome} + {liga_id}')
+dicionario_paises = {}
+for item in json_categorias['categories']:
+    name = item['name']
+    name_id = item['id']
+    dicionario_paises[name] = name_id
 
