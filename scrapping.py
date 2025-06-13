@@ -22,11 +22,11 @@ for item in json_categorias['categories']:
 
 driver.get("https://www.sofascore.com/api/v1/config/default-unique-tournaments/BR/football")
 
-json_torneios = json.loads(driver.find_element(By.XPATH, "/html/body/pre").text)
+js= json.loads(driver.find_element(By.XPATH, "/html/body/pre").text)
 
 #BUSCANDO TORNEIOS VIA API
 dicionario_torneios = {}
-for item in json_torneios['uniqueTournaments']:
+for item in js['uniqueTournaments']:
     id_torneio = item['id']
     infos = {
         "name" : item['name'],
@@ -41,8 +41,8 @@ for item in json_torneios['uniqueTournaments']:
 dicionario_seasons = {}
 for comp_id in dicionario_torneios.keys():
     driver.get(f"https://api.sofascore.com/api/v1/unique-tournament/{comp_id}/seasons")
-    json_seasons = json.loads(driver.find_element(By.XPATH, "/html/body/pre").text)
-    for item in json_seasons['seasons']:
+    js = json.loads(driver.find_element(By.XPATH, "/html/body/pre").text)
+    for item in js['seasons']:
         id_season = item['id']
         data_season = {
             "id_competition" : comp_id,
