@@ -49,3 +49,22 @@ for comp_id in dicionario_torneios.keys():
             "year" : item['year']
             }
         dicionario_seasons[id_season] = data_season
+
+#BUSCANDO TIMES VIA API
+erros = []
+for comp_id in tqdm(dicionario_torneios.keys()):
+
+    filter_dic = {
+        id_season : data
+        for id_season, data in dicionario_seasons.items()
+        if data['id_competition'] == comp_id
+    }
+    for id_season in tqdm(filter_dic):
+        driver.get(f"https://www.sofascore.com/api/v1/unique-tournament/{comp_id}/season/{id_season}/standings/total")
+        js = json.loads(driver.find_element(By.XPATH, "/html/body/pre").text)
+        try:
+            for item in js['standings']:
+                teams = item['rows']
+                len(teams)
+        except:
+            erros.append(comp_id)
