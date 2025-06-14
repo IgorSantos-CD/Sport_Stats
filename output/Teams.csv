@@ -1,0 +1,1026 @@
+,id_season,id_comp,country,name,short_name,color_primary,color_secondary
+4711,1152,11,DEU,Germany,0,#ffffff,#000000
+4699,25,11,CHE,Switzerland,0,#ff0000,#ffffff
+4709,25,11,HUN,Hungary,0,#c61e29,#ffffff
+4695,25,11,SCO,Scotland,0,#00005e,#ffffff
+4698,25,11,ESP,Spain,0,#cc0000,#ffffff
+4707,25,11,ITA,Italy,0,#0066ff,#ffffff
+4715,25,11,HRV,Croatia,0,#ff0000,#ffffff
+4690,25,11,ALB,Albania,0,#e41e20,#000000
+4713,25,11,ENG,England,0,#ffffff,#cc0000
+4476,25,11,DNK,Denmark,0,#cc0000,#ffffff
+4484,25,11,SVN,Slovenia,0,#ffffff,#153d96
+6355,1152,11,SRB,Serbia,0,#ff0033,#ffffff
+4718,25,11,AUT,Austria,0,#ff0000,#ffffff
+4481,25,11,FRA,France,0,#01509e,#e30613
+4705,25,11,NLD,Netherlands,0,#ff6600,#281fe0
+4703,25,11,POL,Poland,0,#ffffff,#ff0000
+4477,25,11,ROU,Romania,0,#f7bd00,#ff0000
+4717,25,11,BEL,Belgium,0,#ff0033,#000000
+4697,25,11,SVK,Slovakia,0,#ffffff,#3333ff
+4701,25,11,UKR,Ukraine,0,#ffcc00,#0033ff
+4704,25,11,PRT,Portugal,0,#cc0000,#66cc66
+4700,25,11,TUR,Türkiye,0,#ffffff,#ff0000
+4763,25,11,GEO,Georgia,0,#ffffff,#ff0000
+4714,25,11,CZE,Czechia,0,#cc0000,#025095
+4702,25,11,WAL,Wales,0,#ff0000,#00813c
+4712,25,11,FIN,Finland,0,#ffffff,#0066b3
+4694,25,11,RUS,Russia,0,#e20000,#ffffff
+4777,25,11,MKD,North Macedonia,0,#ff0000,#ffff00
+4688,25,11,SWE,Sweden,0,#ffcc00,#0000ff
+4786,25,11,NIR,Northern Ireland,0,#1c9239,#ffffff
+4693,25,11,IRL,Ireland,0,#139442,#ffffff
+4708,25,11,ISL,Iceland,0,#0033ff,#ffffff
+4710,25,11,GRC,Greece,0,#ffffff,#005bae
+4716,25,11,BGR,Bulgaria,0,#ffffff,#00924a
+4706,25,11,LVA,Latvia,0,#9f2c36,#ffffff
+23498,357,27,0,Yugoslavia,0,#e11302,#003893
+4475,25,11,NOR,Norway,0,#ef2b2d,#001f5b
+515925,27052,1,0,CIS,0,#374df5,#374df5
+290288,17561,16,DEU,West Germany,0,#ffffff,#ffffff
+290289,17562,16,0,USSR,0,#cc0000,#fccc00
+290286,17561,16,CZE,Czechoslovakia,0,#cc0000,#ffffff
+4819,1487,295,ARG,Argentina,0,#66ccff,#ffffff
+4752,1154,14,CAN,Canada,0,#ff0000,#ffffff
+4754,1487,295,CHL,Chile,0,#ff0000,#3300cc
+4790,1487,295,PER,Peru,0,#ffffff,#cc0000
+4722,1487,295,VEN,Venezuela,0,#aa0f39,#ffffff
+4757,1487,295,ECU,Ecuador,0,#ffff00,#000063
+4781,1154,14,MEX,Mexico,0,#1a4d3e,#960000
+4769,1154,14,JAM,Jamaica,0,#ffff00,#33a64f
+4725,1487,295,URY,Uruguay,0,#7eacfe,#000000
+5164,10191,14,PAN,Panama,0,#cc0000,#005293
+4724,1154,14,USA,USA,0,#ffffff,#ff0000
+4746,1487,295,BOL,Bolivia,0,#136353,#ffffff
+4820,1487,295,COL,Colombia,0,#ffd808,#000066
+4748,1487,295,BRA,Brazil,0,#ffff00,#009933
+4756,1154,14,CRI,Costa Rica,0,#ed1c24,#2366b3
+4789,1487,295,PRY,Paraguay,0,#ff0000,#045ca3
+4792,1000,308,QAT,Qatar,0,#660000,#ffffff
+4770,1520,308,JPN,Japan,0,#000080,#ed1b24
+7229,1154,14,HTI,Haiti,0,#3b5aa3,#be0027
+4739,1002,13,SEN,Senegal,0,#ffffff,#047151
+4766,1520,308,IRN,Iran,0,#ffffff,#cc0000
+4834,1520,308,SAU,Saudi Arabia,0,#ffffff,#008000
+4741,1000,308,AUS,Australia,0,#ffcc00,#2d324b
+4729,1002,13,TUN,Tunisia,0,#ffffff,#ffffff
+4778,1002,13,MAR,Morocco,0,#ff0000,#006600
+4751,1002,13,CMR,Cameroon,0,#006633,#d01124
+4735,1520,308,KOR,South Korea,0,#ff0000,#0000ff
+4764,1002,13,GHA,Ghana,0,#ff0000,#ffff00
+4758,1002,13,EGY,Egypt,0,#f00000,#ffffff
+4785,1002,13,NGA,Nigeria,0,#39b54a,#ffffff
+4768,1002,13,CIV,Côte d'Ivoire,0,#f77f00,#009e60
+4827,1154,14,HND,Honduras,0,#ffffff,#4579a8
+4479,25,11,BIH,Bosnia & Herzegovina,0,#2d4a99,#ffffff
+4691,1002,13,DZA,Algeria,0,#ffffff,#23bc55
+4736,1002,13,ZAF,South Africa,0,#ffd800,#008040
+4784,1001,309,NZL,New Zealand,0,#ffffff,#000000
+5369,1520,308,PRK,North Korea,0,#ff0000,#ff0000
+5162,1154,14,TTO,Trinidad and Tobago,0,#cc0000,#000000
+42499,25,11,0,Serbia & Montenegro,0,#00338d,#ff0033
+4692,1002,13,AGO,Angola,0,#ff0000,#ffff00
+4836,1002,13,TGO,Togo,0,#ffff00,#5cb640
+4755,1000,308,CHN,China,0,#ff0000,#fff100
+4727,1000,308,ARE,United Arab Emirates,0,#ff0000,#00732f
+4767,1000,308,IRQ,Iraq,0,#ffffff,#108f5b
+4825,1154,14,SLV,El Salvador,0,#3300ff,#ffffff
+5368,1520,308,KWT,Kuwait,0,#0033ff,#ffffff
+290290,17566,16,0,East Germany,0,#ffffff,#000000
+419245,17566,16,0,Zaire,0,#374df5,#374df5
+4480,25,11,ISR,Israel,0,#7bafde,#ffffff
+44,25680,17,ENG,Liverpool,0,#cc0000,#ffffff
+2817,25687,8,ESP,Barcelona,0,#154284,#9d1009
+42,25680,17,ENG,Arsenal,0,#cc0000,#ffffff
+2697,69619,357,ITA,Inter,0,#1a57cc,#000000
+2836,69619,357,ESP,Atlético Madrid,0,#ffffff,#c40000
+2681,107,35,DEU,Bayer 04 Leverkusen,0,#000000,#ff2222
+1643,52327,17015,FRA,Lille,0,#df0000,#24216a
+40,52327,17015,ENG,Aston Villa,0,#670e36,#94bee5
+2686,85,23,ITA,Atalanta,0,#0000cc,#000000
+2673,69619,357,DEU,Borussia Dortmund,0,#ffe600,#000000
+2829,69619,357,ESP,Real Madrid,0,#ffffff,#004996
+2672,69619,357,DEU,FC Bayern München,0,#cf142f,#ffffff
+2692,85,23,ITA,Milan,0,#000000,#cc0000
+2952,1711,37,NLD,PSV Eindhoven,0,#ff0000,#ffffff
+1644,69619,357,FRA,Paris Saint-Germain,0,#000066,#ff1541
+3006,69619,357,PRT,Benfica,0,#cc0000,#ffffff
+1653,65,34,MCO,AS Monaco,0,#ffffff,#ff0000
+1715,2719,34,FRA,Stade Brestois,0,#ffffff,#d20000
+2959,37074,17015,NLD,Feyenoord,0,#ff0000,#ffffff
+2687,69619,357,ITA,Juventus,0,#ffffff,#000000
+2352,2155,679,SCO,Celtic,0,#ffffff,#009933
+17,69619,357,ENG,Manchester City,0,#66ccff,#ffffff
+3001,2155,679,PRT,Sporting,0,#009966,#ffffff
+2888,52327,17015,BEL,Club Brugge KV,0,#0080ff,#000000
+2032,52327,17015,HRV,GNK Dinamo Zagreb,0,#0b59a1,#ffffff
+2677,107,35,DEU,VfB Stuttgart,0,#ffffff,#ff0000
+3313,2155,679,UKR,Shakhtar Donetsk,0,#ff6600,#000000
+2685,85,23,ITA,Bologna,0,#003366,#cc0000
+5149,13416,679,SRB,FK Crvena zvezda,0,#d90512,#ffffff
+2051,2155,679,AUT,SK Sturm Graz,0,#000000,#0000ff
+2218,2155,679,CZE,AC Sparta Praha,0,#942536,#ffffff
+36360,11818,35,DEU,RB Leipzig,0,#ffffff,#dd0000
+24264,13662,8,ESP,Girona FC,0,#ffffff,#ff0000
+2046,69619,357,AUT,Red Bull Salzburg,0,#ffffff,#ff0000
+2404,37074,17015,SVK,ŠK Slovan Bratislava,0,#99ccff,#99ccff
+2445,2765,679,CHE,Young Boys,0,#ffcf00,#000000
+1284,37074,17015,DNK,FC København,0,#ffffff,#0066ff
+3061,2155,679,TUR,Galatasaray,0,#ff9900,#ff0000
+35,25680,17,ENG,Manchester United,0,#ff0000,#373737
+1648,65,34,FRA,RC Lens,0,#a71a1b,#ffce00
+2833,25687,8,ESP,Sevilla,0,#ffffff,#cc1020
+2714,85,23,ITA,Napoli,0,#008cea,#ffffff
+2999,3403,679,PRT,Sporting Braga,0,#ff0000,#ffffff
+2547,37074,17015,DEU,1. FC Union Berlin,0,#ff0000,#ffffff
+2824,25687,8,ESP,Real Sociedad,0,#ffffff,#0077c7
+2699,85,23,ITA,Lazio,0,#64b6e1,#ffffff
+39,25680,17,ENG,Newcastle United,0,#000000,#ffffff
+3002,69619,357,PRT,FC Porto,0,#194f93,#ffffff
+2889,29343,679,BEL,Royal Antwerp FC,0,#d10f2f,#ffffff
+2953,1711,37,NLD,AFC Ajax,0,#bb002b,#ffffff
+2351,17352,679,SCO,Rangers,0,#0033a0,#ff0000
+4502,52327,17015,CZE,Viktoria Plzeň,0,#ff0000,#0066ff
+33,37074,17015,ENG,Tottenham Hotspur,0,#ffffff,#000066
+2674,52327,17015,DEU,Eintracht Frankfurt,0,#000000,#ff1111
+1641,65,34,FRA,Olympique de Marseille,0,#ffffff,#66b3ff
+38,61648,17015,ENG,Chelsea,0,#0310a7,#ffffff
+5197,37074,17015,ISR,Maccabi Haifa,0,#009900,#ffffff
+3050,52327,17015,TUR,Beşiktaş,0,#ffffff,#000000
+5173,2155,679,MDA,Sheriff Tiraspol,0,#000000,#000000
+3305,2765,679,UKR,Dynamo Kyiv,0,#ffffff,#0071bc
+2819,42224,17015,ESP,Villarreal,0,#ffff00,#013765
+2524,107,35,DEU,VfL Wolfsburg,0,#64b42d,#ffffff
+2321,2765,679,RUS,Zenit St. Petersburg,0,#95e4ff,#ffffff
+1892,3403,679,SWE,Malmö FF,0,#0099ff,#0099ff
+2320,3403,679,RUS,Lokomotiv Moscow,0,#19683f,#cf3439
+2527,107,35,DEU,Borussia M'gladbach,0,#ffffff,#000000
+3245,11774,679,GRC,Olympiacos FC,0,#ff0000,#ffffff
+1289,10391,679,DNK,FC Midtjylland,0,#000000,#cc0000
+34425,8228,679,RUS,FK Krasnodar,0,#005e37,#000000
+1658,37074,17015,FRA,Stade Rennais,0,#ff0000,#000000
+1925,52327,17015,HUN,Ferencváros TC,0,#339900,#ffffff
+3086,42224,17015,TUR,Başakşehir FK,0,#fc5000,#3273dc
+2890,52327,17015,BEL,KRC Genk,0,#0000dd,#ffffff
+2216,37074,17015,CZE,SK Slavia Praha,0,#ffffff,#e10000
+1649,65,34,FRA,Olympique Lyonnais,0,#ffffff,#004080
+2828,25687,8,ESP,Valencia,0,#ffffff,#000000
+2530,107,35,DEU,FC Schalke 04,0,#0541cd,#ffffff
+3250,2155,679,GRC,AEK Athens,0,#000000,#ffff00
+2569,1557,35,DEU,TSG Hoffenheim,0,#1f5da6,#ffffff
+2702,37074,17015,ITA,Roma,0,#990000,#eaca15
+2325,2765,679,RUS,CSKA Moscow,0,#cc0000,#0000ce
+2501,37074,17015,CHE,Basel,0,#000099,#990000
+2900,42224,17015,BEL,RSC Anderlecht,0,#330066,#ffffff
+5962,37074,17015,AZE,Qarabağ,0,#000000,#ffffff
+2323,17352,679,RUS,FC Spartak Moscow,0,#cc0000,#cc0000
+2420,3403,679,SVN,NK Maribor,0,#000099,#ffff00
+3398,61648,17015,CYP,APOEL Nicosia,0,#f5c00a,#003399
+43840,52327,17015,BGR,Ludogorets,0,#006837,#ffffff
+2326,11773,7,RUS,FC Rostov,0,#ffff00,#3300ff
+3106,52327,17015,POL,Legia Warszawa,0,#ffffff,#000000
+31,29167,17,ENG,Leicester City,0,#003090,#ffffff
+36155,52327,17015,KAZ,Astana,0,#fff200,#00acff
+3350,2155,679,BLR,BATE Borisov,0,#0000cc,#ffcc00
+5198,37074,17015,ISR,Maccabi Tel Aviv,0,#ffff00,#1e3779
+2903,37074,17015,BEL,KAA Gent,0,#0033ff,#ffffff
+2825,25687,8,ESP,Athletic Club,0,#aa0000,#ffffff
+3301,42224,17015,ROU,FCSB,0,#ff0000,#0080ff
+2203,42224,17015,AUT,Austria Wien,0,#660099,#ffffff
+1642,65,34,FRA,Montpellier,0,#003e7e,#ea7118
+2830,73,8,ESP,Málaga,0,#ffffff,#3791f2
+1292,52327,17015,DNK,FC Nordsjælland,0,#cc0000,#ff0000
+5287,37074,17015,ROU,CFR 1907 Cluj,0,#8d2642,#ffffff
+3051,6361,679,TUR,Trabzonspor,0,#0099ff,#990000
+3291,3402,7,ROU,SC Oțelul Galați,0,#ff0000,#ff0000
+2955,1711,37,NLD,FC Twente,0,#ff0000,#ff0000
+2534,107,35,DEU,SV Werder Bremen,0,#009966,#ffffff
+5396,2155,679,ISR,Hapoel Tel Aviv,0,#ff0000,#ffffff
+3055,2764,7,TUR,Bursaspor,0,#339966,#ffffff
+2333,3403,679,RUS,Rubin Kazan,0,#b70000,#dddd00
+3248,61648,17015,GRC,Panathinaikos,0,#005e00,#ffffff
+2402,2764,7,SVK,MŠK Žilina,0,#ffff33,#ffff33
+1646,65,34,FRA,Auxerre,0,#ffffff,#0033ff
+5152,37074,17015,SRB,FK Partizan,0,#000033,#000000
+1645,65,34,FRA,Bordeaux,0,#001244,#ffffff
+2450,3403,679,CHE,FC Zürich,0,#ffffff,#ffffff
+2693,42224,17015,ITA,Fiorentina,0,#542baa,#ffffff
+1921,2765,679,HUN,Debreceni VSC,0,#cc0000,#cc0000
+6120,1825,7,ROU,Unirea Urziceni,0,#374df5,#374df5
+2901,3403,679,BEL,Standard Liège,0,#cc0000,#ffffff
+2950,37074,17015,NLD,AZ Alkmaar,0,#ff0000,#000000
+3403,37074,17015,CYP,Anorthosis Famagusta,0,#0000d5,#003399
+1290,8228,679,DNK,AaB,0,#ffffff,#ff0000
+3052,52327,17015,TUR,Fenerbahçe,0,#000066,#ffff00
+1161,2765,679,NOR,Rosenborg BK,0,#374df5,#374df5
+3273,2155,679,BGR,Levski Sofia,0,#0958b0,#0958b0
+2676,107,35,DEU,Hamburger SV,0,#ffffff,#ffffff
+2055,61648,17015,AUT,SK Rapid Wien,0,#00794b,#ffffff
+2454,6361,679,CHE,FC Thun,0,#cc0000,#cc0000
+2695,85,23,ITA,Udinese,0,#ffffff,#000000
+2816,61648,17015,ESP,Real Betis,0,#ffffff,#006633
+2400,14,7,SVK,FC Petržalka 1898,0,#ffffff,#222226
+2832,25687,8,ESP,Deportivo La Coruña,0,#003399,#ffffff
+2821,25687,8,ESP,Celta Vigo,0,#6cace4,#ffffff
+656,37074,17015,NOR,Bodø/Glimt,0,#ffcc33,#000000
+4860,44509,679,BEL,Royale Union Saint-Gilloise,0,#ffec06,#1649fa
+3251,37074,17015,GRC,PAOK,0,#000000,#ffffff
+1762,6361,679,SWE,IF Elfsborg,0,#ffff00,#ffff00
+68718,42224,17015,LVA,RFS,0,#0a64c0,#ffffff
+1661,42224,17015,FRA,Nice,0,#000000,#cc0000
+37,42224,17015,ENG,West Ham United,0,#66192c,#59b3e4
+2538,106,35,DEU,SC Freiburg,0,#cc3333,#000000
+263360,61648,17015,SRB,FK TSC Bačka Topola,0,#191970,#ffffff
+30,13380,17,ENG,Brighton & Hove Albion,0,#0054a6,#ffffff
+3397,53654,679,CYP,Aris Limassol,0,#006600,#ffffff
+35268,53654,679,POL,Raków Częstochowa,0,#ff0000,#5481c8
+1681,65,34,FRA,Toulouse,0,#660099,#ffffff
+2058,37074,17015,AUT,LASK,0,#ffffff,#000000
+2448,53654,679,CHE,Servette FC,0,#660000,#660000
+661,42224,17015,NOR,Molde FK,0,#2173b9,#ffffff
+1760,53654,679,SWE,BK Häcken,0,#000000,#ffcc00
+3404,3403,679,CYP,AEK Larnaca,0,#006600,#006600
+2242,37074,17015,FIN,HJK,0,#0000cc,#ffffff
+3395,37074,17015,CYP,Omonia Nicosia,0,#01703d,#ffffff
+1647,65,34,FRA,Nantes,0,#ffdc12,#00a94e
+1281,37725,679,DNK,Brøndby IF,0,#ffff00,#ffff00
+3275,37074,17015,BGR,CSKA Sofia,0,#b40000,#ffffff
+3179,11774,679,IRL,Dundalk FC,0,#ffffff,#000000
+5202,42224,17015,ISR,Hapoel Be'er Sheva,0,#ff0000,#ffffff
+3121,42224,17015,POL,Lech Poznań,0,#004b93,#ffffff
+33779,3502,8,ESP,Granada,0,#cc0000,#ffffff
+2039,6361,679,HRV,HNK Rijeka,0,#ffffff,#6699ff
+5987,37074,17015,UKR,Zorya Luhansk,0,#000000,#ffffff
+3076,42224,17015,TUR,Sivasspor,0,#cc0000,#ffffff
+2076,23755,679,AUT,Wolfsberger AC,0,#ffffff,#000000
+2219,6361,679,CZE,FC Slovan Liberec,0,#0b89c5,#ffffff
+5207,17352,679,LUX,F91 Dudelange,0,#ffff00,#ffff00
+2443,52327,17015,CHE,FC Lugano,0,#000000,#ffffff
+2859,100,8,ESP,Getafe,0,#00369e,#ffffff
+3009,61648,17015,PRT,Vitória SC,0,#ffffff,#000000
+2814,25688,8,ESP,Espanyol,0,#ffffff,#1369d2
+1678,63,34,FRA,Saint-Étienne,0,#1e824c,#ffffff
+25479,23755,679,UKR,Oleksandria,0,#fdc042,#000000
+3,1,17,ENG,Wolverhampton,0,#ff9900,#000000
+2406,52327,17015,SVK,FC Spartak Trnava,0,#ff0000,#000000
+3309,3403,679,UKR,Vorskla Poltava,0,#ffffff,#009f00
+3402,42224,17015,CYP,Apollon Limassol,0,#2424ff,#000000
+822,17352,679,NOR,Sarpsborg 08,0,#0033cc,#ffffff
+24748,17352,679,TUR,Akhisarspor,0,#000000,#669999
+2205,37074,17015,CZE,FK Jablonec,0,#66cc00,#66cc00
+1926,4790,679,HUN,Fehérvár FC,0,#f00000,#000d5b
+5224,10391,679,ALB,KF Skënderbeu,0,#ff0000,#ff0000
+48,25680,17,ENG,Everton,0,#274488,#ffffff
+2220,13416,679,CZE,FC Zlín,0,#ffff00,#ffff00
+2671,42224,17015,DEU,1. FC Köln,0,#ffffff,#e30613
+3085,11774,679,TUR,Konyaspor,0,#ffffff,#009966
+1836,13416,679,SWE,Östersunds FK,0,#ff0000,#000000
+2528,107,35,DEU,Hertha BSC,0,#ffffff,#0131ad
+2933,6361,679,BEL,SV Zulte Waregem,0,#cc0033,#990033
+2958,37074,17015,NLD,Vitesse,0,#ffff00,#000000
+5403,13416,679,MKD,FK Vardar Skopje,0,#ff0000,#000000
+2556,92,35,DEU,1. FSV Mainz 05,0,#ff0000,#ffffff
+36952,10391,679,AZE,Qəbələ FK,0,#d33138,#d33138
+3288,8228,679,ROU,Astra Giurgiu,0,#ffffff,#000000
+2793,6797,23,ITA,Sassuolo,0,#006600,#000000
+45,25680,17,ENG,Southampton,0,#ff0000,#ffffff
+3057,11774,679,TUR,Sincan Belediyesi Ankaraspor,0,#660066,#660066
+2452,10391,679,CHE,FC Sion,0,#ff0000,#ffffff
+3361,61648,17015,BLR,Dinamo Minsk,0,#374df5,#374df5
+2951,1711,37,NLD,FC Groningen,0,#ffffff,#009933
+3304,4790,679,UKR,Dnipro,0,#0000ff,#ffffff
+3004,10391,679,PRT,B-SAD,0,#0000ff,#0000ff
+6342,8228,679,GRC,Asteras Aktor,0,#ff9900,#0000ff
+2600,3405,35,DEU,FC Augsburg,0,#ffffff,#cd1719
+2696,83,23,ITA,Torino,0,#6d1b1d,#ffffff
+2315,8228,679,RUS,Dynamo Moscow,0,#0066ff,#0066ff
+4500,6361,679,PRT,Estoril Praia,0,#ffff00,#0000ff
+3036,8228,679,PRT,Rio Ave,0,#006633,#ffffff
+1654,65,34,FRA,Guingamp,0,#cc0000,#cc0000
+2887,8228,679,BEL,KSC Lokeren Oost-Vlaanderen,0,#ffffff,#ffcc33
+3314,2765,679,UKR,FC Metalist Kharkiv,0,#ffcc00,#ffcc33
+74,3391,17,WAL,Swansea City,0,#ffffff,#ffffff
+2343,6361,679,RUS,Kuban Krasnodar,0,#ffff33,#ffff33
+2442,61648,17015,CHE,FC St. Gallen 1879,0,#ffffff,#009933
+3310,6361,679,UKR,Chornomorets Odesa,0,#000000,#ffffff
+1287,6361,679,DNK,Esbjerg,0,#0000ff,#ffffff
+49,3,17,ENG,Wigan Athletic,0,#0000ff,#ffffff
+3003,6361,679,PRT,Paços de Ferreira,0,#ffff00,#009933
+5336,6361,679,ROU,Pandurii Târgu Jiu,0,#0000ff,#ffffff
+2327,4790,679,RUS,Anzhi Makhachkala,0,#ffff00,#ffff00
+660,6361,679,NOR,Tromsø IL,0,#ffffff,#ff0000
+5360,6361,679,KAZ,Shakhter Karagandy,0,#ff6600,#ff6600
+3015,4790,679,PRT,Académica Coimbra,0,#000000,#000000
+3407,4790,679,CYP,AEL Limassol,0,#ffff00,#000066
+3007,4790,679,PRT,Marítimo,0,#009966,#ff0000
+1764,4790,679,SWE,AIK,0,#000000,#000000
+5215,4790,679,AZE,Neftçi Baku PFK,0,#ffffff,#ffffff
+5399,4790,679,ISR,Hapoel Ironi Kiryat Shmona,0,#ffffff,#0000ff
+2541,90,35,DEU,Hannover 96,0,#bf0000,#ffffff
+2849,100,8,ESP,Levante UD,0,#0e3b68,#d70000
+1890,4790,679,SWE,Helsingborgs IF,0,#ff0000,#ff0000
+3177,42224,17015,IRL,Shamrock Rovers,0,#008100,#ffffff
+295403,3403,679,ROU,FC Rapid București,0,#990000,#ffffff
+6122,3403,679,ROU,FC Vaslui,0,#ffff33,#000000
+29,1544,17,ENG,Stoke City,0,#ffffff,#ff0000
+9,46,17,ENG,Birmingham City,0,#000099,#ffffff
+3111,3403,679,POL,Wisła Kraków,0,#cc0000,#ffffff
+43,47,17,ENG,Fulham,0,#ffffff,#000000
+1286,2765,679,DNK,Odense BK,0,#ffffff,#3366ff
+3252,2765,679,GRC,Aris Thessaloniki,0,#ffff00,#000000
+2715,96,23,ITA,Palermo,0,#ffb3d9,#000000
+2446,2765,679,CHE,FC Lausanne-Sport,0,#ffffff,#31489b
+2036,2765,679,HRV,HNK Hajduk Split,0,#ffffff,#ffffff
+2711,85,23,ITA,Sampdoria,0,#0000ff,#ffffff
+3316,2765,679,UKR,Karpaty Lviv,0,#ffffff,#009f00
+2948,1711,37,NLD,FC Utrecht,0,#ff0000,#ffffff
+5286,2155,679,ROU,FC Timisoara,0,#374df5,#374df5
+2713,712,23,ITA,Genoa,0,#000033,#660000
+2964,1711,37,NLD,SC Heerenveen,0,#ffffff,#000099
+5354,2155,679,LVA,FK Ventspils,0,#ffd700,#0000ff
+3292,2155,679,ROU,FC Dinamo București,0,#ff0000,#ffffff
+3013,2155,679,PRT,CD Nacional,0,#000000,#ffffff
+4482,25,11,CYP,Cyprus,0,#285c9f,#ffffff
+129264,10585,11,GIB,Gibraltar,0,#cc0000,#ffffff
+4483,25,11,MLT,Malta,0,#ff0000,#ffffff
+4740,25,11,ARM,Armenia,0,#cc0000,#ef7b00
+4782,25,11,MDA,Moldova,0,#000099,#ffbc00
+4760,25,11,FRO,Faroe Islands,0,#ffffff,#0000ff
+4742,25,11,AZE,Azerbaijan,0,#0071b8,#ffffff
+4759,25,11,EST,Estonia,0,#0066cc,#ffffff
+7139,1152,11,MNE,Montenegro,0,#cc0000,#ffffff
+4776,25,11,LTU,Lithuania,0,#fcd91e,#316b3e
+4772,25,11,KAZ,Kazakhstan,0,#fec50c,#4578d7
+4833,25,11,SMR,San Marino,0,#0387cc,#ffffff
+4743,25,11,BLR,Belarus,0,#ffffff,#fe0503
+154426,10585,11,XKX,Kosovo,0,#244aa5,#f8cc22
+4818,25,11,AND,Andorra,0,#cc0000,#0054a9
+4478,25,11,LUX,Luxembourg,0,#ff0000,#ffffff
+4830,25,11,LIE,Liechtenstein,0,#3a5aa3,#c40000
+14,29167,17,ENG,Nottingham Forest,0,#cc0000,#cc0000
+60,10356,17,ENG,Bournemouth,0,#000000,#cc0000
+50,37036,17,ENG,Brentford,0,#ffffff,#ff0000
+7,29167,17,ENG,Crystal Palace,0,#0033ff,#b90d2b
+32,25680,17,ENG,Ipswich Town,0,#0000ff,#ffffff
+72,52186,17,ENG,Luton Town,0,#ff3300,#000033
+6,2139,17,ENG,Burnley,0,#81204c,#8fd2f4
+15,25680,17,ENG,Sheffield United,0,#ffffff,#ff0000
+34,25680,17,ENG,Leeds United,0,#ffffff,#1d4189
+24,49,17,ENG,Watford,0,#fbd142,#000000
+263,25680,17,ENG,Norwich City,0,#ffcc33,#336600
+8,46,17,ENG,West Bromwich Albion,0,#ffffff,#2d2f84
+61,6311,17,WAL,Cardiff City,0,#0000eb,#ffffff
+59,13380,17,ENG,Huddersfield Town,0,#ffffff,#0000ff
+96,1544,17,ENG,Hull City,0,#de8f38,#000000
+36,25681,17,ENG,Middlesbrough,0,#d90000,#d90000
+41,25682,17,ENG,Sunderland,0,#ffffff,#ca0000
+1,25680,17,ENG,Queens Park Rangers,0,#ffffff,#003399
+28,4,17,ENG,Reading,0,#ffffff,#003399
+5,25681,17,ENG,Bolton Wanderers,0,#ffffff,#000033
+46,25680,17,ENG,Blackburn Rovers,0,#ffffff,#0000ff
+67,2746,17,ENG,Blackpool,0,#ff6600,#ffffff
+2,1,17,ENG,Portsmouth,0,#3165ae,#222226
+27,25682,17,ENG,Derby County,0,#ffffff,#090e22
+47,50,17,ENG,Charlton Athletic,0,#ff0000,#ffffff
+11,25680,17,ENG,Coventry City,0,#0099cc,#999999
+22,49,17,ENG,Bradford City,0,#660033,#ffcc00
+4,25680,17,ENG,Milton Keynes Dons,0,#ffffff,#ff0000
+12,25680,17,ENG,Sheffield Wednesday,0,#0066cc,#ffffff
+23,51,17,ENG,Barnsley,0,#ff3333,#ffffff
+65,25680,17,ENG,Oldham Athletic,0,#2869b2,#f2f2f1
+53,25680,17,ENG,Swindon Town,0,#cc0000,#ffffff
+2818,25687,8,ESP,Rayo Vallecano,0,#ffffff,#ffffff
+2820,25687,8,ESP,Osasuna,0,#cc0000,#14213d
+2826,75,8,ESP,Mallorca,0,#cc0000,#000000
+2885,74,8,ESP,Deportivo Alavés,0,#0232a0,#ffffff
+2845,11906,8,ESP,Leganés,0,#ffffff,#3300ff
+6577,72,8,ESP,Las Palmas,0,#e8f541,#f3f845
+2831,25687,8,ESP,Real Valladolid,0,#ffffff,#663399
+4488,101,8,ESP,Cádiz,0,#ffff00,#001d43
+2858,669,8,ESP,Almería,0,#ff0000,#ffffff
+2846,6559,8,ESP,Elche,0,#ffffff,#336600
+24265,18020,8,ESP,Huesca,0,#13324f,#ff0000
+2839,8578,8,ESP,Eibar,0,#003e85,#cd152f
+2852,25687,8,ESP,Sporting Gijón,0,#ffffff,#cc0000
+2850,8578,8,ESP,Córdoba,0,#339900,#ffffff
+2815,25687,8,ESP,Real Zaragoza,0,#ffffff,#0000ff
+2835,25687,8,ESP,Racing de Santander,0,#ffffff,#009933
+2877,25689,8,ESP,Hércules CF,0,#ffffff,#000066
+2822,25687,8,ESP,CD Tenerife,0,#ffffff,#3300ff
+2838,2252,8,ESP,Xerez CD,0,#0000ff,#ffffff
+2855,73,8,ESP,Numancia,0,#ff0000,#3300ff
+202076,70,8,ESP,Recreativo de Huelva,0,#0033ff,#ffffff
+4487,99,8,ESP,Real Murcia,0,#ff0000,#ff0000
+2840,102,8,ESP,Gimnàstic de Tarragona,0,#ff0000,#000000
+2848,25687,8,ESP,Albacete Balompié,0,#ffffff,#ffffff
+2851,25687,8,ESP,Real Oviedo,0,#3300ff,#ffffff
+2837,25689,8,ESP,Extremadura,0,#374df5,#374df5
+2847,25690,8,ESP,Unión Deportiva Salamanca,0,#374df5,#374df5
+2856,25688,8,ESP,SD Compostela,0,#00ade7,#ffffff
+24351,25690,8,ESP,Mérida AD,0,#ffffff,#000000
+250782,25687,8,ESP,CD Logroñés,0,#374df5,#374df5
+331732,25687,8,ESP,UE Lleida,0,#374df5,#374df5
+2526,103,35,DEU,FC St. Pauli,0,#300202,#fd0000
+5885,61648,17015,DEU,1. FC Heidenheim,0,#243475,#400040
+2573,63516,35,DEU,Holstein Kiel,0,#000099,#000099
+2542,107,35,DEU,VfL Bochum 1848,0,#6666ff,#ffffff
+2576,10419,35,DEU,Darmstadt 98,0,#4577fc,#0612a8
+2540,107,35,DEU,Arminia Bielefeld,0,#092288,#000000
+2551,4792,35,DEU,SpVgg Greuther Fürth,0,#ffffff,#009900
+2588,4792,35,DEU,Fortuna Düsseldorf,0,#ffffff,#ff0000
+2561,8238,35,DEU,SC Paderborn 07,0,#0000bb,#0000a6
+2523,106,35,DEU,1. FC Nürnberg,0,#990000,#000000
+5880,10419,35,DEU,FC Ingolstadt 04,0,#ff0000,#ff0000
+2557,6303,35,DEU,Eintracht Braunschweig,0,#ffcc00,#0000e1
+2675,107,35,DEU,1. FC Kaiserslautern,0,#ca0000,#ffffff
+2532,104,35,DEU,Energie Cottbus,0,#ff0000,#ff0000
+2553,107,35,DEU,Karlsruher SC,0,#0000dd,#0000a0
+2533,107,35,DEU,F.C. Hansa Rostock,0,#0033ff,#0033ff
+2543,107,35,DEU,MSV Duisburg,0,#ffffff,#0033ff
+2546,94,35,DEU,Alemannia Aachen,0,#000000,#ffff00
+2536,107,35,DEU,TSV 1860 München,0,#ffffff,#75baff
+2555,105,35,DEU,SpVgg Unterhaching,0,#ff0000,#ff0000
+2580,105,35,DEU,SSV Ulm 1846,0,#ffffff,#000000
+2719,84,23,ITA,Cagliari,0,#990000,#242766
+2704,80,23,ITA,Como,0,#09436b,#ffffff
+2701,83,23,ITA,Hellas Verona,0,#071d7e,#ffcc00
+2690,85,23,ITA,Parma,0,#ffffff,#000000
+2737,76457,23,ITA,Pisa,0,#4aa5ff,#000000
+2761,42415,23,ITA,Cremonese,0,#c8091d,#a9a7a7
+2689,85,23,ITA,Lecce,0,#f6ea00,#db2d1f
+2705,85,23,ITA,Empoli,0,#0d5696,#ffffff
+2688,84,23,ITA,Venezia,0,#231f20,#ed7d01
+2729,42415,23,ITA,Monza,0,#d71742,#ffffff
+2801,10596,23,ITA,Frosinone,0,#ffff00,#0033cc
+2710,84,23,ITA,Salernitana,0,#660000,#ffffff
+2735,32523,23,ITA,Spezia,0,#ffffff,#000000
+2759,13768,23,ITA,Benevento,0,#ffff00,#ff0033
+2718,11966,23,ITA,Crotone,0,#000066,#ff0000
+2691,85,23,ITA,Brescia,0,#2388ed,#ffffff
+113755,13768,23,ITA,SPAL,0,#ffffff,#66ccff
+2694,81,23,ITA,ChievoVerona,0,#ffff00,#0000cc
+7935,5145,23,ITA,Pescara,0,#ffffff,#0066cc
+43685,10596,23,ITA,Carpi,0,#ffffff,#ff0000
+2742,2930,23,ITA,Cesena,0,#ffffff,#000000
+2725,98,23,ITA,Catania,0,#3399ff,#990000
+2726,96,23,ITA,US Livorno 1915,0,#68132c,#ffffff
+170650,95,23,ITA,ACR Siena 1904,0,#ffffff,#000000
+2767,3639,23,ITA,Novara,0,#0066cc,#ffffff
+2712,85,23,ITA,Bari,0,#ffffff,#ff0000
+491246,83,23,ITA,Reggina 1914,0,#841230,#ffffff
+2707,97,23,ITA,Ascoli,0,#000000,#ffffff
+2720,96,23,ITA,Messina,0,#ff0000,#000000
+4485,97,23,ITA,Treviso,0,#8bc7fb,#222226
+2698,84,23,ITA,Perugia,0,#ff0000,#ffffff
+2706,80,23,ITA,Modena,0,#ffff00,#000066
+2721,95,23,ITA,Ancona,0,#ff0000,#ffffff
+2700,85,23,ITA,Piacenza,0,#ff0000,#ffffff
+2722,85,23,ITA,L.R. Vicenza,0,#ffffff,#ff0000
+1659,65,34,FRA,RC Strasbourg,0,#00458e,#ffffff
+1684,10373,34,FRA,Angers,0,#000000,#ffffff
+1662,65,34,FRA,Le Havre,0,#3399ff,#3399ff
+1682,4616,34,FRA,Stade de Reims,0,#ffffff,#ff0000
+1651,65,34,FRA,Metz,0,#a2052c,#ffffff
+1656,64,34,FRA,Lorient,0,#ff6600,#000000
+1680,37167,34,FRA,Clermont Foot,0,#cc0000,#000000
+1660,60,34,FRA,Ajaccio,0,#ffffff,#ff0000
+1652,63,34,FRA,Troyes,0,#0000ff,#ffffff
+1663,17279,34,FRA,Nîmes Olympique,0,#cc0000,#ffffff
+1686,3380,34,FRA,Dijon,0,#d71938,#ffffff
+1676,13384,34,FRA,Amiens SC,0,#ffffff,#000000
+1667,58,34,FRA,Caen,0,#003c95,#ec2711
+1675,64,34,FRA,Nancy,0,#ffffff,#ff0000
+1655,65,34,FRA,Bastia,0,#004be8,#004be8
+7924,10373,34,FRA,GFC Ajaccio,0,#cc3300,#330099
+21800,3380,34,FRA,Thonon Evian Grand Genève F.C,0,#ff99ff,#ffffff
+1657,64,34,FRA,Sochaux,0,#ffff00,#000000
+5061,56,34,FRA,Valenciennes,0,#cc0000,#ffffff
+7721,2719,34,FRA,Arles,0,#ffff00,#000000
+1672,59,34,FRA,Le Mans,0,#ff0000,#ffff00
+1711,2120,34,FRA,US Boulogne Côte-d'Opale,0,#000000,#e50000
+1671,1542,34,FRA,Grenoble Foot 38,0,#001a73,#0955c6
+1650,63,34,FRA,CS Sedan,0,#ff0000,#009900
+1674,58,34,FRA,Istres Football Club,0,#9995c8,#000000
+1666,65,34,FRA,Châteauroux,0,#330099,#ff0000
+1755,65,34,FRA,AS Cannes,0,#ae131d,#ffffff
+2979,6267,37,NLD,Go Ahead Eagles,0,#ffcc00,#ff0000
+2962,1711,37,NLD,NEC Nijmegen,0,#ff0000,#008000
+2971,4746,37,NLD,PEC Zwolle,0,#0066cc,#ffffff
+2957,17353,37,NLD,Fortuna Sittard,0,#00674c,#222226
+2960,1711,37,NLD,Sparta Rotterdam,0,#ffffff,#ff0000
+2977,1711,37,NLD,Heracles Almelo,0,#ffffff,#000000
+2947,1711,37,NLD,NAC Breda,0,#ffcc00,#000000
+2961,1711,37,NLD,Willem II Tilburg,0,#ffffff,#0000ff
+2956,2144,37,NLD,RKC Waalwijk,0,#ffff00,#000066
+2990,52554,37,NLD,Almere City FC,0,#620709,#222226
+2967,2745,37,NLD,Excelsior,0,#000000,#ff0000
+2968,1711,37,NLD,FC Volendam,0,#f5762f,#f5762f
+2965,17353,37,NLD,FC Emmen,0,#e8ecf8,#d13a3a
+2970,6267,37,NLD,SC Cambuur,0,#ffff00,#0099ff
+2980,2144,37,NLD,VVV-Venlo,0,#ffff00,#000000
+2966,1711,37,NLD,ADO Den Haag,0,#339900,#ffff00
+2949,1711,37,NLD,De Graafschap,0,#ffffff,#0066ff
+2954,1711,37,NLD,Roda JC Kerkrade,0,#ffff00,#ffff00
+2973,8170,37,NLD,FC Dordrecht,0,#00cc66,#00cc66
+6910,4532,1054,EGY,Al Ahly FC,0,#cc0000,#990000
+337602,69619,357,USA,Inter Miami CF,0,#212322,#f6b5cc
+1963,6143,390,BRA,Palmeiras,0,#339966,#336633
+1958,10189,390,BRA,Botafogo,0,#000000,#ffffff
+22009,69619,357,USA,Seattle Sounders FC,0,#33cc00,#0066ff
+6909,69619,357,NZL,Auckland City,0,#000033,#000033
+3202,1959,384,ARG,Boca Juniors,0,#003399,#ffcc66
+5981,2561,384,BRA,Flamengo,0,#ff0000,#000000
+59628,4532,1054,TUN,Espérance Tunis,0,#ede664,#e04f5b
+274650,69619,357,USA,Los Angeles FC,0,#303030,#c39e69
+3211,1959,384,ARG,River Plate,0,#ffffff,#ff0000
+1932,2561,384,MEX,CF Monterrey,0,#ffffff,#000000
+3145,69619,357,JPN,Urawa Red Diamonds,0,#cc0033,#cc0033
+1961,3181,384,BRA,Fluminense,0,#660000,#006633
+7665,11363,1054,ZAF,Mamelodi Sundowns,0,#ffe000,#008100
+7653,69619,357,KOR,Ulsan HD,0,#0066ff,#0066ff
+37082,69619,357,ARE,Al-Ain,0,#020c7d,#07017e
+36268,11363,1054,MAR,Wydad Casablanca,0,#ff0000,#ff0000
+21895,69619,357,SAU,Al-Hilal,0,#0080ff,#0080ff
+1936,69619,357,MEX,CF Pachuca,0,#ffffff,#008bce
+1954,27593,390,BRA,Cruzeiro,0,#0033cc,#0033cc
+1999,1224,390,BRA,Red Bull Bragantino,0,#363636,#d8d8d6
+1955,1224,390,BRA,Bahia,0,#ffffff,#333399
+1977,5788,384,BRA,Atlético Mineiro,0,#000000,#ffffff
+21982,49058,390,BRA,Mirassol,0,#e8c728,#174c30
+1957,1224,390,BRA,Corinthians,0,#ffffff,#000000
+5926,40560,390,BRA,Grêmio,0,#3399ff,#000033
+2001,1224,390,BRA,Ceará,0,#000000,#ffffff
+1974,2080,390,BRA,Vasco da Gama,0,#ffffff,#000000
+1981,1959,384,BRA,São Paulo,0,#ffffff,#000000
+1968,59015,390,BRA,Santos,0,#ffffff,#ffffff
+1962,3346,390,BRA,Vitória,0,#ff0000,#000000
+1966,13101,390,BRA,Internacional,0,#cc0000,#cc0000
+2020,1224,390,BRA,Fortaleza,0,#0000ff,#ff0000
+1980,1224,390,BRA,Juventude,0,#006600,#ffffff
+1959,2685,390,BRA,Sport Recife,0,#cc0000,#000000
+1967,4480,390,BRA,Athletico,0,#000000,#cc0000
+1984,1224,390,BRA,Criciúma,0,#ffff00,#000000
+7314,2080,390,BRA,Atlético Goianiense,0,#ff0000,#000000
+49202,22932,390,BRA,Cuiabá,0,#ffffff,#006600
+1960,3346,390,BRA,Goiás,0,#006633,#ffffff
+1982,2685,390,BRA,Coritiba,0,#ffffff,#009966
+1973,2685,390,BRA,América Mineiro,0,#056635,#ffffff
+7315,1224,390,BRA,Avaí,0,#0066ff,#ffffff
+21845,6143,390,BRA,Chapecoense,0,#009966,#ffffff
+2010,16184,390,BRA,CSA,0,#043681,#222226
+1965,1224,390,BRA,Paraná Clube,0,#000099,#cc0000
+1969,1224,390,BRA,Ponte Preta,0,#ffffff,#000000
+1985,2080,390,BRA,Figueirense,0,#000000,#ffffff
+1976,7780,390,BRA,Santa Cruz,0,#ff0000,#000000
+1987,4480,390,BRA,Joinville,0,#cc0000,#000000
+21896,2080,390,BRA,Portuguesa,0,#cc0000,#336600
+2011,2685,390,BRA,Náutico,0,#ff3300,#ffffff
+1972,2080,390,BRA,Guarani,0,#006214,#006214
+6956,1224,390,BRA,Grêmio Barueri,0,#ffffff,#000066
+6966,1224,390,BRA,EC Santo André,0,#ffffff,#000080
+7297,2080,390,BRA,Ipatinga,0,#374df5,#374df5
+1759,42224,17015,SWE,Djurgårdens IF,0,#33ccff,#000099
+2929,61648,17015,BEL,Cercle Brugge,0,#006633,#003333
+7691,61648,17015,POL,Jagiellonia Białystok,0,#ffff00,#ff0000
+171626,61648,17015,CYP,Pafos FC,0,#ffffff,#ffffff
+2416,52327,17015,SVN,NK Olimpija Ljubljana,0,#66ff00,#66ff00
+1908,61648,17015,ISL,Víkingur Reykjavík,0,#ff0100,#000000
+5235,61648,17015,BIH,FK Borac Banja Luka,0,#ff0033,#0000cc
+2413,61648,17015,SVN,NK Celje,0,#ffff00,#000000
+2353,42224,17015,SCO,Heart of Midlothian,0,#6a0048,#990066
+2224,61648,17015,CZE,Mladá Boleslav,0,#ffffff,#66ccff
+262228,61648,17015,ARM,FC Noah,0,#212121,#dab1c3
+4921,61648,17015,WAL,The New Saints,0,#ffffff,#41a317
+5184,61648,17015,NIR,Larne FC,0,#ff0000,#ffffff
+167232,61648,17015,MDA,FC Petrocub Hîncesti,0,#002050,#ffffff
+5194,52327,17015,FRO,Klaksvíkar Ítróttarfelag,0,#0077bd,#ffffff
+1901,52327,17015,ISL,Breidablik Kópavogur,0,#00722c,#ffffff
+230417,42224,17015,XKX,KF Ballkani,0,#ff5f00,#000000
+5178,52327,17015,BIH,HŠK Zrinjski Mostar,0,#ffffff,#f43142
+5148,52327,17015,SRB,FK Čukarički,0,#ffffff,#000000
+2355,52327,17015,SCO,Aberdeen,0,#cc0000,#ffffff
+1285,42224,17015,DNK,Silkeborg IF,0,#ff0000,#ff0000
+4871,42224,17015,CZE,1. FC Slovácko,0,#ffffff,#00006c
+258537,42224,17015,UKR,SC Dnipro-1,0,#00003c,#fde00a
+2463,42224,17015,LIE,FC Vaduz,0,#990000,#b70000
+5214,42224,17015,ARM,Pyunik Yerevan,0,#0000ff,#ffffff
+5345,42224,17015,LTU,FK Žalgiris,0,#ffffff,#006600
+67966,37074,17015,ARM,FC Alashkert,0,#ffff00,#ffff00
+3346,37074,17015,EST,Flora Tallinn,0,#008000,#ffffff
+1301,37074,17015,DNK,Randers FC,0,#3399cc,#3399cc
+126304,37074,17015,GIB,Lincoln Red Imps,0,#960103,#222226
+213357,37074,17015,SVN,NŠ Mura,0,#000000,#ffffff
+5172,37074,17015,KAZ,Kairat Almaty,0,#000000,#ffeb3b
+23494,56249,13,COM,Comoros,0,#037a36,#ffffff
+4831,1002,13,MLI,Mali,0,#fefe00,#d63835
+4720,1002,13,ZMB,Zambia,0,#088754,#ff6000
+4719,1002,13,ZWE,Zimbabwe,0,#eade00,#269d2f
+4835,1002,13,TZA,Tanzania,0,#1400c7,#000000
+4726,1002,13,UGA,Uganda,0,#ff0606,#f4f300
+4744,1002,13,BEN,Benin,0,#ffff00,#2d8d65
+4747,1002,13,BWA,Botswana,0,#00a2e8,#ffffff
+4823,1002,13,COD,DR Congo,0,#007fff,#f8181e
+4749,1002,13,BFA,Burkina Faso,0,#008000,#fc0303
+8032,1002,13,GNQ,Equatorial Guinea,0,#ff0033,#ffffff
+4734,1002,13,SDN,Sudan,0,#ff0000,#ffffff
+4761,1002,13,GAB,Gabon,0,#fef101,#0f22ca
+4783,1002,13,MOZ,Mozambique,0,#ff0000,#ffff00
+23478,24680,13,GNB,Guinea-Bissau,0,#ff0000,#116f36
+4753,1002,13,CPV,Cape Verde,0,#21418e,#ff0000
+4826,1002,13,GIN,Guinea,0,#ff0000,#fcf200
+4762,1002,13,GMB,Gambia,0,#be0a0a,#33a650
+4779,1002,13,MRT,Mauritania,0,#008000,#ffdf00
+4832,1002,13,NAM,Namibia,0,#ff0000,#002d5f
+8036,3877,13,ETH,Ethiopia,0,#339900,#ffdd00
+8043,1002,13,MWI,Malawi,0,#ff0000,#5abb5f
+4737,1002,13,SLE,Sierra Leone,0,#7bafde,#1e9d44
+8035,1002,13,MDG,Madagascar,0,#009933,#ff0000
+4750,1002,13,BDI,Burundi,0,#ff0000,#00a04d
+4773,1002,13,KEN,Kenya,0,#ff0000,#1fa369
+8040,1002,13,COG,Congo Republic,0,#ff0000,#ffffff
+8031,1002,13,NER,Niger,0,#ff8000,#1d9641
+4775,1002,13,LBY,Libya,0,#eb0000,#000000
+3206,1959,384,ARG,Estudiantes de La Plata,0,#ff0000,#ffffff
+3161,1959,384,CHL,Universidad de Chile,0,#000099,#000099
+6229,70083,384,VEN,Carabobo,0,#31060f,#222226
+2305,1959,384,PER,Universitario,0,#ffffcc,#ffffcc
+39723,7568,384,ECU,Independiente Del Valle,0,#002945,#e8ac35
+5250,5788,384,ECU,Barcelona SC,0,#fce000,#000000
+5257,1959,384,ECU,LDU,0,#ffffff,#ffffff
+65676,70083,384,ARG,Central Córdoba,0,#ffffff,#000000
+6231,1959,384,VEN,Deportivo Táchira,0,#ffff00,#000000
+5996,1959,384,PRY,Libertad,0,#ffffff,#000000
+2311,2561,384,PER,Alianza Lima,0,#091d47,#ffffff
+3210,40174,384,ARG,Talleres,0,#050040,#ffffff
+3215,9691,384,ARG,Racing Club,0,#00ccff,#ffffff
+6103,70083,384,COL,Atlético Bucaramanga,0,#f9ec00,#f9ec00
+3155,1959,384,CHL,Colo Colo,0,#ffffff,#ffffff
+6106,4122,384,COL,Atlético Nacional,0,#339933,#ffffff
+3230,1959,384,URY,Nacional,0,#ffffff,#0033ff
+5991,2561,384,PRY,Cerro Porteño,0,#cc0000,#003366
+7059,2561,384,BOL,Bolívar,0,#33ccff,#330066
+2302,5788,384,PER,Club Sporting Cristal,0,#33ccff,#ffffff
+3208,2561,384,ARG,Vélez Sarsfield,0,#ffffff,#003366
+3227,3181,384,URY,Peñarol,0,#000000,#ffc400
+396625,70083,384,BOL,San Antonio Bulo-Bulo,0,#374df5,#374df5
+5997,4122,384,PRY,Olimpia,0,#ffffff,#000000
+3167,11155,384,CHL,Cobresal,0,#ffffff,#ff9900
+32529,4122,384,BOL,The Strongest,0,#ffcc00,#000000
+3164,5788,384,CHL,Huachipato,0,#000066,#000000
+6105,3181,384,COL,Junior Barranquilla,0,#cc0000,#ffffff
+3157,9691,384,CHL,Palestino,0,#ffffff,#000000
+6117,5788,384,COL,Millonarios,0,#0000cc,#0000cc
+3201,1959,384,ARG,San Lorenzo,0,#ff0000,#000033
+6879,47974,384,URY,Liverpool UY,0,#082543,#1e1e1e
+3217,11155,384,ARG,Rosario Central,0,#000066,#ffcc00
+6230,1959,384,VEN,Caracas F.C.,0,#cc0000,#ffffff
+7029,47974,384,CHL,Ñublense,0,#ff0000,#000000
+5249,47974,384,ECU,Aucas,0,#d4252a,#ffdd00
+6115,1959,384,COL,Independiente Medellín,0,#ffffff,#000000
+162480,47974,384,VEN,Metropolitanos,0,#380e56,#cb1158
+3216,3181,384,ARG,Argentinos Juniors,0,#cc0000,#ffffff
+6109,47974,384,COL,Deportivo Pereira,0,#d00000,#222226
+6233,15806,384,VEN,Monagas,0,#000066,#000000
+43741,47974,384,ARG,Patronato,0,#000000,#ff0000
+2308,11155,384,PER,Melgar,0,#000000,#ff0000
+5255,2561,384,ECU,Emelec,0,#0000cc,#333399
+372975,40174,384,BOL,Independiente Petrolero,0,#fc0601,#ffffff
+6111,3181,384,COL,Deportes Tolima,0,#cc3366,#ffff00
+6112,7568,384,COL,Deportivo Cali,0,#006600,#ffffff
+268083,35576,384,BOL,Club Always Ready,0,#ffffff,#cc252b
+3207,40174,384,ARG,Club Atletico Colón,0,#000000,#cc0000
+3151,2561,384,CHL,Universidad Católica,0,#ffffff,#ffffff
+36839,26785,384,ARG,Defensa y Justicia,0,#ffff00,#339900
+6116,5788,384,COL,Independiente Santa Fe,0,#ffffff,#ff0033
+35189,35576,384,URY,Rentistas,0,#ff0000,#ffffff
+48242,35576,384,CHL,Unión La Calera,0,#ff0000,#ff0000
+6102,1959,384,COL,América de Cali,0,#ff0000,#ff0000
+36437,35576,384,VEN,Deportivo La Guaira,0,#ff6521,#056ff6
+5994,1959,384,PRY,Guaraní,0,#000000,#ffff33
+7628,5788,384,ARG,Tigre,0,#000099,#ff0000
+7878,3181,384,BOL,Jorge Wilstermann,0,#ffffff,#000033
+275839,26785,384,PER,Deportivo Binacional,0,#215fba,#feffff
+7745,26785,384,VEN,Estudiantes de Mérida,0,#000077,#ff0000
+213638,15806,384,ECU,Delfín,0,#004597,#ffc414
+7746,5788,384,VEN,Deportivo Lara,0,#990000,#000000
+7629,9691,384,ARG,Huracán,0,#ffffff,#dd0000
+6074,3181,384,ARG,Godoy Cruz,0,#002593,#ffffff
+5034,19989,384,CHL,Universidad de Concepción,0,#ffff00,#001a57
+505268,5788,384,BOL,GV San José,0,#1f1aaf,#ffffff
+6237,4122,384,VEN,Zamora,0,#ffffff,#000000
+3229,1959,384,URY,Defensor Sporting,0,#9933ff,#ffffff
+36833,12772,384,ARG,Atlético Tucumán,0,#ffffff,#33ccff
+63760,5788,384,PER,Cusco FC,0,#00ffff,#33ffff
+3209,3181,384,ARG,CA Independiente,0,#cc0000,#cc0000
+103267,12772,384,BOL,Sport Boys Warnes,0,#09206e,#222226
+3218,1959,384,ARG,Lanús,0,#660033,#ffffff
+24138,12772,384,VEN,Zulia FC,0,#006699,#222226
+33596,5788,384,CHL,Deportes Iquique,0,#66ccff,#999900
+6235,11155,384,VEN,Trujillanos FC,0,#ffff00,#ffff00
+3237,11155,384,URY,River Plate UY,0,#620202,#ffffff
+1931,5788,384,MEX,CD Toluca,0,#d50101,#202b15
+1933,11155,384,MEX,Pumas UNAM,0,#d2b651,#000033
+1949,9691,384,MEX,Atlas FC,0,#e70b17,#000000
+3228,9691,384,URY,Danubio,0,#ffffff,#000000
+33713,1959,384,BOL,Club Deportivo Universitario S.F.X.CH.,0,#ff0000,#000000
+6232,9691,384,VEN,Mineros de Guayana,0,#333366,#000000
+3240,9691,384,URY,Montevideo Wanderers,0,#ffffff,#000000
+1940,9691,384,MEX,Tigres UANL,0,#ffcc00,#0080ff
+2303,2561,384,PER,Juan Aurich,0,#ff0000,#ff0000
+3153,3181,384,CHL,Unión Española,0,#ff0000,#ffff00
+3163,7568,384,CHL,O'Higgins,0,#00ccff,#00ccff
+33001,1959,384,PRY,Nacional Asunción,0,#ffffff,#ffffff
+3212,5788,384,ARG,Newell's Old Boys,0,#ff0000,#000000
+36534,7568,384,MEX,Club León,0,#008040,#66cc33
+1948,7568,384,MEX,Santos Laguna,0,#ffffff,#00c6c6
+3221,4122,384,ARG,Arsenal de Sarandí,0,#00ccff,#ff0000
+7742,7568,384,VEN,Deportivo Anzoátegui,0,#cc0000,#cccc00
+36525,5788,384,MEX,Club Tijuana,0,#ff0000,#ffffff
+1947,4122,384,MEX,Cruz Azul,0,#0080c0,#ffffff
+5253,1959,384,ECU,Sociedad Deportivo Quito,0,#090d1d,#ce3131
+1938,1959,384,MEX,CD Guadalajara,0,#bb0000,#ffffff
+6118,2561,384,COL,Once Caldas,0,#ffffff,#ffffff
+5282,1959,384,PER,Deportivo USMP,0,#ffffff,#000033
+1953,1959,384,MEX,Jaguares F.C.,0,#008040,#000000
+33820,3181,384,BOL,Oriente Petrolero,0,#009900,#ffffff
+40015,3181,384,PER,León de Huánuco,0,#ffffcc,#ff0000
+1939,3181,384,MEX,Club América,0,#ffff99,#000000
+1951,3181,384,MEX,Querétaro FC,0,#0058b0,#000000
+25010,2561,384,URY,Racing de Montevideo,0,#339900,#ffffff
+6968,2561,384,BOL,Blooming,0,#0099ff,#ff0000
+22011,2561,384,URY,Cerro,0,#6ab5ff,#ffffff
+3219,2561,384,ARG,Banfield,0,#009900,#ffffff
+1946,2561,384,MEX,Mazatlán FC,0,#523278,#83dfec
+5251,1959,384,ECU,Deportivo Cuenca,0,#990000,#ffff00
+7743,2561,384,VEN,Deportivo Petare FC,0,#6600cc,#6600cc
+5032,1959,384,CHL,Everton de Viña del Mar,0,#000088,#ffff00
+6107,1959,384,COL,Boyacá Chicó FC,0,#ffffff,#99ff99
+33714,1959,384,BOL,Club Aurora,0,#33ccff,#66ccff
+380833,36417,436,FRA,France U23,0,#01509e,#e30613
+24260,1394,436,USA,USA U23,0,#ffffff,#ff0000
+24256,1394,436,NZL,New Zealand U23,0,#ffffff,#000000
+221744,59243,436,GIN,Guinea U23,0,#ff0000,#fcf200
+49072,4526,436,MAR,Morocco U23,0,#ff0000,#006600
+24246,1394,436,ARG,Argentina U23,0,#66ccff,#ffffff
+511268,59243,436,UKR,Ukraine U23,0,#ffcc00,#0033ff
+217898,11442,436,IRQ,Iraq U23,0,#ffffff,#108f5b
+69224,4526,436,EGY,Egypt U23,0,#f00000,#ffffff
+69238,4526,436,ESP,Spain U23,0,#cc0000,#ffffff
+377840,59243,436,DOM,Dominican Republic U23,0,#ffffff,#0000ff
+49109,59243,436,UZB,Uzbekistan U23,0,#0080ff,#ffffff
+24254,1394,436,JPN,Japan U23,0,#000080,#ed1b24
+198661,59243,436,PRY,Paraguay U23,0,#ff0000,#045ca3
+208334,59243,436,MLI,Mali U23,0,#fefe00,#d63835
+511266,59243,436,ISR,Israel U23,0,#7bafde,#ffffff
+69230,4526,436,MEX,Mexico Olympic Team,0,#1a4d3e,#960000
+217900,11442,436,ZAF,South Africa Olympic Team,0,#ffd800,#008040
+66616,1394,436,KOR,South Korea Olympic Team,0,#ff0000,#0000ff
+380832,36417,436,ROU,Romania Olympic Team,0,#f7bd00,#ff0000
+24251,1394,436,HND,Honduras Olympic Team,0,#ffffff,#4579a8
+24247,1394,436,AUS,Australia Olympic Team,0,#ffcc00,#2d324b
+332421,1394,436,BRA,Brazil U23,0,#ffff00,#009933
+24253,1394,436,CIV,Côte d'Ivoire Olympic Team,0,#f77f00,#009e60
+217888,11442,436,DEU,Germany Olympic Team,0,#ffffff,#000000
+379208,36417,436,SAU,Saudi Arabia Olympic Team,0,#ffffff,#008000
+217899,11442,436,DNK,Denmark Olympic Team,0,#cc0000,#ffffff
+24257,1394,436,NGA,Nigeria Olympic Team,0,#39b54a,#ffffff
+217892,11442,436,COL,Colombia Olympic Team,0,#ffd808,#000066
+217891,11442,436,SWE,Sweden Olympic Team,0,#ffcc00,#0000ff
+217889,11442,436,FJI,Fiji Olympic Team,0,#ffffff,#3366ff
+217890,11442,436,PRT,Portugal Olympic Team,0,#cc0000,#66cc66
+217901,11442,436,DZA,Algeria Olympic Team,0,#ffffff,#23bc55
+69228,4526,436,GBR,Great Britain Olympic Team,0,#000066,#cc0000
+69236,4526,436,SEN,Senegal Olympic Team,0,#ffffff,#047151
+69244,4526,436,URY,Uruguay U23,0,#7eacfe,#000000
+69242,4526,436,ARE,United Arab Emirates Olympic Team U23,0,#ff0000,#00732f
+69226,4526,436,GAB,Gabon Olympic Team,0,#fef101,#0f22ca
+69240,4526,436,CHE,Switzerland Olympic Team,0,#ff0000,#ffffff
+69222,4526,436,BLR,Belarus Olympic Team,0,#ffffff,#fe0503
+24258,1394,436,SRB,Serbia Olympic Team,0,#ff0033,#ffffff
+24255,1394,436,NLD,Netherlands Olympic Team,0,#ff6600,#281fe0
+24248,1394,436,BEL,Belgium Olympic Team,0,#ff0033,#000000
+8093,1394,436,CHN,China Olympic Team,0,#ff0000,#fff100
+24252,1394,436,ITA,Italy Olympic Team,0,#0066ff,#ffffff
+24250,1394,436,CMR,Cameroon Olympic Team,0,#006633,#d01124
+69322,7596,1054,SDN,Al-Hilal Omdurman,0,#0000ff,#ffffff
+42204,16303,1054,DZA,MC Alger,0,#128541,#c70036
+134320,53661,1054,TZA,Young Africans Sport Club,0,#ffff00,#009900
+38873,4532,1054,COD,Tout Puissant Mazembe,0,#ffffff,#000000
+24394,64021,1054,MAR,AS FAR Rabat,0,#000000,#008040
+41757,24785,1054,MAR,Raja Club Athletic,0,#009966,#ffffff
+281329,64021,1054,COD,Maniema Union,0,#00cc00,#000000
+7668,6093,1054,ZAF,Orlando Pirates,0,#000000,#ed0000
+42207,34871,1054,DZA,CR Belouizdad,0,#ffffff,#000000
+42361,64021,1054,CIV,Stade d'Abidjan,0,#374df5,#374df5
+175002,53661,1054,EGY,Pyramids FC,0,#09a1d8,#010353
+195746,38336,1054,AGO,Sagrada Esperança,0,#e3ff00,#000000
+69324,64021,1054,MLI,Djoliba AC,0,#ff0000,#008000
+134304,53661,1054,MRT,FC Nouadhibou,0,#ff7629,#133c8e
+42360,11363,1054,CIV,ASEC Mimosas,0,#ffdf00,#000000
+212409,19809,1054,TZA,Simba SC,0,#ff0000,#ffffff
+297712,38336,1054,BWA,Jwaneng Galaxy FC,0,#ff0000,#ffffff
+148072,24785,1054,AGO,Atlético Petróleos de Luanda,0,#fff58c,#0000ff
+35188,12962,1054,TUN,Etoile Sportive Du Sahel,0,#ff0000,#ff0000
+81951,53661,1054,GHA,Medeama,0,#0000ff,#f7d12b
+42202,24785,1054,DZA,JS Kabylie,0,#ffff00,#139400
+134278,7596,1054,COD,AS Vita Club,0,#40c050,#000000
+42575,6093,1054,CMR,Coton Sport de Garoua,0,#008633,#ffffff
+134322,16303,1054,GIN,Horoya,0,#e31b23,#777777
+203350,44968,1054,UGA,Vipers SC,0,#ff0000,#000000
+42368,4532,1054,EGY,Zamalek SC,0,#ffffff,#ffffff
+69320,9654,1054,SDN,Al-Merrikh,0,#bd293b,#ffff00
+41756,7596,1054,DZA,ES Sétif,0,#363636,#222226
+7655,38336,1054,ZAF,AmaZulu FC,0,#228b22,#ffffff
+7663,34871,1054,ZAF,Kaizer Chiefs,0,#ffcd00,#000000
+236723,34871,1054,SEN,Teungueth,0,#ffffff,#0064c4
+134318,16303,1054,AGO,Primeiro de Agosto,0,#ec0000,#100001
+191184,11363,1054,ZMB,ZESCO United,0,#ffffff,#008000
+277304,19809,1054,ZWE,FC Platinum,0,#0c5735,#d1e188
+42206,9654,1054,DZA,USM Alger,0,#000000,#ff0000
+190731,19809,1054,NGA,Lobi Stars,0,#ffff00,#0000ff
+55393,19809,1054,DZA,CS Constantine,0,#066000,#000000
+39618,19809,1054,TUN,Club Africain,0,#ff0000,#ffffff
+42366,19809,1054,EGY,Ismaily,0,#ffc703,#37507b
+79565,19809,1054,DZA,JS Saoura,0,#fffc00,#00cd00
+134274,16303,1054,UGA,Kampala City,0,#fae144,#0213e5
+277010,16303,1054,BWA,Township Rollers FC,0,#fab416,#18488a
+55043,16303,1054,MAR,Difaâ Hassani El-Jadidi,0,#287b50,#ffffff
+278160,16303,1054,0,AS Togo-Port,0,#057ab9,#ffffff
+134330,16303,1054,SWZ,Mbabane Swallows,0,#123686,#ff0000
+246841,12962,1054,MOZ,Ferroviário da Beira,0,#ffffff,#008000
+189124,12962,1054,LBY,Al Ahli Tripoli,0,#006600,#ffffff
+246937,12962,1054,ZWE,CAPS United,0,#217a64,#fdfdfb
+94787,12962,1054,ETH,Saint George,0,#ffff00,#ffff00
+191878,12962,1054,ZMB,Zanaco,0,#000000,#ff0000
+42371,11363,1054,NGA,Enyimba,0,#205ed0,#222226
+55049,9654,1054,MAR,Moghreb Atlético Tetuán,0,#ffffff,#000000
+43563,9654,1054,EGY,Smouha,0,#020fc7,#ffffff
+44999,9654,1054,DZA,MC El Eulma,0,#00a651,#ffffff
+44463,7596,1054,TUN,CS Sfaxien,0,#ffffff,#000000
+134270,7596,1054,LBY,Al Ahly Benghazi,0,#cc281c,#ffffff
+90928,6093,1054,COG,AC Léopards de Dolisie,0,#00ac00,#009f00
+84055,6093,1054,CIV,Séwé FC,0,#374df5,#374df5
+94785,6093,1054,AGO,Recreativo do Libolo,0,#6495ed,#000080
+42584,4532,1054,NGA,Sunshine Stars,0,#ff5f00,#0000ff
+42201,4532,1054,DZA,ASO Chlef,0,#ffffff,#ff0f0f
+42611,4532,1054,GHA,Berekum Chelsea,0,#034694,#ffffff
+8042,1002,13,DJI,Djibouti,0,#6ab1e7,#0d0c0c
+88508,56249,13,SSD,South Sudan,0,#ed1c24,#ffffff
+8037,1002,13,RWA,Rwanda,0,#f4f400,#00b000
+8033,1002,13,LSO,Lesotho,0,#0000ff,#008000
+4780,1002,13,MUS,Mauritius,0,#e32219,#ffffff
+4733,1002,13,SWZ,Eswatini,0,#3f48cc,#ffd540
+8038,1002,13,SYC,Seychelles,0,#ff0000,#ffffff
+23472,56249,13,SOM,Somalia,0,#75aadb,#ffffff
+8034,1002,13,LBR,Liberia,0,#3333ff,#ff0000
+33813,56249,13,STP,São Tomé and Príncipe,0,#ffff00,#008000
+23470,3877,13,CAF,Central African Republic,0,#0000e0,#ffffff
+8039,1002,13,TCD,Chad,0,#0000ff,#ffff00
+23488,3319,308,TJK,Tajikistan,0,#ff0000,#ffffff
+4774,1000,308,LBN,Lebanon,0,#ff0000,#ffffff
+4723,1520,308,UZB,Uzbekistan,0,#0080ff,#ffffff
+4731,1000,308,SYR,Syria,0,#ff0000,#ffffff
+4828,10187,308,IND,India,0,#00b8ff,#ff4500
+4788,10187,308,PSE,Palestine,0,#ff0000,#ffffff
+4765,10187,308,HKG,Hong Kong,0,#ff0000,#ffffff
+4829,3319,308,IDN,Indonesia,0,#ce1126,#ce1126
+7050,10187,308,VNM,Vietnam,0,#ff0000,#ffff00
+5161,1520,308,BHR,Bahrain,0,#ff0000,#ffffff
+4771,1000,308,JOR,Jordan,0,#ffffff,#ff0000
+6912,10187,308,MYS,Malaysia,0,#000000,#ffff00
+4730,1000,308,THA,Thailand,0,#241d4f,#ed1c24
+4787,1000,308,OMN,Oman,0,#ff0000,#ffffff
+7930,10187,308,KGZ,Kyrgyzstan,0,#ff0000,#ffffff
+4791,10187,308,PHL,Philippines,0,#ffffff,#0000ff
+4721,10187,308,YEM,Yemen,0,#ff0000,#ffffff
+4728,1000,308,TKM,Turkmenistan,0,#2ba82c,#a0001e
+135514,40560,390,BRA,Novorizontino,0,#b4982d,#1d2329
+2012,36162,390,BRA,Remo,0,#182748,#222226
+22032,1224,390,BRA,CRB,0,#f20000,#f20000
+2021,1224,390,BRA,Vila Nova FC,0,#ff0000,#ffffff
+35285,72603,390,BRA,Ferroviária,0,#9c271a,#ffffff
+39634,22932,390,BRA,Operário-PR,0,#ffffff,#000000
+6982,72603,390,BRA,Volta Redonda,0,#f3df67,#000000
+1979,22932,390,BRA,Botafogo-SP,0,#ffffff,#ff0000
+336664,59015,390,BRA,Amazonas FC,0,#fec900,#000000
+1997,6143,390,BRA,Paysandu SC,0,#ffffff,#3333ff
+342775,72603,390,BRA,Athletic Club,0,#222220,#ffffff
+2025,40560,390,BRA,Ituano,0,#c1394e,#181d25
+21884,36162,390,BRA,Brusque,0,#dd421a,#048a4a
+2005,7780,390,BRA,Sampaio Corrêa,0,#008000,#ff0000
+87202,40560,390,BRA,Tombense,0,#ffffff,#ff0000
+2022,11430,390,BRA,Londrina,0,#77bbff,#ffffff
+21838,1224,390,BRA,ABC,0,#f6f4fa,#f6f4fa
+2017,27593,390,BRA,Confiança,0,#004da5,#222226
+1986,11430,390,BRA,Grêmio Esportivo Brasil,0,#ff0000,#ff0000
+32779,6143,390,BRA,Oeste,0,#ff0000,#000000
+6967,16184,390,BRA,EC São Bento,0,#304593,#6bbef7
+21854,3346,390,BRA,Boa Esporte,0,#ff0000,#005000
+40161,7780,390,BRA,Luverdense,0,#ffffff,#024c29
+22428,11430,390,BRA,Tupi,0,#848484,#000000
+21977,10189,390,BRA,Macaé,0,#3a6c95,#222226
+32781,10189,390,BRA,Mogi Mirim,0,#ff0000,#ffffff
+2023,1224,390,BRA,América-RN,0,#c80002,#222226
+21851,2685,390,BRA,Icasa,0,#008100,#ffffff
+6957,2685,390,BRA,Guaratinguetá,0,#374df5,#374df5
+1964,1224,390,BRA,São Caetano,0,#003399,#ff0033
+2019,2685,390,BRA,ASA,0,#272324,#222226
+22424,3346,390,BRA,Salgueiro,0,#8cd9b3,#222226
+21959,2080,390,BRA,Duque de Caxias,0,#374df5,#374df5
+2024,1224,390,BRA,Brasiliense,0,#ffcb00,#ffeca1
+34010,2080,390,BRA,Campinense,0,#ff3232,#222226
+6961,1224,390,BRA,Marília,0,#78bcff,#ffffff
+1978,1224,390,BRA,Gama,0,#009247,#ffffff
+38103,9602,290,CHE,Switzerland,0,#ff0000,#ffffff
+7422,1396,437,NOR,Norway,0,#ef2b2d,#001f5b
+7419,1396,437,NZL,New Zealand,0,#ffffff,#000000
+195588,46930,290,PHL,Philippines,0,#ffffff,#0000ff
+7410,11443,437,AUS,Australia,0,#ffcc00,#2d324b
+7420,1396,437,NGA,Nigeria,0,#39b54a,#ffffff
+7412,1396,437,CAN,Canada,0,#ff0000,#ffffff
+22028,46930,290,IRL,Ireland,0,#139442,#ffffff
+7418,1396,437,JPN,Japan,0,#000080,#ed1b24
+37371,59242,437,ESP,Spain,0,#cc0000,#ffffff
+288601,36542,437,ZMB,Zambia,0,#088754,#ff6000
+132928,9602,290,CRI,Costa Rica,0,#ed1c24,#2366b3
+7415,3144,290,ENG,England,0,#ffffff,#cc0000
+7414,46930,290,DNK,Denmark,0,#cc0000,#ffffff
+7413,1396,437,CHN,China,0,#ff0000,#fff100
+178948,46930,290,HTI,Haiti,0,#3b5aa3,#be0027
+32484,36542,437,NLD,Netherlands,0,#ff6600,#281fe0
+7424,1396,437,USA,USA,0,#ffffff,#ff0000
+22027,46930,290,PRT,Portugal,0,#cc0000,#66cc66
+132958,46930,290,VNM,Vietnam,0,#ff0000,#ffff00
+32485,4528,437,FRA,France,0,#01509e,#e30613
+178950,19902,290,JAM,Jamaica,0,#ffff00,#33a64f
+7411,1396,437,BRA,Brazil,0,#ffff00,#009933
+132954,46930,290,PAN,Panama,0,#cc0000,#005293
+7423,1396,437,SWE,Sweden,0,#ffcc00,#0000ff
+65336,4528,437,ZAF,South Africa,0,#ffd800,#008040
+22025,19902,290,ITA,Italy,0,#0066ff,#ffffff
+7409,1396,437,ARG,Argentina,0,#66ccff,#ffffff
+46631,4528,437,COL,Colombia,0,#ffd808,#000066
+261908,46930,290,MAR,Morocco,0,#ff0000,#006600
+23992,1396,437,DEU,Germany,0,#ffffff,#000000
+21922,9602,290,KOR,South Korea,0,#ff0000,#0000ff
+37372,19902,290,SCO,Scotland,0,#00005e,#ffffff
+69218,4528,437,CMR,Cameroon,0,#006633,#d01124
+49281,36542,437,CHL,Chile,0,#ff0000,#3300cc
+75029,9602,290,THA,Thailand,0,#241d4f,#ed1c24
+186328,9602,290,CIV,Côte d'Ivoire,0,#f77f00,#009e60
+182526,9602,290,ECU,Ecuador,0,#ffff00,#000063
+35317,3144,290,MEX,Mexico,0,#1a4d3e,#960000
+7421,1396,437,PRK,North Korea,0,#ff0000,#ff0000
+46632,3144,290,GNQ,Equatorial Guinea,0,#ff0033,#ffffff
+4689,10187,308,AFG,Afghanistan,0,#ff0000,#313131
+23484,10187,308,MMR,Myanmar,0,#ff0000,#fbed26
+4738,1000,308,SGP,Singapore,0,#ff0000,#ffffff
+5937,10187,308,TWN,Chinese Taipei,0,#0000ff,#ffffff
+6081,53508,308,PAK,Pakistan,0,#007f4b,#ffffff
+23489,23606,308,NPL,Nepal,0,#ff2600,#2e56c8
+6080,10187,308,BGD,Bangladesh,0,#10a230,#ff0000
+6911,10187,308,MDV,Maldives,0,#ed1b24,#009849
+23493,10187,308,GUM,Guam,0,#000049,#800000
+7929,10187,308,KHM,Cambodia,0,#090148,#ef0e12
+23496,23606,308,MNG,Mongolia,0,#ff0000,#ffffff
+23487,23606,308,LKA,Sri Lanka,0,#ffc90e,#880015
+23497,10187,308,TLS,East Timor,0,#be0505,#f4d934
+191564,10187,308,BTN,Bhutan,0,#ff4e12,#ffffff
+23486,10187,308,LAO,Laos,0,#dc1400,#081064
+69220,4528,437,GBR,Great Britain,0,#000066,#cc0000
+217902,11443,437,ZWE,Zimbabwe,0,#eade00,#269d2f
+4745,29436,14,BMU,Bermuda,0,#ff0000,#0000ff
+4824,1154,14,CUB,Cuba,0,#ed1c24,#ffffff
+21811,29436,14,CYM,Cayman Islands,0,#ff0000,#000081
+21805,29436,14,ATG,Antigua and Barbuda,0,#feeb01,#e60000
+21814,29436,14,GRD,Grenada,0,#0d813c,#fff200
+21819,29436,14,KNA,Saint Kitts and Nevis,0,#ff0000,#008000
+21807,29436,14,BHS,Bahamas,0,#f3ba12,#53c9fb
+55827,29436,14,CUW,Curaçao,0,#004990,#000fff
+21820,29436,14,LCA,Saint Lucia,0,#0093d6,#ffe600
+21806,29436,14,ABW,Aruba,0,#ffd600,#5aa4d3
+21808,29436,14,BRB,Barbados,0,#ffd700,#0000a0
+21817,29436,14,NIC,Nicaragua,0,#333ebd,#ffffff
+22113,29436,14,GUY,Guyana,0,#359336,#fff200
+21815,29436,14,MSR,Montserrat,0,#008800,#ffffff
+21809,29436,14,BLZ,Belize,0,#2366b3,#e2001a
+5163,1154,14,GTM,Guatemala,0,#9ecde7,#ffffff
+21813,29436,14,DOM,Dominican Republic,0,#ffffff,#0000ff
+21812,29436,14,DMA,Dominica,0,#22b14c,#e5232b
+21810,29436,14,VGB,British Virgin Islands,0,#064600,#fef300
+21822,1154,14,SUR,Suriname,0,#ff0000,#008000
+21818,29436,14,PRI,Puerto Rico,0,#ff0000,#0920f0
+21821,10191,14,VCT,Saint Vincent and the Grenadines,0,#ffff00,#008000
+21804,29436,14,AIA,Anguilla,0,#ff6600,#262cf9
+21803,29436,14,VIR,US Virgin Islands,0,#0000ff,#fff200
+21823,29436,14,TCA,Turks and Caicos Islands,0,#0000ff,#ffffff
+8045,1001,309,NCL,New Caledonia,0,#9d9fa2,#ed1c24
+8044,1001,309,FJI,Fiji,0,#ffffff,#3366ff
+23471,4054,309,SLB,Solomon Islands,0,#003300,#fffb3d
+23495,4054,309,PNG,Papua New Guinea,0,#ed1c24,#000000
+23477,4054,309,PYF,Tahiti,0,#ff0000,#ffffff
+8046,1001,309,VUT,Vanuatu,0,#cea62f,#3d9e3d
+23473,4054,309,WSM,Samoa,0,#0021ff,#ffffff
+23476,4054,309,ASM,American Samoa,0,#0000ff,#ffffff
+23475,4054,309,COK,Cook Islands,0,#008040,#ffffff
+23474,4054,309,TON,Tonga,0,#ff0000,#ffffff
