@@ -51,7 +51,8 @@ for comp_id in dicionario_torneios.keys():
         dicionario_seasons[id_season] = data_season
 
 #BUSCANDO TIMES VIA API
-erros = []
+erros = {}
+teams = {}
 for comp_id in tqdm(dicionario_torneios.keys()):
 
     filter_dic = {
@@ -64,7 +65,29 @@ for comp_id in tqdm(dicionario_torneios.keys()):
         js = json.loads(driver.find_element(By.XPATH, "/html/body/pre").text)
         try:
             for item in js['standings']:
-                teams = item['rows']
-                len(teams)
-        except:
-            erros.append(comp_id)
+                teams_season = item['rows']
+                try:
+                    for team in teams_season:
+                        team_info = team['team']
+                        id_team = team_info.get('id',0)
+                        dados_team = {
+                            "id_season" : id_season,
+                            "id_comp" : comp_id,
+                            "country" : team_info.get('country', 0).get('alpha3', 0),
+                            "name" : team_info.get('name',0),
+                            "short_name" : team_info.get('short_name', 0),
+                            "color_primary" : team_info.get('teamColors',0).get('primary',0),
+                            "color_secondary" : team_info.get('teamColors',0).get('secondary',0)
+                        }
+                        teams[id_team] = dados_team
+                except Exception as e:
+                    print(f'Erro ao extrair informações do time | {e}')
+                    pass
+        except Exception as e:
+            erros[comp_id] = {id_season : e}
+
+df_teams = pd.DataFrame.from_dict(teams, orient='index')
+df_teams.to_csv('./output/Teams.csv')
+
+df_erros = pd.DataFrame.from_dict(erros, orient='index')
+df_erros.to_csv('./output/erros.csv')
