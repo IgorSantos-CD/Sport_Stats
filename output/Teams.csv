@@ -1,4 +1,4 @@
-,id_season,id_comp,country,name,short_name,color_primary,color_secondary
+id,id_season,id_competition,country_alpha,name,short_name,primary_color,secondary_color
 4711,1152,11,DEU,Germany,0,#ffffff,#000000
 4699,25,11,CHE,Switzerland,0,#ff0000,#ffffff
 4709,25,11,HUN,Hungary,0,#c61e29,#ffffff

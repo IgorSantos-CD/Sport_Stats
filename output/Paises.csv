@@ -1,285 +1,285 @@
-Pais,Id
-Virtual Leagues,1156
-Yugoslavia_NOT_IN_USE,1157
-Zanzibar,1159
-Electronic Leagues,1453
-Crimea,1483
-Northern Cyprus,1495
-England Amateur,252
-England,1
-Germany Amateur,122
-Hong Kong,339
-Morocco,303
-Netherlands,35
-Northern Ireland,1893
-Norway,5
-Oman,415
-Peru,20
-Poland,47
-Portugal,44
-Wales,131
-Bosnia & Herzegovina,158
-Estonia,1894
-Faroe Islands,201
-Germany,30
-Montenegro,386
-New Zealand,148
-Pakistan,755
-Panama,526
-Paraguay,1899
-Philippines,847
-Senegal,886
-Serbia,152
-Uruguay,57
-Uzbekistan,385
-Venezuela,281
-Vietnam,1904
-Yemen,440
-Finland,19
-France,7
-Georgia,1892
-Ghana,542
-Gibraltar,938
-Greece,67
-Grenada,1619
-Guatemala,365
-Honduras,437
-Hungary,11
-Iceland,1898
-India,352
-Indonesia,368
-Ireland,51
-Israel,66
-Italy,31
-Jamaica,502
-Japan,52
-Jordan,329
-Kazakhstan,1911
-Kenya,1896
-Latvia,1906
-Lebanon,1901
-Liechtenstein,512
-Lithuania,160
-Luxembourg,197
-Malaysia,85
-Malta,134
-Mexico,12
-Moldova,279
-North Macedonia,159
-Kosovo,1112
-Macao,1118
-Timor-Leste,1834
-North Korea,1133
-Palestine,1134
-China,1891
-Equatorial Guinea,960
-Nigeria,1132
-Myanmar,1908
-Nicaragua,1130
-St Lucia,1637
-Mauritius,1124
-Mozambique,1125
-Sao Tome and Principe,1139
-Sierra Leone,1913
-Solomon Islands,1142
-Tajikistan,1905
-Trinidad and Tobago,1153
-Zimbabwe,1160
-Mexico Amateur,1704
-Mongolia,1459
-Montenegro Amateur,1631
-Morocco Amateur,1641
-Namibia,1127
-Nepal,1128
-Netherlands Amateur,1587
-Norway Amateur,94
-Papua New Guinea,1135
-Poland Amateur,1621
-Portugal Amateur,1583
-Romania Amateur,1599
-Rwanda,1021
-Samoa,1138
-Serbia Amateur,1579
-Slovenia Amateur,1623
-Suriname,1147
-Switzerland Amateur,1693
-Northern Mariana Islands,1819
-Qatar,353
-Russia Amateur,1615
-Saint Kitts and Nevis,1493
-Saint Vincent and the Grenadines,1709
-Scotland Amateur,1697
-Tonga,1815
-Comoros,1098
-Turks and Caicos Islands,1793
-US Virgin Islands,1804
-Uruguay Amateur,1786
-Vanuatu,1155
-Côte d'Ivoire,390
-Turkey,46
-Chile,49
-Chile Amateur,1687
-Chinese Taipei,1097
-Colombia,1912
-Congo Republic,1137
-Cook Islands,1795
-Costa Rica,289
-Croatia,14
-Denmark,8
-Denmark Amateur,95
-Djibouti,1100
-Dominican Republic,1457
-Ecuador,165
-Ecuador Amateur,1811
-Egypt,1890
-El Salvador,367
-Puerto Rico,1136
-Romania,77
-South Africa,1914
-South Korea,1902
-South Sudan,1144
-Spain,32
-Spain Amateur,421
-Sri Lanka,1145
-Sudan,1146
-Sweden,9
-Switzerland,25
-Syria,380
-Tanzania,1895
-Afghanistan,1084
-Albania,257
-Algeria,304
-American Samoa,1787
-Andorra,376
-Angola,500
-Anguilla,1595
-Antigua and Barbuda,1085
-Argentina,48
-Argentina Amateur,1783
-Armenia,296
-Armenia Amateur,1828
-Aruba,1086
-Australia,34
-Austria,17
-Austria Amateur,97
-Azerbaijan,297
-Bahamas,1087
-Bahrain,351
-Bangladesh,1088
-Barbados,1089
-Belarus,1910
-Belgium,33
-Belgium Amateur,1620
-Belize,1090
-Benin,1485
-Bermuda,1091
-Bhutan,1556
-Bolivia,379
-Bosnia & Herzegovina Amateur,1582
-Botswana,1020
-Brazil,13
-Brazil Amateur,1694
-British Virgin Islands,1711
-Brunei,1617
-Bulgaria,78
-Bulgaria Amateur,1590
-Burkina Faso,1092
-Burundi,1093
-Cambodia,1094
-Cameroon,391
-Canada,1900
-Cape Verde,1685
-Cayman Islands,1095
-Chad,1096
-Croatia Amateur,1578
-Cuba,1481
-Curacao,1099
-Cyprus,102
-Czechia Amateur,1816
-DR Congo,1101
-Ethiopia,1907
-Fiji,1103
-Finland Amateur,207
-France Amateur,1626
-Gabon,1104
-Gambia,1897
-Greece Amateur,1625
-Greenland,1807
-Guadeloupe,1794
-Guam,1106
-Guinea,1107
-Guinea-Bissau,1108
-Guyana,1109
-Haiti,1110
-Hungary Amateur,1594
-India Amateur,1598
-Iran,301
-Iraq,1111
-Israel Amateur,1586
-Saint Martin,1865
-Italy Amateur,1600
-Japan Amateur,1632
-Kyrgyzstan,1113
-Laos,1114
-Liberia,1116
-Libya,1117
-Madagascar,1119
-Maldives,1121
-Mali,1903
-Martinique,1635
-Mauritania,1123
-Russia,21
-Saudi Arabia,310
-San Marino,387
-Scotland,22
-Seychelles,1140
-Singapore,45
-Sint Maarten,1797
-Slovakia,23
-Slovenia,24
-Somalia,1143
-Sweden Amateur,155
-Thailand,1909
-Togo,1152
-Tunisia,378
-Turkmenistan,1154
-USA,26
-USA Amateur,1597
-Uganda,1022
-Ukraine,86
-Ukraine Amateur,1690
-United Arab Emirates,299
-Zambia,1158
-Turkey Amateur,254
-Czech Republic,18
-Saudi Arabia Amateur,1868
-French Guiana,1596
-International,4
-eSoccer,1558
-Simulated Reality Women,1576
-Europe Amateur,1747
-Virtual Football,1788
-Timor Leste,1628
-Australia Amateur,1876
-Venezuela Amateur,1867
-Dominica,1522
-Africa,1466
-Asia,1467
-Eswatini,1148
-Tahiti,1149
-Europe,1465
-North & Central America,1469
-South America,1470
-Oceania,1471
-New Caledonia,1129
-Malawi,1120
-Kuwait Amateur,1883
-World,1468
-Mayotte,1799
-Kuwait,331
-International Clubs,393
-International Youth,392
-Niger,1131
-Lesotho,1115
-Réunion,1885
-Lithuania Amateur,1872
+﻿id;name
+1156;Virtual Leagues
+1157;Yugoslavia_NOT_IN_USE
+1159;Zanzibar
+1453;Electronic Leagues
+1483;Crimea
+1495;Northern Cyprus
+252;England Amateur
+1;England
+122;Germany Amateur
+339;Hong Kong
+303;Morocco
+35;Netherlands
+1893;Northern Ireland
+5;Norway
+415;Oman
+20;Peru
+47;Poland
+44;Portugal
+131;Wales
+158;Bosnia & Herzegovina
+1894;Estonia
+201;Faroe Islands
+30;Germany
+386;Montenegro
+148;New Zealand
+755;Pakistan
+526;Panama
+1899;Paraguay
+847;Philippines
+886;Senegal
+152;Serbia
+57;Uruguay
+385;Uzbekistan
+281;Venezuela
+1904;Vietnam
+440;Yemen
+19;Finland
+7;France
+1892;Georgia
+542;Ghana
+938;Gibraltar
+67;Greece
+1619;Grenada
+365;Guatemala
+437;Honduras
+11;Hungary
+1898;Iceland
+352;India
+368;Indonesia
+51;Ireland
+66;Israel
+31;Italy
+502;Jamaica
+52;Japan
+329;Jordan
+1911;Kazakhstan
+1896;Kenya
+1906;Latvia
+1901;Lebanon
+512;Liechtenstein
+160;Lithuania
+197;Luxembourg
+85;Malaysia
+134;Malta
+12;Mexico
+279;Moldova
+159;North Macedonia
+1112;Kosovo
+1118;Macao
+1834;Timor-Leste
+1133;North Korea
+1134;Palestine
+1891;China
+960;Equatorial Guinea
+1132;Nigeria
+1908;Myanmar
+1130;Nicaragua
+1637;St Lucia
+1124;Mauritius
+1125;Mozambique
+1139;Sao Tome and Principe
+1913;Sierra Leone
+1142;Solomon Islands
+1905;Tajikistan
+1153;Trinidad and Tobago
+1160;Zimbabwe
+1704;Mexico Amateur
+1459;Mongolia
+1631;Montenegro Amateur
+1641;Morocco Amateur
+1127;Namibia
+1128;Nepal
+1587;Netherlands Amateur
+94;Norway Amateur
+1135;Papua New Guinea
+1621;Poland Amateur
+1583;Portugal Amateur
+1599;Romania Amateur
+1021;Rwanda
+1138;Samoa
+1579;Serbia Amateur
+1623;Slovenia Amateur
+1147;Suriname
+1693;Switzerland Amateur
+1819;Northern Mariana Islands
+353;Qatar
+1615;Russia Amateur
+1493;Saint Kitts and Nevis
+1709;Saint Vincent and the Grenadines
+1697;Scotland Amateur
+1815;Tonga
+1098;Comoros
+1793;Turks and Caicos Islands
+1804;US Virgin Islands
+1786;Uruguay Amateur
+1155;Vanuatu
+390;CÃ´te d'Ivoire
+46;Turkey
+49;Chile
+1687;Chile Amateur
+1097;Chinese Taipei
+1912;Colombia
+1137;Congo Republic
+1795;Cook Islands
+289;Costa Rica
+14;Croatia
+8;Denmark
+95;Denmark Amateur
+1100;Djibouti
+1457;Dominican Republic
+165;Ecuador
+1811;Ecuador Amateur
+1890;Egypt
+367;El Salvador
+1136;Puerto Rico
+77;Romania
+1914;South Africa
+1902;South Korea
+1144;South Sudan
+32;Spain
+421;Spain Amateur
+1145;Sri Lanka
+1146;Sudan
+9;Sweden
+25;Switzerland
+380;Syria
+1895;Tanzania
+1084;Afghanistan
+257;Albania
+304;Algeria
+1787;American Samoa
+376;Andorra
+500;Angola
+1595;Anguilla
+1085;Antigua and Barbuda
+48;Argentina
+1783;Argentina Amateur
+296;Armenia
+1828;Armenia Amateur
+1086;Aruba
+34;Australia
+17;Austria
+97;Austria Amateur
+297;Azerbaijan
+1087;Bahamas
+351;Bahrain
+1088;Bangladesh
+1089;Barbados
+1910;Belarus
+33;Belgium
+1620;Belgium Amateur
+1090;Belize
+1485;Benin
+1091;Bermuda
+1556;Bhutan
+379;Bolivia
+1582;Bosnia & Herzegovina Amateur
+1020;Botswana
+13;Brazil
+1694;Brazil Amateur
+1711;British Virgin Islands
+1617;Brunei
+78;Bulgaria
+1590;Bulgaria Amateur
+1092;Burkina Faso
+1093;Burundi
+1094;Cambodia
+391;Cameroon
+1900;Canada
+1685;Cape Verde
+1095;Cayman Islands
+1096;Chad
+1578;Croatia Amateur
+1481;Cuba
+1099;Curacao
+102;Cyprus
+1816;Czechia Amateur
+1101;DR Congo
+1907;Ethiopia
+1103;Fiji
+207;Finland Amateur
+1626;France Amateur
+1104;Gabon
+1897;Gambia
+1625;Greece Amateur
+1807;Greenland
+1794;Guadeloupe
+1106;Guam
+1107;Guinea
+1108;Guinea-Bissau
+1109;Guyana
+1110;Haiti
+1594;Hungary Amateur
+1598;India Amateur
+301;Iran
+1111;Iraq
+1586;Israel Amateur
+1865;Saint Martin
+1600;Italy Amateur
+1632;Japan Amateur
+1113;Kyrgyzstan
+1114;Laos
+1116;Liberia
+1117;Libya
+1119;Madagascar
+1121;Maldives
+1903;Mali
+1635;Martinique
+1123;Mauritania
+21;Russia
+310;Saudi Arabia
+387;San Marino
+22;Scotland
+1140;Seychelles
+45;Singapore
+1797;Sint Maarten
+23;Slovakia
+24;Slovenia
+1143;Somalia
+155;Sweden Amateur
+1909;Thailand
+1152;Togo
+378;Tunisia
+1154;Turkmenistan
+26;USA
+1597;USA Amateur
+1022;Uganda
+86;Ukraine
+1690;Ukraine Amateur
+299;United Arab Emirates
+1158;Zambia
+254;Turkey Amateur
+18;Czech Republic
+1868;Saudi Arabia Amateur
+1596;French Guiana
+4;International
+1558;eSoccer
+1576;Simulated Reality Women
+1747;Europe Amateur
+1788;Virtual Football
+1628;Timor Leste
+1876;Australia Amateur
+1867;Venezuela Amateur
+1522;Dominica
+1466;Africa
+1467;Asia
+1148;Eswatini
+1149;Tahiti
+1465;Europe
+1469;North & Central America
+1470;South America
+1471;Oceania
+1129;New Caledonia
+1120;Malawi
+1883;Kuwait Amateur
+1468;World
+1799;Mayotte
+331;Kuwait
+393;International Clubs
+392;International Youth
+1131;Niger
+1115;Lesotho
+1885;RÃ©union
+1872;Lithuania Amateur

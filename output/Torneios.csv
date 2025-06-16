@@ -1,37 +1,37 @@
-,name,slug,primary_color,secondary_color,id_pais
-1,EURO,european-championship,#293cdb,#00ba5d,1465
-133,Copa América,copa-america,#0A2357,#F70F17,1470
-213,Supercopa de España,supercopa-de-espana,#daac6a,#4a919d,32
-16,FIFA World Cup,world-championship,#d20a11,#e8bb57,1468
-7,UEFA Champions League,uefa-champions-league,#062b5c,#086aab,1465
-679,UEFA Europa League,uefa-europa-league,,#f37d25,1465
-27,"EURO, Qualification",european-championship-qualification,#182026,#730000,1465
-17,Premier League,premier-league,#3c1c5a,#f80158,1
-19,FA Cup,fa-cup,#bc1821,#e60411,1
-8,LaLiga,laliga,#2f4a89,#f4a32e,32
-35,Bundesliga,bundesliga,#e2080e,#8e0902,30
-23,Serie A,serie-a,#09519e,#008fd7,31
-34,Ligue 1,ligue-1,#091c3e,#a9c011,7
-37,Eredivisie,eredivisie,#292766,#7c79c3,35
-21,EFL Cup,efl-cup,#203e93,#bc1723,1
-10783,UEFA Nations League,uefa-nations-league,#3a4179,#e5a422,1465
-325,Brasileirão Betano,brasileirao-serie-a,#C7FF00,#969696,13
-17015,UEFA Conference League,uefa-europa-conference-league,,#04be15,1465
-357,FIFA Club World Cup,club-world-championship,#8d1536,#0bbda4,1468
-270,Africa Cup of Nations,africa-cup-of-nations,#00752e,#edc73e,1466
-384,CONMEBOL Libertadores,conmebol-libertadores,#573215,#dfaf49,1470
-295,World Championship Qual. CONMEBOL,world-championship-qual-conmebol,#9a1133,#c11541,1470
-11,World Championship Qual. UEFA,world-championship-qual-uefa,#9a1133,#c11541,1465
-373,Copa Betano do Brasil,copa-do-brasil,#34a348,#f2ba1c,13
-436,Olympic Games,olympic-games,#8b2130,#b11e33,1468
-1054,CAF Champions League,caf-champions-league,#ebbf03,#3a292a,1466
-13,World Championship Qual. CAF ,world-championship-qual-caf,#9a1133,#c11541,1466
-246,AFC Asian Cup,afc-asian-cup,#FCBD00,#FC1302,1467
-390,Brasileirão Série B,brasileirao-serie-b,#3F01FF,#c5be02,13
-290,FIFA Women's World Cup,world-championship-women,#3099ff,#fcc831,1468
-308,World Championship Qual. AFC,world-championship-qual-afc,#9a1133,#c11541,1467
-437,Olympic Games Women,olympic-games-women,#8b2130,#b11e33,1468
-14,World Championship Qual. CONCACAF,world-championship-qual-concacaf,#9a1133,#c11541,1469
-14602,Supercopa do Brasil,supercopa-do-brasil,#ffb100,#072a54,13
-10618,"World Championship Qual., Inter-Confederation",world-championship-qual-inter-confederation,#d20a11,#e8bb57,1468
-309,World Championship Qual. OFC,world-championship-qual-ofc,#9a1133,#c11541,1471
+﻿id;name;id_country;primary_color;secondary_color;slug
+1;EURO;1465;#293cdb;#00ba5d;european-championship
+133;Copa AmÃ©rica;1470;#0A2357;#F70F17;copa-america
+213;Supercopa de EspaÃ±a;32;#daac6a;#4a919d;supercopa-de-espana
+16;FIFA World Cup;1468;#d20a11;#e8bb57;world-championship
+7;UEFA Champions League;1465;#062b5c;#086aab;uefa-champions-league
+679;UEFA Europa League;1465;;#f37d25;uefa-europa-league
+27;EURO Qualification;1465; #182026; #730000;european-championship-qualification
+17;Premier League;1;#3c1c5a;#f80158;premier-league
+19;FA Cup;1;#bc1821;#e60411;fa-cup
+8;LaLiga;32;#2f4a89;#f4a32e;laliga
+35;Bundesliga;30;#e2080e;#8e0902;bundesliga
+23;Serie A;31;#09519e;#008fd7;serie-a
+34;Ligue 1;7;#091c3e;#a9c011;ligue-1
+37;Eredivisie;35;#292766;#7c79c3;eredivisie
+21;EFL Cup;1;#203e93;#bc1723;efl-cup
+10783;UEFA Nations League;1465;#3a4179;#e5a422;uefa-nations-league
+325;BrasileirÃ£o Betano;13;#C7FF00;#969696;brasileirao-serie-a
+17015;UEFA Conference League;1465;;#04be15;uefa-europa-conference-league
+357;FIFA Club World Cup;1468;#8d1536;#0bbda4;club-world-championship
+270;Africa Cup of Nations;1466;#00752e;#edc73e;africa-cup-of-nations
+384;CONMEBOL Libertadores;1470;#573215;#dfaf49;conmebol-libertadores
+295;World Championship Qual. CONMEBOL;1470;#9a1133;#c11541;world-championship-qual-conmebol
+11;World Championship Qual. UEFA;1465;#9a1133;#c11541;world-championship-qual-uefa
+373;Copa Betano do Brasil;13;#34a348;#f2ba1c;copa-do-brasil
+436;Olympic Games;1468;#8b2130;#b11e33;olympic-games
+1054;CAF Champions League;1466;#ebbf03;#3a292a;caf-champions-league
+13;World Championship Qual. CAF ;1466;#9a1133;#c11541;world-championship-qual-caf
+246;AFC Asian Cup;1467;#FCBD00;#FC1302;afc-asian-cup
+390;BrasileirÃ£o SÃ©rie B;13;#3F01FF;#c5be02;brasileirao-serie-b
+290;FIFA Women's World Cup;1468;#3099ff;#fcc831;world-championship-women
+308;World Championship Qual. AFC;1467;#9a1133;#c11541;world-championship-qual-afc
+437;Olympic Games Women;1468;#8b2130;#b11e33;olympic-games-women
+14;World Championship Qual. CONCACAF;1469;#9a1133;#c11541;world-championship-qual-concacaf
+14602;Supercopa do Brasil;13;#ffb100;#072a54;supercopa-do-brasil
+10618;World Championship Qual. Inter-Confederation;1468;#d20a11;#e8bb57;world-championship-qual-inter-confederation
+309;World Championship Qual. OFC;1471;#9a1133;#c11541;world-championship-qual-ofc
