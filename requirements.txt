@@ -1,1 +1,3 @@
 selenium
+pandas
+psycopg2
