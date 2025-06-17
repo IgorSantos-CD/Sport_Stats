@@ -7,8 +7,10 @@ conn = conectar_banco()
 #df_competitions = pd.read_csv("./output/Torneios.csv", sep=";")
 #df_seasons = pd.read_csv("./output/Seasons.csv", sep=",")
 #df_teams = pd.read_csv("./output/Teams.csv", sep=",")
-df_matches = pd.read_csv("./output/partidas_temporada.csv", sep=";")
+'''df_matches = pd.read_csv("./output/partidas_temporada.csv", sep=";")
 df_matches = df_matches.drop_duplicates(subset='id')
+df_matches['home_score'] = df_matches['home_score'].fillna(0).astype(int)
+df_matches['away_score'] = df_matches['away_score'].fillna(0).astype(int)'''
 
 #inserir_dados('countries', df_countries, conn)
 #inserir_dados('competitions', df_competitions, conn)
