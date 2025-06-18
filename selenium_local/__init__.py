@@ -1,1 +1,0 @@
-from selenium_local.automation import iniciar_driver
