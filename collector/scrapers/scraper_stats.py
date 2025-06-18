@@ -1,26 +1,17 @@
-from selenium import webdriver
-from selenium.webdriver.edge.options import Options
-from selenium.webdriver.edge.service import Service
+from selenium_local.automation import iniciar_driver
+from utils.date_utils import format_stat_name, map_period_to_half
 import json
 import pandas as pd
 import time
 
-def iniciar_driver(log_level = 3):
-    options = Options()
-    options.add_argument(f"--log-level={log_level}")
-    options.add_experimental_option("excludeSwitches", ["enable-logging"])
-    options.add_argument("--headless")
+def coletar_match_stats_selenium(match_id, home_team_id, away_team_id):
 
-    service = Service(executable_path="./webdrivers/msedgedriver.exe")
-    driver = webdriver.Edge(options=options, service=service)
-    return driver
-
-def coletar_match_stats_selenium(driver, match_id, home_team_id, away_team_id):
+    driver = iniciar_driver()
     url = f"https://www.sofascore.com/api/v1/event/{match_id}/statistics"
 
     try:
         driver.get(url)
-        time.sleep(2)
+        #time.sleep(0.5)
 
         pre = driver.find_element("tag name", "pre").text
         data = json.loads(pre)
@@ -61,31 +52,3 @@ def coletar_match_stats_selenium(driver, match_id, home_team_id, away_team_id):
     except Exception as e:
         print(f"Erro ao coletar stats do match {match_id}: {e}")
         return None
-    
-def map_period_to_half(period):
-    if period == 'ALL':
-        return 0
-    elif period == '1ST':
-        return 1
-    elif period == '2ND':
-        return 2
-    else:
-        return None
-    
-def format_stat_name(name):
-    return name.lower().replace(' ', '_').replace('-', '_')
-
-driver = iniciar_driver()
-
-match_id = 13472733
-home_team_id = 2001
-away_team_id = 2002
-
-df_stats = coletar_match_stats_selenium(driver, match_id, home_team_id, away_team_id)
-
-if df_stats is not None:
-    df_stats.to_csv('./output/stats_game.csv')
-else:
-    print("Nenhuma estatística coletada.")
-
-driver.quit()
