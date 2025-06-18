@@ -1,1 +1,0 @@
-from db_connection import conectar_banco, inserir_dados
