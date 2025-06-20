@@ -35,7 +35,7 @@ def select_dados(conn, tabela, colunas=['*'], fetch="all"):
     else:
         cols = ", ".join(colunas)
 
-    querie = f"SELECT {cols} FROM {tabela}"
+    querie = f"SELECT {cols} FROM {tabela} WHERE id_competition = 325"
 
     cursor.execute(querie)
     
