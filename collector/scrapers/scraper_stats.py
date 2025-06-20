@@ -1,5 +1,9 @@
 from selenium_local.automation import iniciar_driver
-from utils.date_utils import format_stat_name, map_period_to_half
+from database.db_connection import conectar_banco
+from database.db_actions import inserir_dados
+from utils.date_utils import parse_statistics
+from utils.scraping_ultis import delay_aleatorio, retry
+from tqdm import tqdm
 import json
 import pandas as pd
 import time
@@ -11,40 +15,11 @@ def coletar_match_stats_selenium(match_id, home_team_id, away_team_id):
 
     try:
         driver.get(url)
-        #time.sleep(0.5)
 
         pre = driver.find_element("tag name", "pre").text
         data = json.loads(pre)
 
-        registros = []
-
-        try:
-            for periodo in data.get('statistics', []):
-                period = periodo.get('period')
-                half = map_period_to_half(period)
-
-                for group in periodo.get('groups', []):
-                    for stat in group.get('statisticsItems', []):
-                        stat_name = format_stat_name(stat.get('name'))
-
-                        registros.append({
-                            'match_id': match_id,
-                            'team_id': home_team_id,
-                            'half': half,
-                            'stat_name': stat_name,
-                            'value': stat.get('home', 0) if stat.get('home') is not None else 0
-                        })
-
-                        registros.append({
-                            'match_id': match_id,
-                            'team_id': away_team_id,
-                            'half': half,
-                            'stat_name': stat_name,
-                            'value': stat.get('away', 0) if stat.get('away') is not None else 0
-                        })
-        except Exception as e:
-            print(f"Erro no parse do match {match_id}: {e}")
-            return None
+        registros = parse_statistics(data, match_id,home_team_id, away_team_id)
 
         df = pd.DataFrame(registros)
         return df
@@ -52,3 +27,46 @@ def coletar_match_stats_selenium(match_id, home_team_id, away_team_id):
     except Exception as e:
         print(f"Erro ao coletar stats do match {match_id}: {e}")
         return None
+
+@retry(max_tentativas=3, backoff=2) 
+def coletar_stats_em_lote(partidas):
+    driver = iniciar_driver()
+    #conn = conectar_banco()
+    todos_registros = []
+
+    for partida in tqdm(partidas):
+        match_id = partida[0]
+        home_team_id = partida[1]
+        away_team_id = partida[2]
+        url = f"https://www.sofascore.com/api/v1/event/{match_id}/statistics"
+        driver.get(url)
+        delay_aleatorio(1.5, 3.5)
+        try:
+            pre = driver.find_element("tag name", "pre").text
+            data = json.loads(pre)
+            registros =  parse_statistics(data, match_id, home_team_id, away_team_id)
+
+            if registros:
+                todos_registros.extend(registros)
+                #df.to_csv('./output/stats_game.csv', index=False)
+                #inserir_dados('match_stats',df,conn)
+            else:
+                print(f"Match {match_id} sem estatisticas disponíveis")
+
+        except Exception as e:
+            print(f"Erro no match {match_id}: {e}")
+
+    driver.quit()
+
+    if todos_registros:
+        df = pd.DataFrame(todos_registros)
+        df.to_csv('./output/stats_game.csv', index=False)
+        print("CSV gerado com sucesso.")
+        return df
+    else:
+        print("Nenhum dado de estatística foi coletado.")
+        return pd.DataFrame()  # Retorna DataFrame vazio se nada for coletado
+    #conn.close()
+    print(f"Dados incluidos com sucesso no banco de dados")
+
+        
