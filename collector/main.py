@@ -1,7 +1,7 @@
-from scrapers.scraper_matches import coletar_partidas_temporada_lote, coletar_partidas_temporada
+#from scrapers.scraper_matches import coletar_partidas_temporada_lote, coletar_partidas_temporada
 from scrapers.scraper_stats import coletar_match_stats_selenium, coletar_stats_em_lote
 from utils.date_utils import format_stat_name, map_period_to_half, trata_stats
-from selenium_local.automation import iniciar_driver
+#from selenium_local.automation import iniciar_driver
 from database.db_connection import conectar_banco
 from database.db_actions import inserir_dados, select_dados
 import pandas as pd
