@@ -1,3 +1,6 @@
+import re
+import pandas as pd
+
 
 def format_stat_name(name):
     return name.lower().replace(' ', '_').replace('-', '_')
@@ -46,3 +49,63 @@ def parse_statistics(json_data, match_id, home_team_id, away_team_id):
          print(f"Erro no parse do match {match_id}: {e}")
     
     return registros
+
+def trata_stats(dataframe):
+    df_tratado = expandir_estatisticas_em_linhas(dataframe)
+
+    df_tratado['value'] = df_tratado['value'].apply(converter_percentual)
+
+    return df_tratado
+     
+
+def expandir_estatisticas_em_linhas(df: pd.DataFrame) -> pd.DataFrame:
+    """
+    Expande estatísticas no formato 'X/Y (Z%)' em três novas linhas:
+    - stat_name_complete: X
+    - stat_name_total: Y
+    - stat_name_accurate: Z (em decimal)
+
+    Args:
+        df (pd.DataFrame): DataFrame no formato long, com colunas
+            ['match_id',team_id, 'half', 'stat_name', 'value']
+
+    Returns:
+        pd.DataFrame: DataFrame com estatísticas expandidas.
+    """
+
+    def expandir_linha(row):
+        # Tenta casar com o padrão 'X/Y (Z%)'
+        match = re.match(r'(\d+)/(\d+)\s+\((\d+)%\)', str(row['value']))
+        if not match:
+            return pd.DataFrame([row])  # Retorna a linha original se não casar
+
+        completo = int(match.group(1))
+        total = int(match.group(2))
+        acuracia = int(match.group(3)) / 100
+
+        base = {
+            'match_id': row['match_id'],
+            'team_id' : row['team_id'],
+            'half': row['half']
+        }
+
+        # Cria 3 novas linhas com os valores separados
+        return pd.DataFrame([
+            {**base, 'stat_name': f"{row['stat_name']}_complete", 'value': completo},
+            {**base, 'stat_name': f"{row['stat_name']}_total",    'value': total},
+            {**base, 'stat_name': f"{row['stat_name']}_accurate", 'value': acuracia},
+        ])
+
+    # Aplica a função linha a linha e concatena os resultados
+    linhas_expandidas = df.apply(expandir_linha, axis=1)
+    df_resultado = pd.concat(linhas_expandidas.to_list(), ignore_index=True)
+
+    return df_resultado
+
+def converter_percentual(valor):
+    if isinstance(valor, str) and valor.strip().endswith('%'):
+        try:
+            return float(valor.strip().replace('%', '')) / 100
+        except ValueError:
+            return valor  # Retorna original se não for conversível
+    return valor
