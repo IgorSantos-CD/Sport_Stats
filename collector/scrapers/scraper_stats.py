@@ -28,10 +28,9 @@ def coletar_match_stats_selenium(match_id, home_team_id, away_team_id):
         print(f"Erro ao coletar stats do match {match_id}: {e}")
         return None
 
-@retry(max_tentativas=3, backoff=2) 
+
 def coletar_stats_em_lote(partidas):
     driver = iniciar_driver()
-    #conn = conectar_banco()
     todos_registros = []
 
     for partida in tqdm(partidas):
@@ -48,8 +47,7 @@ def coletar_stats_em_lote(partidas):
 
             if registros:
                 todos_registros.extend(registros)
-                #df.to_csv('./output/stats_game.csv', index=False)
-                #inserir_dados('match_stats',df,conn)
+                delay_aleatorio(1.5,3.5)
             else:
                 print(f"Match {match_id} sem estatisticas disponíveis")
 
@@ -66,7 +64,6 @@ def coletar_stats_em_lote(partidas):
     else:
         print("Nenhum dado de estatística foi coletado.")
         return pd.DataFrame()  # Retorna DataFrame vazio se nada for coletado
-    #conn.close()
-    print(f"Dados incluidos com sucesso no banco de dados")
+
 
         
