@@ -1,5 +1,6 @@
 import time
 import random
+import json
 
 def delay_aleatorio(minimo=1.5, maximo=4.0):
     tempo = random.uniform(minimo, maximo)
@@ -24,3 +25,7 @@ def retry(max_tentativas=3, backoff=2):
             raise Exception(f"❌ Falha após {max_tentativas} tentativas.")
         return wrapper
     return decorator
+
+def transformar_json(pre):
+    data = json.loads(pre)
+    return data

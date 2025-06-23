@@ -1,6 +1,16 @@
 import re
 import pandas as pd
 
+def conversao_segura(value):
+    try:
+        return int(value)
+    except(ValueError, TypeError):
+        return None
+    
+def gerar_dataframe(lista, colunas):
+    df = pd.DataFrame(lista, columns=colunas)
+    return df
+
 
 def format_stat_name(name):
     return name.lower().replace(' ', '_').replace('-', '_')
