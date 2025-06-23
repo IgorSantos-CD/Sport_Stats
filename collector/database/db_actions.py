@@ -1,51 +1,59 @@
+from database import conectar_banco
+from psycopg2.extras import execute_values
+
 import pandas as pd
 import psycopg2
 from psycopg2 import sql
 
 
-def inserir_dados(tabela, dataframe, conn):
+def inserir_dados(tabela, dados):
+    conn = conectar_banco()
     cursor = conn.cursor()
 
-    colunas = list(dataframe.columns)
-    valores = [tuple(x) for x in dataframe.to_numpy()]
+    #GERA STRING COM OS NOMES DAS COLUNAS
+    colunas = ",".join(dados.columns)
 
-    insert_query = sql.SQL(
-        "INSERT INTO {tabela} ({campos}) VALUES ({placeholders})"
-    ).format(
-        tabela = sql.Identifier(tabela),
-        campos = sql.SQL(', ').join(map(sql.Identifier, colunas)),
-        placeholders = sql.SQL(', ').join(sql.Placeholder()*len(colunas))
-    )
+    #CRIA UM TUPLO PARA CADA LINHA DO DATAFRAME
+    valores = [tuple(x) for x in dados.to_numpy()]
+
+
+    query = f"""
+    INSERT INTO {tabela} ({colunas})
+    VALUES %s
+    ON CONFLICT (id) DO NOTHING
+    """
 
     try:
-        cursor.executemany(insert_query.as_string(conn), valores)
+        execute_values(cursor,query,valores)
         conn.commit()
-        print(f"Dados inseridos na tabela {tabela}")
     except Exception as e:
         conn.rollback()
-        print(f"Erro ao inserir na tabela {tabela}: {e}")
+        print("Erro ao inserir os dados:", e)
     finally:
+        print("Processo concluído")
         cursor.close()
+        conn.close()
 
-def select_dados(conn, tabela, colunas=['*'], fetch="all"):
-    cursor = conn.cursor()
 
-    if len(colunas) == 1 and colunas[0] == "*":
-        cols = "*"
-    else:
-        cols = ", ".join(colunas)
 
-    querie = f"SELECT {cols} FROM {tabela} WHERE id_competition = 8 OR id_competition = 17"
+def executar_query(query, fetch='all'):
+    conn = conectar_banco()
+    try:
+        cursor = conn.cursor()
+        cursor.execute(query)
+        colunas = [desc[0] for desc in cursor.description]
+        
+        if fetch == 'all':
+            dados = cursor.fetchall()
+        elif fetch == 'one':
+            dados = cursor.fetchone()
+        else:
+            dados = cursor.fetchmany()
 
-    cursor.execute(querie)
-    
-    if fetch == "all":
-        data = cursor.fetchall()
-    elif fetch == "many":
-        data = cursor.fetchmany()
-    elif fetch == "one":
-        data = cursor.fetchone()
-
-    cursor.close()
-
-    return data
+        df = pd.DataFrame(dados, columns=colunas)
+        return df
+    except Exception as e:
+        print(f"Erro ao executar a query: {e}")
+        return None
+    finally:
+        conn.close()

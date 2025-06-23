@@ -6,7 +6,7 @@ from psycopg2 import sql
 def conectar_banco():
     conn =psycopg2.connect(
         host = 'localhost',
-        database = 'Sport_Stats',
+        database = 'Soccer_Stats',
         user = 'postgres',
         password = 'senha123',
         port='5432'
