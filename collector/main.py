@@ -1,31 +1,39 @@
-#from scrapers.scraper_matches import coletar_partidas_temporada_lote, coletar_partidas_temporada
-from scrapers.scraper_stats import coletar_match_stats_selenium, coletar_stats_em_lote
-from utils.date_utils import format_stat_name, map_period_to_half, trata_stats
-#from selenium_local.automation import iniciar_driver
-from database.db_connection import conectar_banco
-from database.db_actions import inserir_dados, select_dados
-import pandas as pd
 import time
+from scrapers import coletar_paises, coletar_competicoes,coletar_seasons, coletar_rodadas
+from database import executar_query, inserir_dados
 
 
 if __name__ == "__main__":
-
     start = time.time()
-    conn = conectar_banco()
 
-    data = select_dados(conn, 'matches', ['id', 'home_team_id', 'away_team_id'])
+    '''#COLETANDO PAISES DISPONIVEIS PARA CONSULTA
+    df_paises = coletar_paises()
+    bd_paises = executar_query('SELECT * FROM countries')
+    if len(df_paises) == len(bd_paises):
+        print("Registros Atualizados!")
+    else:
+        df_dif = df_paises.loc[~df_paises['id'].isin(bd_paises['id'])].copy()
+        inserir_dados('countries', df_dif)
 
-    conn.close()
+    #COLETANDO COMPETIÇÕES DISPONÍVEIS PARA CONSULTA
+    df_competitions = coletar_competicoes()
+    bd_competitions = executar_query('SELECT * FROM competitions', fetch='all')
+    if len(df_competitions) == len(bd_competitions):
+        print("Registros Atualizados!")
+    else:
+        df_dif = df_competitions.loc[~df_competitions['id'].isin(bd_competitions['id'])].copy()
+        inserir_dados('competitions', df_dif)
 
-    df = coletar_stats_em_lote(data)
+    df_seasons = coletar_seasons()
+    bd_seasons = executar_query('SELECT * FROM seasons', fetch='all')
+    if len(df_seasons) == len(bd_seasons):
+        print("Registros Atualizados!")
+    else: 
+        df_dif = df_seasons.loc[~df_seasons['id'].isin(bd_seasons['id'])].copy()
+        inserir_dados('seasons', df_dif)'''
+    
+    coletar_rodadas()
 
-    df_tratado = trata_stats(df)
-
-    conn = conectar_banco()
-
-    inserir_dados("match_stats",df_tratado, conn)
-
-    conn.close()
 
     end = time.time()
 
