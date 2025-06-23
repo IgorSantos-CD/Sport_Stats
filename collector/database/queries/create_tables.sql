@@ -2,28 +2,50 @@
 -- Tabela Countries
 -- =====================
 CREATE TABLE countries (
-    id SERIAL PRIMARY KEY,
-    name VARCHAR(100) NOT NULL
+    id INT PRIMARY KEY,
+    name VARCHAR(100) NOT NULL,
+    slug_name VARCHAR(100),
+    priority INT NULL,
+    flag VARCHAR(100)
 );
 
 -- =====================
 -- Tabela Competitions
 -- =====================
 CREATE TABLE competitions (
-    id SERIAL PRIMARY KEY,
+    id INT PRIMARY KEY,
     name VARCHAR(150) NOT NULL,
-    id_country INT REFERENCES countries(id),
+    slug_name VARCHAR(150),
     primary_color VARCHAR(10),
-    secondary_color VARCHAR(10)
+    secondary_color VARCHAR(10),
+    location_name VARCHAR(100),
+    location_id INT REFERENCES countries(id),
+    location_flag VARCHAR(100),
+    sport_name VARCHAR(100)
 );
 
 -- =====================
 -- Tabela Seasons
 -- =====================
 CREATE TABLE seasons (
-    id SERIAL PRIMARY KEY,
+    id INT PRIMARY KEY,
+    name VARCHAR(100),
     id_competition INT REFERENCES competitions(id),
-    year VARCHAR(20) NOT NULL
+    year VARCHAR(20) NOT NULL,
+    editor BOOLEAN,
+);
+
+-- =====================
+-- Tabela Rodadas
+-- =====================
+CREATE TABLE rounds (
+    id_season BIGINT REFERENCES seasons(id),
+    id_competition BIGINT REFERENCES competitions(id),
+    current_round_number INTEGER,
+    last_round_number INTEGER,
+    type VARCHAR(50),
+    finished BOOLEAN,
+    PRIMARY KEY (id_season, id_competition)
 );
 
 -- =====================
