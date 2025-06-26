@@ -25,6 +25,7 @@ def coletar_seasons():
                     'editor' : str(season.get('editor', 'false')).lower() == 'true' 
                 }
                 seasons.append(info)
+            driver.quit()
     except Exception as e:
         print(f"Não foi possivel coletar informações da competição: {comp}\n")
         print(pre)
