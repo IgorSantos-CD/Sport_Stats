@@ -29,44 +29,9 @@ if __name__ == "__main__":
     atualizar_db(df_seasons, bd_seasons, 'seasons')
 
     atualizar_registros(df_rounds, bd_rounds, 'rounds', ['id_season', 'id_competition'])
-
-
-
+ 
     
-    '''#COLETANDO RODADAS DAS COMPETIÇÕES DISPONÍVEIS
-    
-    # Realiza merge para encontrar os registros que já existem
-    df_merged = df_rounds.merge(
-        bd_rounds,
-        on=['id_season', 'id_competition'],
-        how='left',
-        suffixes=('_api', '_bd')
-    )
-
-    # Verifica se há diferenças nos campos que podem mudar
-    df_dif = df_merged[
-        (df_merged['current_round_number_api'] != df_merged['current_round_number_bd']) |
-        (df_merged['last_round_number_api'] != df_merged['last_round_number_bd']) |
-        (df_merged['finished_api'] != df_merged['finished_bd']) |
-        (df_merged['type_api'] != df_merged['type_bd']) |
-        (df_merged['total_rounds_api'] != df_merged['total_rounds_bd'])
-    ]
-
-    
-
-    if df_dif.empty and len(df_rounds) == len(bd_rounds):
-        print("Registros Atualizados")
-    else:
-    # Filtra os dados do df_rounds que precisam ser atualizados
-        chaves_para_atualizar = df_dif[['id_season', 'id_competition']]
-        df_para_atualizar = df_rounds.merge(chaves_para_atualizar, on=['id_season', 'id_competition'], how='inner')
-    
-        # Aqui você pode chamar sua função de update ou fazer UPSERT
-        inserir_dados('rounds', df_para_atualizar, chave_conflito='id_season, id_competition')
-        print(f"{len(df_para_atualizar)} registros atualizados.")
-    
-    
-    df_matches, df_teams = coletar_partidas_por_rodada()
+    '''df_matches, df_teams = coletar_partidas_por_rodada()
 
     teams_merge = df_teams.merge(
         right=bd_teams,
