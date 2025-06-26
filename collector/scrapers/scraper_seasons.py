@@ -11,7 +11,7 @@ def coletar_seasons():
         for comp in tqdm(competicoes):
             driver = iniciar_driver()
             driver.get(f"https://api.sofascore.com/api/v1/unique-tournament/{comp}/seasons")
-            delay_aleatorio(1.5,3.5)
+            #delay_aleatorio(1.5,1.8)
             
             pre = driver.find_element(By.TAG_NAME, 'pre').text
             json_seasons = transformar_json(pre)
