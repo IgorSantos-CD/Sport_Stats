@@ -9,7 +9,7 @@ def coletar_rodadas():
     driver = iniciar_driver()
 
     rounds = []
-    for row in tqdm(seasons.itertuples(index=False),desc="Temporadas"):
+    for row in tqdm(seasons.itertuples(index=False),desc="Temporadas", total=len(seasons)):
         id_season = row.id
         id_comp = row.id_competition
 
