@@ -116,3 +116,82 @@ def coletar_partidas_temporada(id_season, id_competition):
         print(f"season: {id_season} | competition: {id_competition} | {data}")
 
     print(partidas[0])
+
+
+def coletar_partidas_por_rodada():
+    query = """
+        SELECT id_season, id_competition, total_rounds, current_round_number
+        FROM rounds
+        WHERE id_competition = 325
+    """
+    seasons_rodadas = executar_query(query)
+    
+    partidas = []
+    teams = []
+    for season in tqdm(seasons_rodadas.itertuples(index=False), total=len(seasons_rodadas), desc="Temporadas"):
+        driver = iniciar_driver()
+        id_season = season.id_season
+        id_competition = season.id_competition
+        rounds_list = season.total_rounds
+        current_round_number = season.current_round_number
+        print(current_round_number)
+        for r in tqdm(rounds_list, desc=f"Season {id_season} - Rodadas", leave=False):
+            if r <= current_round_number:
+                try:
+                    url = f"https://www.sofascore.com/api/v1/unique-tournament/{id_competition}/season/{id_season}/events/round/{r}"
+                    driver.get(url)
+                    pre = driver.find_element(By.TAG_NAME, 'pre').text
+                    data = transformar_json(pre)
+
+                    if not data.get('events'):
+                        continue
+
+                    for evento in data['events']:
+                        partida = {
+                            'id' : evento.get('id'),
+                            'date' : pd.to_datetime(evento.get('startTimestamp'), unit='s'),
+                            'status' : evento.get('status', {}).get('description'),
+                            'id_season' : id_season,
+                            'id_competition' : id_competition,
+                            'home_team_id' : evento.get('homeTeam',{}).get('id'),
+                            'away_team_id' : evento.get('awayTeam', {}).get('id'),
+                            'home_score' : conversao_segura(evento.get('homeScore', {}).get('current', -1)),
+                            'away_score' : conversao_segura(evento.get('awayScore', {}).get('current', -1)),
+                            'winner' : conversao_segura(evento.get('winnerCode', -1)),
+                            'round' : r,
+                            'timestamp' : evento.get('startTimestamp')
+                        }
+
+                        home_team ={
+                            'id' : evento.get('homeTeam',{}).get('id'),
+                            'name' : evento.get('homeTeam', {}).get('name'),
+                            'short_name' : evento.get('homeTeam', {}).get('shortName'),
+                            'primary_color' : evento.get('homeTeam', {}).get('teamColors', {}).get('primary'),
+                            'secondary_color' : evento.get('homeTeam', {}).get('teamColors', {}).get('secondary'),
+                            'country_alpha' : evento.get('homeTeam', {}).get('country', {}).get('alpha3')
+                        }
+
+                        away_team = {
+                            'id' : evento.get('awayTeam',{}).get('id'),
+                            'name' : evento.get('awayTeam', {}).get('name'),
+                            'short_name' : evento.get('awayTeam', {}).get('shortName'),
+                            'primary_color' : evento.get('awayTeam', {}).get('teamColors', {}).get('primary'),
+                            'secondary_color' : evento.get('awayTeam', {}).get('teamColors', {}).get('secondary'),
+                            'country_alpha' : evento.get('awayTeam', {}).get('country', {}).get('alpha3')
+                        }
+
+                        partidas.append(partida)
+                        teams.append(home_team)
+                        teams.append(away_team)
+        
+                except Exception as e:
+                    print(f"Erro na season {id_season}, rodada {r}: {e}")
+        print(f'Partidas da rodada {r} coletadas com sucesso')
+
+        driver.quit()    
+        if partidas:
+                df = gerar_dataframe(partidas, colunas=['id','date','status','id_season','id_competition','home_team_id','away_team_id','home_score', 'away_score', 'winner','round','timestamp'])
+                df_teams = gerar_dataframe(teams, colunas=['id','name','short_name','primary_color', 'secondary_color', 'country_alpha'])
+                df_teams = df_teams.drop_duplicates(subset='id')
+    
+    return df, df_teams
