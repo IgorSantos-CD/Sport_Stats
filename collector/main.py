@@ -1,6 +1,7 @@
 import time
-from scrapers import coletar_paises, coletar_competicoes,coletar_seasons, coletar_rodadas
-from database import executar_query, inserir_dados
+from scrapers import coletar_paises, coletar_competicoes,coletar_seasons, coletar_rodadas, coletar_partidas_por_rodada
+from database import executar_query, inserir_dados, conectar_banco_nuvem
+from utils import atualizar_db, atualizar_registros
 
 
 if __name__ == "__main__":
