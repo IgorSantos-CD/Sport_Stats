@@ -119,3 +119,21 @@ def converter_percentual(valor):
         except ValueError:
             return valor  # Retorna original se não for conversível
     return valor
+
+def classificar_formato(rounds):
+    nomes = [r.get("name", "").lower() for r in rounds if "name" in r]
+    total_rodadas = len(rounds)
+
+    # Misto: presença de fases como grupos + mata-mata
+    if any("group" in nome or "qualification" in nome for nome in nomes) and any("final" in nome or "quarter" in nome or "semi" in nome for nome in nomes):
+        return "misto"
+    
+    # Pontos corridos: rodadas numéricas, sem nome (ex: Brasileirão)
+    if total_rodadas >= 30 and all("name" not in r for r in rounds):
+        return "pontos_corridos"
+    
+    # Mata-mata: rodadas com nome e fases eliminatórias
+    if any("final" in nome or "quarter" in nome or "semi" in nome for nome in nomes):
+        return "mata-mata"
+    
+    return "desconhecido"
