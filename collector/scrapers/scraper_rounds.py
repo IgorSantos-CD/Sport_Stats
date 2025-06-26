@@ -1,7 +1,7 @@
 from selenium_local import iniciar_driver
 from database import executar_query
 from selenium.webdriver.common.by import By
-from utils import transformar_json, gerar_dataframe, delay_aleatorio
+from utils import transformar_json, gerar_dataframe, delay_aleatorio, classificar_formato
 from tqdm import tqdm
 
 def coletar_rodadas():
