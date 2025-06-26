@@ -1,4 +1,6 @@
 from selenium_local.automation import iniciar_driver
+from database import executar_query
+from utils import delay_aleatorio, transformar_json, gerar_dataframe, conversao_segura
 from selenium.webdriver.common.by import By
 from tqdm import tqdm
 import pandas as pd
