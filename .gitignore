@@ -1,1 +1,77 @@
-\__pycache__
+# ===== PYTHON =====
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.so
+
+# Arquivos de log ou temporários
+*.log
+*.tmp
+
+# Arquivos de configurações pessoais (Jupyter, etc.)
+.ipynb_checkpoints/
+
+# ===== VIRTUAL ENVIRONMENT =====
+env/
+venv/
+ENV/
+VENV/
+.venv/
+.env/   # Se seu ambiente virtual estiver em .env (raro)
+
+# ===== IDEs & EDITORES =====
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# Sublime
+*.sublime-workspace
+*.sublime-project
+
+# ===== SISTEMAS OPERACIONAIS =====
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Linux
+*~
+
+# ===== ARQUIVOS SENSÍVEIS =====
+.env
+.env.*
+*.secret
+secrets.json
+*.key
+*.pem
+
+# ===== DEPLOY / BUILD / DIST =====
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+__pypackages__/
+
+# ===== TESTES =====
+coverage.xml
+htmlcov/
+.tox/
+.nox/
+.pytest_cache/
+
+# ===== NOTEBOOKS (opcional) =====
+*.nbconvert.ipynb
+
+# ===== BANCO DE DADOS LOCAL (opcional) =====
+*.sqlite3
+*.db
