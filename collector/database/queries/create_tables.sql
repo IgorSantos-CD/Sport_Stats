@@ -53,14 +53,11 @@ CREATE TABLE rounds (
 -- =====================
 CREATE TABLE teams (
     id SERIAL PRIMARY KEY,
-    id_season INT REFERENCES seasons(id),
-    id_competition INT REFERENCES competitions(id),
-    country_alpha VARCHAR(5),
     name VARCHAR(150) NOT NULL,
-    short_name VARCHAR(50),
-    name_slug VARCHAR(150),
+    short_name VARCHAR(100),
     primary_color VARCHAR(10),
     secondary_color VARCHAR(10)
+    country_alpha VARCHAR(5),
 );
 
 -- =====================
