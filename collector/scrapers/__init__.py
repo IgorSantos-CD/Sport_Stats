@@ -1,7 +1,7 @@
 from .scraper_countries import coletar_paises
 from .scraper_matches import coletar_partidas_temporada, coletar_partidas_temporada_lote
-from .scraper_stats import coletar_match_stats_selenium, coletar_stats_em_lote
 from .scraper_competitions import coletar_competicoes
 from .scraper_seasons import coletar_seasons
 from .scraper_rounds import coletar_rodadas
 from .scraper_matches import coletar_partidas_por_rodada
+from .scraper_stats import coletar_stats_partida

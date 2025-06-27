@@ -1,3 +1,3 @@
 from .scraping_ultis import transformar_json, delay_aleatorio
-from .date_utils import conversao_segura, gerar_dataframe, classificar_formato
-from .database_utils import atualizar_db, atualizar_registros
+from .date_utils import conversao_segura, gerar_dataframe, classificar_formato, parse_stats_partida
+from .database_utils import atualizar_db, atualizar_registros, buscar_partidas_para_coletar_stats
