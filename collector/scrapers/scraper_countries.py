@@ -1,7 +1,7 @@
 import pandas as pd
-from selenium_local.automation import iniciar_driver
+from collector.selenium_local import iniciar_driver
 from selenium.webdriver.common.by import By
-from utils import transformar_json, conversao_segura
+from collector.utils import transformar_json, conversao_segura
 
 def coletar_paises():
     driver = iniciar_driver()

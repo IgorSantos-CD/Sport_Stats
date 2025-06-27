@@ -1,6 +1,6 @@
-from selenium_local.automation import iniciar_driver
+from collector.selenium_local import iniciar_driver
 from database import executar_query
-from utils import delay_aleatorio, transformar_json, gerar_dataframe, conversao_segura
+from collector.utils import delay_aleatorio, transformar_json, gerar_dataframe, conversao_segura
 from selenium.webdriver.common.by import By
 from tqdm import tqdm
 import pandas as pd
@@ -124,7 +124,7 @@ def coletar_partidas_por_rodada():
     query = """
         SELECT id_season, id_competition, total_rounds, current_round_number
         FROM rounds
-        WHERE id_competition = 325
+        WHERE id_competition = 325 LIMIT 3;
     """
     seasons_rodadas = executar_query(query)
     
@@ -181,7 +181,6 @@ def coletar_partidas_por_rodada():
                             'secondary_color' : evento.get('awayTeam', {}).get('teamColors', {}).get('secondary'),
                             'country_alpha' : evento.get('awayTeam', {}).get('country', {}).get('alpha3')
                         }
-
                         partidas.append(partida)
                         teams.append(home_team)
                         teams.append(away_team)

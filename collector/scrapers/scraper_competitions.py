@@ -1,7 +1,7 @@
-from selenium_local import iniciar_driver
+from collector.selenium_local import iniciar_driver
 from database import executar_query
 from selenium.webdriver.common.by import By
-from utils import transformar_json, gerar_dataframe
+from collector.utils import transformar_json, gerar_dataframe
 
 def coletar_competicoes():
     driver = iniciar_driver()
