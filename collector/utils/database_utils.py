@@ -1,13 +1,32 @@
-from database import inserir_dados
+from database import inserir_dados, executar_query
 import pandas as pd
 import numpy as np
 
-def atualizar_db(df,db,tabela):
-    if len(df) == len(db):
-        print('Registros Atualizado')
+def atualizar_db(df,tabela):
+    if df.empty:
+        print(f"[AVISO] DataFrame vazio - nada a inserir na tabela '{tabela}'.")
+        return
+
+    # Verifica se a coluna 'id' existe no DataFrame
+    if 'id' in df.columns:
+        # Busca os IDs já existentes no banco
+        query = f"SELECT id FROM {tabela};"
+        db_ids = executar_query(query, fetch='all')
+
+        if db_ids.empty:
+            df_dif = df
+        else:
+            df_dif = df[~df['id'].isin(db_ids['id'])]
+
+        if df_dif.empty:
+            print(f"[INFO] Nenhum novo registro para inserir na tabela '{tabela}'.")
+        else:
+            inserir_dados(tabela, df_dif)
+            print(f"[OK] {len(df_dif)} novos registros inseridos na tabela '{tabela}'.")
     else:
-        df_dif = df.loc[~df['id'].isin(db['id'])].copy()
-        inserir_dados(tabela, df_dif)
+        # Caso não tenha coluna 'id', insere todos os registros
+        inserir_dados(tabela, df)
+        print(f"[OK] {len(df)} registros inseridos na tabela '{tabela}' (sem controle de ID).")
 
 def atualizar_registros(df,db,tabela,chave_conflito):
     if isinstance(chave_conflito,str):
@@ -39,13 +58,21 @@ def atualizar_registros(df,db,tabela,chave_conflito):
     if df_dif.empty and len(df) == len(db):
         print("Registros Atualizados")
     else:
-    # Filtra os dados do df_rounds que precisam ser atualizados
-        chaves_para_atualizar = df_dif[['id_season', 'id_competition']]
+        # Filtra os dados do df_rounds que precisam ser atualizados
+        chaves_para_atualizar = df_dif[chave_conflito]
         df_para_atualizar = df.merge(chaves_para_atualizar, on=chave_conflito, how='inner')
     
         # Aqui você pode chamar sua função de update ou fazer UPSERT
         inserir_dados(tabela, df_para_atualizar, chave_conflito=', '.join(chave_conflito))
         print(f"{len(df_para_atualizar)} registros atualizados.")
+
+def buscar_partidas_para_coletar_stats():
+    query = """
+        SELECT id, home_team_id, away_team_id
+        FROM matches
+        WHERE status = 'Ended';    
+    """
+    return executar_query(query, fetch='all')
    
     
 
