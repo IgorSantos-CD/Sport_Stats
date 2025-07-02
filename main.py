@@ -37,7 +37,19 @@ if __name__ == "__main__":
     atualizar_registros(df_teams,bd_teams,'teams',chave_conflito='id')
     atualizar_registros(df_matches, bd_matches, 'matches', chave_conflito='id')'''
 
-    coletar_stats_partida()
+    #coletar_stats_partida()
+
+    bd_matches = executar_query('SELECT id FROM matches')
+    bd_stats = executar_query('SELECT match_id FROM match_stats')
+
+    bd_stats = bd_stats.drop_duplicates(subset='match_id')
+    n_coletados = []
+    for i in bd_matches['id']:
+        if i not in  list(bd_stats['match_id']):
+            n_coletados.append(i)
+            print("Verificação Concluída")
+    
+    print(len(n_coletados))
 
     
 
