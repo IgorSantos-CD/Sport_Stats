@@ -32,7 +32,7 @@ def coletar_stats_partida():
     assinaturas_existentes = set(df_existentes["assinatura"])
 
     driver = iniciar_driver()
-    for row in tqdm(df_matches.head(250).itertuples(index=False), desc="Estatisticas"):
+    for row in tqdm(df_matches.itertuples(index=False), desc="Estatisticas", total=len(df_matches)):
         match_id = row.id
         home_team_id = row.home_team_id
         away_team_id = row.away_team_id
