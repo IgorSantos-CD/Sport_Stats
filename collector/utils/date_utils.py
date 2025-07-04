@@ -107,44 +107,4 @@ def classificar_formato(rounds):
     
     return "desconhecido"
 
-def parse_stats_partida(json_data, match_id, home_team_id, away_team_id):
-    stats = []
 
-    try:
-        stat_groups = json_data.get("statistics", [])
-        
-        for group in stat_groups:
-            periodo = group.get("period")
-            half = {"ALL": 0, "1ST": 1, "2ND": 2}.get(periodo, 0)
-
-            for item in group.get("groups", []):
-                for stat in item.get("statisticsItems", []):
-                    stat_name = stat.get("name")
-
-                    # Valores para cada time
-                    home_value = stat.get("homeValue")
-                    away_value = stat.get("awayValue")
-
-                    # Verifica e adiciona cada lado
-                    if home_value is not None:
-                        stats.append({
-                            "match_id": match_id,
-                            "team_id": home_team_id,
-                            "half": half,
-                            "stat_name": stat_name.strip(),
-                            "value": float(home_value)
-                        })
-
-                    if away_value is not None:
-                        stats.append({
-                            "match_id": match_id,
-                            "team_id": away_team_id,
-                            "half": half,
-                            "stat_name": stat_name.strip(),
-                            "value": float(away_value)
-                        })
-
-    except Exception as e:
-        print(f"[ERRO] Parse Match {match_id}: {e}")
-
-    return stats

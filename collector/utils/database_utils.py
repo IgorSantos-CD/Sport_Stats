@@ -1,70 +1,61 @@
-from database import inserir_dados, executar_query
+from database import inserir_dados, executar_query, atualizar_registros
 import pandas as pd
 import numpy as np
 
-def atualizar_db(df,tabela):
+def atualizar_db(df,tabela,chave_duplicada):
     if df.empty:
-        print(f"[AVISO] DataFrame vazio - nada a inserir na tabela '{tabela}'.")
+        print(f"[AVISO] DATAFRAME VAZIO - NADA A INSERIR NA TABELA '{tabela}'.")
         return
 
-    # Verifica se a coluna 'id' existe no DataFrame
-    if 'id' in df.columns:
-        # Busca os IDs já existentes no banco
-        query = f"SELECT id FROM {tabela};"
-        db_ids = executar_query(query, fetch='all')
-
-        if db_ids.empty:
-            df_dif = df
-        else:
-            df_dif = df[~df['id'].isin(db_ids['id'])]
-
-        if df_dif.empty:
-            print(f"[INFO] Nenhum novo registro para inserir na tabela '{tabela}'.")
-        else:
-            inserir_dados(tabela, df_dif)
-            print(f"[OK] {len(df_dif)} novos registros inseridos na tabela '{tabela}'.")
-    else:
-        # Caso não tenha coluna 'id', insere todos os registros
+    query = f"SELECT * FROM {tabela}"
+    bd_registros = pd.DataFrame(executar_query(query, fetch='all'))
+    
+    if bd_registros.empty:
+        print(f"[AVISO] SEM REGISTROS NO BANCO DE DADOS PARA A TABELA '{tabela}'")
         inserir_dados(tabela, df)
-        print(f"[OK] {len(df)} registros inseridos na tabela '{tabela}' (sem controle de ID).")
+        return
 
-def atualizar_registros(df,db,tabela,chave_conflito):
-    if isinstance(chave_conflito,str):
-        chave_conflito = [chave_conflito]
+    #NOVOS REGISTROS
+    df_dif = df[~df[chave_duplicada].isin(bd_registros[chave_duplicada])]
+
+    #REGISTROS CANDIDATOS A UPDATE
+    df_merged = df.merge(bd_registros,how='inner',on=chave_duplicada,suffixes=("_api","_bd"))
+
+    condicao_total = pd.Series([False] * len(df_merged)) #VERIFICAR ESSE TRECHO
+    for col in df.columns:
+        if col in chave_duplicada:
+            continue
+        col_api = f"{col}_api"
+        col_bd = f"{col}_bd"
+        if col_api in df_merged.columns and col_bd in df_merged.columns:
+            #COMPARA OS VALORES LEVANDO EM CONTA NANS
+            diferentes = df_merged[col_api].astype(str).fillna('') != df_merged[col_bd].astype(str).fillna('')
+            condicao_total |= diferentes
     
-    colunas_mutaveis = [col for col in df.columns if col not in chave_conflito]
-    
-    df_merged = df.merge(
-        db,
-        on = chave_conflito,
-        how = 'left',
-        suffixes=('_api','_bd')
-    )
+    df_update_base = df_merged[condicao_total]
+    df_update = df[df[chave_duplicada].isin(df_update_base[chave_duplicada])]
 
-    condicoes_diferenca = [
-        df_merged[f'{col}_api'] != df_merged[f'{col}_bd']
-        for col in colunas_mutaveis
-        if f'{col}_bd' in df_merged.columns  # Garante que a coluna existe no df_merged
-    ]
-
-    # Combina todas as condições usando o operador de OU
-    if condicoes_diferenca:
-        df_dif = df_merged.loc[
-            np.logical_or.reduce(condicoes_diferenca)
-        ]
+    if not df_dif.empty:
+        try:
+            inserir_dados(tabela, df_dif)
+            print(f"[OK] {len(df_dif)} REGISTROS INSERIDOS EM '{tabela}'.")
+        except Exception as e:
+            print(f"[ERRO] NÃO FOI POSSIVEL INCLUIR REGISTROS NA TABELA '{tabela}': {e}")
     else:
-        df_dif = pd.DataFrame(columns=df.columns)
+        print(f"[AVISO] DATAFRAME VAZIO - NADA NOVO A INSERIR NA TABELA '{tabela}'.")
 
-    if df_dif.empty and len(df) == len(db):
-        print("Registros Atualizados")
-    else:
-        # Filtra os dados do df_rounds que precisam ser atualizados
-        chaves_para_atualizar = df_dif[chave_conflito]
-        df_para_atualizar = df.merge(chaves_para_atualizar, on=chave_conflito, how='inner')
-    
-        # Aqui você pode chamar sua função de update ou fazer UPSERT
-        inserir_dados(tabela, df_para_atualizar, chave_conflito=', '.join(chave_conflito))
-        print(f"{len(df_para_atualizar)} registros atualizados.")
+    try:
+        if not df_update.empty:
+            try:
+                atualizar_registros(tabela, df_update,chave_duplicada)
+                print(f"[OK] {len(df_update)} ATUALIZADOS NA TABELA {tabela} COM SUCESSO!")
+            except Exception as e:
+                print(f"[ERRO] NÃO FOI POSSIVEL ATUALIZAR REGISTROS NA TABELA '{tabela}': {e}")
+        else:
+            print(f"[AVISO] DATAFRAME VAZIO - NADA PARA ATUALIZAR NA TABELA '{tabela}'.")
+    except Exception as e:
+        print(f"[ERRO] FALHA AO ATUALIZAR REGISTROS NA TABELA '{tabela}': {e}")
+   
 
 def buscar_partidas_para_coletar_stats():
     query = """
@@ -73,6 +64,7 @@ def buscar_partidas_para_coletar_stats():
         WHERE status = 'Ended';    
     """
     return executar_query(query, fetch='all')
+
    
     
 

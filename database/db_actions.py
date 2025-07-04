@@ -6,7 +6,7 @@ import psycopg2
 from psycopg2 import sql
 
 
-def inserir_dados(tabela, dados, chave_conflito='id'):
+def inserir_dados(tabela, dados):
     conn = conectar_banco()
     cursor = conn.cursor()
 
@@ -17,29 +17,49 @@ def inserir_dados(tabela, dados, chave_conflito='id'):
     #CRIA UM TUPLO PARA CADA LINHA DO DATAFRAME
     valores = [tuple(x) for x in dados.to_numpy()]
 
-    #GERA SET PARA COLUNAS QUE SERÃO ATUALIZADAS (EXCLUINDO A CHAVE DE CONFLITO)
-    colunas_para_update = [col for col in colunas if col != chave_conflito]
-    set_update = ", ".join([f"{col} = EXCLUDED.{col}" for col in colunas_para_update])
-
-
     query = f"""
     INSERT INTO {tabela} ({colunas_str})
     VALUES %s
-    ON CONFLICT ({chave_conflito}) DO UPDATE SET
-    {set_update}
     """
 
     try:
         execute_values(cursor,query,valores)
         conn.commit()
-        print("UPSERT concluído com sucesso.")
+        print("[OK] Insert concluído com sucesso.")
     except Exception as e:
         conn.rollback()
         print("Erro ao inserir os dados:", e)
     finally:
-        print("Processo concluído")
         cursor.close()
         conn.close()
+
+def atualizar_registros(tabela, dados, chave_duplicada):
+    if isinstance(chave_duplicada, str):
+        chave_duplicada = [chave_duplicada]
+
+    conn = conectar_banco()
+    cursor = conn.cursor()
+
+    colunas = list(dados.columns)
+    colunas_update = [col for col in colunas if col not in chave_duplicada]
+
+    set_clause = ",".join([f"{col} = %s" for col in colunas_update])
+    where_clause = " AND ".join(f"{col} = %s" for col in chave_duplicada)
+    query = f"UPDATE {tabela} SET {set_clause} WHERE {where_clause}"
+
+    for _, row in dados.iterrows():
+        valores_set = [row[col] for col in colunas_update]
+        valores_where = [row[col] for col in chave_duplicada]
+        valores = valores_set + valores_where
+
+        try:
+            cursor.execute(query,valores)
+        except Exception as e:
+            print(f"[ERRO] AO ATUALIZAR REGISTRO {valores_where}: {e}")
+
+    conn.commit()
+    cursor.close()
+    conn.close()
 
 
 
