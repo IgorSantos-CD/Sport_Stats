@@ -5,23 +5,30 @@ CREATE TABLE countries (
     id INT PRIMARY KEY,
     name VARCHAR(100) NOT NULL,
     slug_name VARCHAR(100),
-    priority INT NULL,
     flag VARCHAR(100)
+);
+
+-- =====================
+-- Tabela Unique_competitions
+-- =====================
+CREATE TABLE unique_competitions (
+    id INT PRIMARY KEY,
+    name VARCHAR(150) NOT NULL,
+    slug_name VARCHAR(150),
+    location_name VARCHAR(100),
+    location_id INT REFERENCES countries(id),
+    location_flag VARCHAR(100),
+    sport_name VARCHAR(100)
 );
 
 -- =====================
 -- Tabela Competitions
 -- =====================
+
 CREATE TABLE competitions (
-    id INT PRIMARY KEY,
-    name VARCHAR(150) NOT NULL,
+    name VARCHAR(150),
     slug_name VARCHAR(150),
-    primary_color VARCHAR(10),
-    secondary_color VARCHAR(10),
-    location_name VARCHAR(100),
-    location_id INT REFERENCES countries(id),
-    location_flag VARCHAR(100),
-    sport_name VARCHAR(100)
+    unique_comp_id INT REFERENCES unique_competitions(id)
 );
 
 -- =====================
@@ -71,12 +78,13 @@ CREATE TABLE matches (
     id_competition INT REFERENCES competitions(id),
     home_team_id INT REFERENCES teams(id),
     away_team_id INT REFERENCES teams(id),
-    home_score INT,
-    away_score INT,
+    home_score_ft INT,
+    away_score_ft INT,
     winner VARCHAR(50),
     round VARCHAR(50),
-    venue VARCHAR(100),
-    timestamp BIGINT
+    timestamp BIGINT,
+    home_score_ht INT,
+    away_score_ht INT
 );
 
 -- =====================
