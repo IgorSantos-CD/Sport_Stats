@@ -119,7 +119,6 @@ def coletar_partidas_temporada(id_season, id_competition):
 
     print(partidas[0])
 
-
 def coletar_partidas_por_rodada():
     query = """
         SELECT id_season, id_competition, total_rounds, current_round_number

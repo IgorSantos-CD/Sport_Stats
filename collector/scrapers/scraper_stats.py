@@ -1,6 +1,6 @@
 from collector.selenium_local import iniciar_driver
 from database import executar_query
-from collector.utils import parse_stats_partida, delay_aleatorio,transformar_json, atualizar_db
+from collector.utils import delay_aleatorio,transformar_json, atualizar_db
 from selenium.webdriver.common.by import By
 from tqdm import tqdm
 import json
@@ -45,7 +45,7 @@ def coletar_stats_partida():
             pre = driver.find_element(By.TAG_NAME, 'pre').text
             json_data = transformar_json(pre)
 
-            stats = parse_stats_partida(json_data, match_id, home_team_id, away_team_id)
+            stats = json_data, match_id, home_team_id, away_team_id
             if stats:
                 df_stats = pd.DataFrame(stats)
                 # GERA ASSINATURA PARA REMOVER DUPLICADOS
