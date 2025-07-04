@@ -5,3 +5,6 @@ from .scraper_seasons import coletar_seasons
 from .scraper_rounds import coletar_rodadas
 from .scraper_matches import coletar_partidas_por_rodada
 from .scraper_stats import coletar_stats_partida
+from .scraper_jogos_do_dia import coletar_jogos_do_dia
+from .scraper_jogos_passados import coletar_jogos_anteriores
+from .scraper import coleta_por_data
