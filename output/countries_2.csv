@@ -1,0 +1,58 @@
+,id,name,slug_name,priority,flag
+0,1468,World,world,0,international
+1,1465,Europe,europe,0,europe
+2,26,USA,usa,0,usa
+3,13,Brazil,brazil,0,brazil
+4,280,Paraguay,paraguay,0,paraguay
+5,165,Ecuador,ecuador,0,ecuador
+6,51,Ireland,ireland,0,ireland
+7,52,Japan,japan,0,japan
+8,20,Peru,peru,0,peru
+9,291,South Korea,south-korea,0,south-korea
+10,48,Argentina,argentina,0,argentina
+11,91,Belarus,belarus,0,belarus
+12,379,Bolivia,bolivia,0,bolivia
+13,99,China,china,0,china
+14,92,Estonia,estonia,0,estonia
+15,19,Finland,finland,0,finland
+16,10,Iceland,iceland,0,iceland
+17,278,Kazakhstan,kazakhstan,0,kazakhstan
+18,163,Latvia,latvia,0,latvia
+19,160,Lithuania,lithuania,0,lithuania
+20,5,Norway,norway,0,norway
+21,281,Venezuela,venezuela,0,venezuela
+24,1470,South America,south-america,0,south-america
+25,310,Saudi Arabia,saudi-arabia,0,saudi-arabia
+26,1467,Asia,asia,0,asia
+28,1,England,england,0,england
+30,1469,North & Central America,north-central-america,0,north-and-central-america
+31,388,Canada,canada,0,canada
+37,1466,Africa,africa,0,africa
+51,67,Greece,greece,0,greece
+52,22,Scotland,scotland,0,scotland
+53,18,Czech Republic,czech-republic,0,czech-republic
+54,8,Denmark,denmark,0,denmark
+55,11,Hungary,hungary,0,hungary
+56,297,Azerbaijan,azerbaijan,0,azerbaijan
+57,78,Bulgaria,bulgaria,0,bulgaria
+58,25,Switzerland,switzerland,0,switzerland
+59,21,Russia,russia,0,russia
+60,130,Northern Ireland,northern-ireland,0,northern-ireland
+61,158,Bosnia & Herzegovina,bosnia-herzegovina,0,bosnia-herzegovina
+62,1582,Bosnia & Herzegovina Amateur,bosnia-and-herzegovina-amateur,0,bosnia-herzegovina
+63,152,Serbia,serbia,0,serbia
+64,12,Mexico,mexico,0,mexico
+65,274,Colombia,colombia,0,colombia
+66,77,Romania,romania,0,romania
+67,122,Germany Amateur,germany-amateur,0,germany
+68,30,Germany,germany,0,germany
+69,17,Austria,austria,0,austria
+70,97,Austria Amateur,austria-amateur,0,austria
+71,23,Slovakia,slovakia,0,slovakia
+72,512,Liechtenstein,liechtenstein,0,liechtenstein
+73,86,Ukraine,ukraine,0,ukraine
+74,14,Croatia,croatia,0,croatia
+75,35,Netherlands,netherlands,0,netherlands
+76,33,Belgium,belgium,0,belgium
+77,252,England Amateur,england-amateur,0,england
+78,47,Poland,poland,0,poland

@@ -1,0 +1,151 @@
+,id,name,slug_name,location_name,location_id,location_flag,sport_name
+0,357,FIFA Club World Cup,club-world-championship,World,1468,international,Football
+1,477,Women's Euro,womens-euro,Europe,1465,europe,Football
+2,242,MLS,mls,USA,26,usa,Football
+3,390,Brasileirão Série B,brasileirao-serie-b,Brazil,13,brazil,Football
+4,11541,"Primera División, Clausura",primera-division-clausura,Paraguay,280,paraguay,Football
+5,240,LigaPro Serie A,ligapro-serie-a,Ecuador,165,ecuador,Football
+6,192,Premier Division,premier-division,Ireland,51,ireland,Football
+7,196,J1 League,j1-league,Japan,52,japan,Football
+8,406,Liga 1,liga-1,Peru,20,peru,Football
+9,13363,USL Championship,usl-championship,USA,26,usa,Football
+10,851,International Friendly Games,int-friendly-games,World,1468,international,Football
+11,777,K League 2,k-league-2,South Korea,291,south-korea,Football
+12,1024,Copa Argentina,copa-argentina,Argentina,48,argentina,Football
+13,169,Vysshaya Liga,vysshaya-liga,Belarus,91,belarus,Football
+14,19891,Copa Division Profesional,copa-division-profesional,Bolivia,379,bolivia,Football
+15,10383,Copa Paulista,copa-paulista,Brazil,13,brazil,Football
+16,782,Chinese League 1,cfa-china-league,China,99,china,Football
+17,178,Premium Liiga,premium-liiga,Estonia,92,estonia,Football
+18,41,Veikkausliiga,veikkausliiga,Finland,19,finland,Football
+19,55,Ykkösliiga,ykkosliiga,Finland,19,finland,Football
+20,188,Besta deild karla,besta-deild-karla,Iceland,10,iceland,Football
+21,193,Ireland 1st Division,first-division,Ireland,51,ireland,Football
+22,402,J2 League,j2-league,Japan,52,japan,Football
+23,682,Kazakhstan Premier League,premier-league,Kazakhstan,278,kazakhstan,Football
+24,197,Virsliga,virsliga,Latvia,163,latvia,Football
+25,198,A Lyga,a-lyga,Lithuania,160,lithuania,Football
+26,11085,"2nd Division, Group 1",2nd-division-group-1,Norway,5,norway,Football
+27,150299,USL Cup,usl-cup,USA,26,usa,Football
+28,231,Liga FUTVE,primera-division,Venezuela,281,venezuela,Football
+29,853,Club Friendly Games,club-friendly-games,World,1468,international,Football
+30,852,International Friendly Games Women,int-friendly-games-women,World,1468,international,Football
+32,325,Brasileirão Betano,brasileirao-serie-a,Brazil,13,brazil,Football
+33,480,CONMEBOL Sudamericana,conmebol-sudamericana,South America,1470,south-america,Football
+34,373,Copa Betano do Brasil,copa-do-brasil,Brazil,13,brazil,Football
+35,955,Saudi Pro League,saudi-pro-league,Saudi Arabia,310,saudi-arabia,Football
+36,463,AFC Champions League Elite,afc-champions-league,Asia,1467,asia,Football
+37,384,CONMEBOL Libertadores,conmebol-libertadores,South America,1470,south-america,Football
+38,17015,UEFA Conference League,uefa-europa-conference-league,Europe,1465,europe,Football
+39,17,Premier League,premier-league,England,1,england,Football
+42,20378,UEFA Women's Nations League,uefa-nations-league-women,Europe,1465,europe,Football
+43,878,"Women's Euro, Qualification",womens-euro-qualification,Europe,1465,europe,Football
+45,495,US Open Cup,us-open-cup,USA,26,usa,Football
+46,498,CONCACAF Champions Cup,concacaf-champions-cup,North & Central America,1469,north-and-central-america,Football
+47,9230,Canadian Championship,canadian-championship,Canada,388,canada,Football
+49,11540,"Primera División, Apertura",primera-division-apertura,Paraguay,280,paraguay,Football
+53,323,Emperor Cup,emperor-cup,Japan,52,japan,Football
+54,101,J. League Cup,j-league-cup,Japan,52,japan,Football
+60,13,World Cup Qual. CAF ,world-championship-qual-caf,Africa,1466,africa,Football
+61,1848,Africa Cup of Nations Qual.,africa-cup-of-nations-qual,Africa,1466,africa,Football
+63,615,Korean Cup,korean-cup,South Korea,291,south-korea,Football
+65,155,Liga Profesional de Fútbol,liga-profesional-de-futbol,Argentina,48,argentina,Football
+67,578,Belarus Cup,belarus-cup,Belarus,91,belarus,Football
+69,16736,División Profesional,division-profesional,Bolivia,379,bolivia,Football
+71,1234,"Paulista, Série A2",paulista-serie-a2,Brazil,13,brazil,Football
+73,882,CFA Cup,cfa-cup,China,99,china,Football
+75,731,Eesti Karikas,eesti-karikas,Estonia,92,estonia,Football
+77,220,Suomen Cup,suomen-cup,Finland,19,finland,Football
+80,504,Icelandic Men's Football Cup,icelandic-mens-football-cup,Iceland,10,iceland,Football
+82,24544,Munster Senior Cup,munster-senior-cup,Ireland,51,ireland,Football
+85,749, Kazakhstan Cup,kazakhstan-cup,Kazakhstan,278,kazakhstan,Football
+87,761,Latvijas Kauss,latvijas-kauss,Latvia,163,latvia,Football
+89,812,LFF Cup,lff-cup,Lithuania,160,lithuania,Football
+91,29,NM Cup,nm-cup,Norway,5,norway,Football
+92,13362,USL League One,usl-league-one,USA,26,usa,Football
+94,10528,Copa Venezuela,copa-venezuela,Venezuela,281,venezuela,Football
+95,185,Stoiximan Super League,stoiximan-super-league,Greece,67,greece,Football
+96,36,Scottish Premiership,premiership,Scotland,22,scotland,Football
+97,206,Scottish Championship,championship,Scotland,22,scotland,Football
+98,172,Chance Liga,1-liga,Czech Republic,18,czech-republic,Football
+99,282,Czech Cup,czech-cup,Czech Republic,18,czech-republic,Football
+100,76,Oddset Pokalen,oddset-pokalen,Denmark,8,denmark,Football
+101,39,Danish Superliga,superliga,Denmark,8,denmark,Football
+102,187,NB I,nb-i,Hungary,11,hungary,Football
+103,305,Magyar Kupa,magyar-kupa,Hungary,11,hungary,Football
+104,740,Azerbaijan Cup,azerbaijan-cup,Azerbaijan,297,azerbaijan,Football
+105,709,Misli Premier League,misli-premier-league,Azerbaijan,297,azerbaijan,Football
+106,247,Parva Liga,parva-liga,Bulgaria,78,bulgaria,Football
+107,215,Swiss Super League,super-league,Switzerland,25,switzerland,Football
+108,399,Schweizer Cup,schweizer-cup,Switzerland,25,switzerland,Football
+109,1101,Promotion League,promotion-league,Switzerland,25,switzerland,Football
+110,203,Russian Premier League,premier-liga,Russia,21,russia,Football
+111,91,Russian Cup,russian-cup,Russia,21,russia,Football
+112,200,NIFL Premiership,premiership,Northern Ireland,130,northern-ireland,Football
+113,767,Irish Cup,irish-cup,Northern Ireland,130,northern-ireland,Football
+114,222,WWIN Liga BiH,wwin-premijer-liga,Bosnia & Herzegovina,158,bosnia-herzegovina,Football
+115,20360,Kup Republike Srpske,kup-republike-srpske,Bosnia & Herzegovina Amateur,1582,bosnia-herzegovina,Football
+116,26693,Super Kup,super-kup,Bosnia & Herzegovina,158,bosnia-herzegovina,Football
+117,721,Mozzart Bet Prva Liga,mozzart-bet-prva-liga,Serbia,152,serbia,Football
+118,11620,"Liga MX, Clausura",liga-mx-clausura,Mexico,12,mexico,Football
+119,11539,"Primera A, Apertura",primera-a-apertura,Colombia,274,colombia,Football
+120,152,Romanian Super Liga,superliga,Romania,77,romania,Football
+121,355,Cupa României Betano,cupa-romaniei-betano,Romania,77,romania,Football
+122,23039,Hessenpokal,hessenpokal,Germany Amateur,122,germany,Football
+123,491,3. Liga,3-liga,Germany,30,germany,Football
+124,1079,Regionalliga Südwest,regionalliga-sudwest,Germany Amateur,122,germany,Football
+125,45,Austrian Bundesliga,bundesliga,Austria,17,austria,Football
+126,135,2. Liga,2-liga,Austria,17,austria,Football
+127,47,Danish 1st Division,1st-division,Denmark,8,denmark,Football
+128,35,Bundesliga,bundesliga,Germany,30,germany,Football
+129,44,2. Bundesliga,2-bundesliga,Germany,30,germany,Football
+130,11096,Regionalliga Playoffs,regionalliga-playoffs,Germany Amateur,122,germany,Football
+131,42,Regionalliga Nord,regionalliga-nord,Germany Amateur,122,germany,Football
+132,493,Regionalliga West,regionalliga-west,Germany Amateur,122,germany,Football
+133,22834,Landesliga Tirol,landesliga-tirol,Austria Amateur,97,austria,Football
+134,9240,Kerschdorfer Tirol Cup,kerschdorfer-tirol-cup,Austria,97,austria,Football
+135,53275,ÖFB Amateurcup,ofb-amateurcup,Austria,17,austria,Football
+136,205,FNL,fnl,Czech Republic,18,czech-republic,Football
+137,211,Niké Liga,nike-liga,Slovakia,23,slovakia,Football
+138,166,Regionalliga Ost,regionalliga-ost,Austria Amateur,97,austria,Football
+139,445,ÖFB Cup,ofb-cup,Austria,17,austria,Football
+140,210,Mozzart Bet Superliga,mozzart-bet-superliga,Serbia,152,serbia,Football
+141,1085,Regionalliga Bayern,regionalliga-bayern,Germany Amateur,122,germany,Football
+142,26771,Bayerischer Totopokal,bayerischer-totopokal,Germany Amateur,122,germany,Football
+143,216,Challenge League,challenge-league,Switzerland,25,switzerland,Football
+144,757,FL1 Aktiv - Cup,fl1-aktiv-cup,Liechtenstein,512,liechtenstein,Football
+145,6712,STFV Cup,steirer-cup,Austria,97,austria,Football
+146,22842,Landesliga Steiermark,landesliga-steiermark,Austria Amateur,97,austria,Football
+147,347,Scottish Cup,scottish-cup,Scotland,22,scotland,Football
+148,24,League One,league-one,England,1,england,Football
+149,22843,Landesliga Vorarlberg,landesliga-vorarlberg,Austria Amateur,97,austria,Football
+150,43326,VFV Cup,vfv-cup,Austria,97,austria,Football
+151,218,Ukrainian Premier League,premier-league,Ukraine,86,ukraine,Football
+152,312,Ukraine Cup,ukraine-cup,Ukraine,86,ukraine,Football
+153,170,HNL,hnl,Croatia,14,croatia,Football
+154,150,Oberliga NOFV Süd,oberliga-nofv-sud,Germany Amateur,122,germany,Football
+155,1083,Regionalliga Nordost,regionalliga-nordost,Germany Amateur,122,germany,Football
+156,37,Eredivisie,eredivisie,Netherlands,35,netherlands,Football
+157,38,Pro League,pro-league,Belgium,33,belgium,Football
+158,168,Regionalliga Mitte,regionalliga-mitte,Austria Amateur,97,austria,Football
+159,9,Challenger Pro League,challenger-pro-league,Belgium,33,belgium,Football
+160,1105,Oberliga Mittelrhein,oberliga-mittelrhein,Germany Amateur,122,germany,Football
+161,21352,BFV Cup,bfv-cup,Austria Amateur,97,austria,Football
+162,22828,Landesliga Burgenland,landesliga-burgenland,Austria Amateur,97,austria,Football
+163,174,National League South,national-league-south,England Amateur,252,england,Football
+164,173,National League,national-league,England,1,england,Football
+165,229,Betclic 1. Liga,i-liga,Poland,47,poland,Football
+166,515,Betclic 2. Liga,ii-liga,Poland,47,poland,Football
+167,9387,CFL,cfl,Czech Republic,18,czech-republic,Football
+168,202,Ekstraklasa,ekstraklasa,Poland,47,poland,Football
+169,25,League Two,league-two,England,1,england,Football
+170,11315,"Betclic 3. Liga, Group 3",iii-liga-group-3,Poland,47,poland,Football
+171,11402,Tweede Divisie,tweede-divisie,Netherlands,35,netherlands,Football
+172,131,Eerste Divisie,eerste-divisie,Netherlands,35,netherlands,Football
+173,679,UEFA Europa League,uefa-europa-league,Europe,1465,europe,Football
+174,21485,"Northern Premier League, Division One East",northern-premier-league-division-one-east,England Amateur,252,england,Football
+175,65,Danish 2nd Division,2nd-division,Denmark,8,denmark,Football
+176,18,Championship,championship,England,1,england,Football
+177,334,Football League Trophy,football-league-trophy,England,1,england,Football
+178,13773,"Pan American Games, Women",pan-american-games-women,World,1468,international,Football
+179,3076,SheBelieves Cup,shebelieves-cup,World,1468,international,Football

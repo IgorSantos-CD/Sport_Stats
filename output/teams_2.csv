@@ -1,0 +1,1297 @@
+,id,name,short_name,primary_color,secondary_color,country_alpha
+0,1961,Fluminense,Fluminense,#374df5,#374df5,BRA
+1,21895,Al-Hilal,Al-Hilal,#374df5,#374df5,SAU
+2,1963,Palmeiras,Palmeiras,#374df5,#374df5,BRA
+3,38,Chelsea,Chelsea,#374df5,#374df5,ENG
+4,38081,Belgium,Belgium,#374df5,#374df5,BEL
+5,22025,Italy,Italy,#374df5,#374df5,ITA
+6,37371,Spain,Spain,#374df5,#374df5,ESP
+7,22027,Portugal,Portugal,#374df5,#374df5,PRT
+8,7414,Denmark,Denmark,#374df5,#374df5,DNK
+9,7423,Sweden,Sweden,#374df5,#374df5,SWE
+10,23992,Germany,Germany,#374df5,#374df5,DEU
+11,22026,Poland,Poland,#374df5,#374df5,POL
+12,187643,New York City FC,NY City,#374df5,#374df5,USA
+13,7080,Toronto FC,Toronto,#374df5,#374df5,CAN
+14,2512,FC Dallas,Dallas,#374df5,#374df5,USA
+15,41618,Minnesota United,Minnesota,#374df5,#374df5,USA
+16,2510,Colorado Rapids,Colorado,#374df5,#374df5,USA
+17,2509,Sporting Kansas City,Kansas City,#374df5,#374df5,USA
+18,2513,LA Galaxy,LA Galaxy,#374df5,#374df5,USA
+19,22010,Vancouver Whitecaps,Vancouver,#374df5,#374df5,CAN
+20,7314,Atlético Goianiense,Atlético-GO,#374df5,#374df5,BRA
+21,22032,CRB,CRB,#374df5,#374df5,BRA
+22,1982,Coritiba,Coritiba,#374df5,#374df5,BRA
+23,6982,Volta Redonda,Volta Redonda,#374df5,#374df5,BRA
+24,292595,Recoleta FC,Recoleta,#374df5,#374df5,PRY
+25,39722,Sportivo Trinidense,Trinidense,#374df5,#374df5,PRY
+26,394127,Libertad,,#374df5,#374df5,ECU
+27,5251,Deportivo Cuenca,Cuenca,#374df5,#374df5,ECU
+28,3170,Derry City,Derry City,#374df5,#374df5,NIR
+29,3194,Waterford FC,Waterford,#374df5,#374df5,IRL
+30,3180,Drogheda United,Drogheda Utd,#374df5,#374df5,IRL
+31,137382,Galway United,Galway Utd,#374df5,#374df5,IRL
+32,3174,Shelbourne,Shelbourne,#374df5,#374df5,IRL
+33,40896,Cork City,,#374df5,#374df5,IRL
+34,3169,St. Patrick's Athletic,St. Patrick’s,#374df5,#374df5,IRL
+35,3173,Bohemian FC,Bohemian FC,#374df5,#374df5,IRL
+36,44409,Machida Zelvia,Machida Z,#374df5,#374df5,JPN
+37,3133,Shimizu S-Pulse,Shimizu,#374df5,#374df5,JPN
+38,34034,Fagiano Okayama,Okayama,#374df5,#374df5,JPN
+39,3135,Sanfrecce Hiroshima,Hiroshima,#374df5,#374df5,JPN
+40,3141,Cerezo Osaka,Cerezo Osaka,#374df5,#374df5,JPN
+41,3138,Gamba Osaka,Gamba Osaka,#374df5,#374df5,JPN
+42,3140,Kashiwa Reysol,Kashiwa,#374df5,#374df5,JPN
+43,3147,FC Tokyo,Tokyo,#374df5,#374df5,JPN
+44,5127,Kawasaki Frontale,Kawasaki,#374df5,#374df5,JPN
+45,3134,Kashima Antlers,Kashima,#374df5,#374df5,JPN
+46,3149,Kyoto Sanga FC,Kyoto Sanga,#374df5,#374df5,JPN
+47,5128,Albirex Niigata,Albirex Niigata,#374df5,#374df5,JPN
+48,3136,Nagoya Grampus,Nagoya,#374df5,#374df5,JPN
+49,3139,Tokyo Verdy,Tokyo Verdy,#374df5,#374df5,JPN
+50,3146,Vissel Kobe,Vissel Kobe,#374df5,#374df5,JPN
+51,21905,Shonan Bellmare,Shonan,#374df5,#374df5,JPN
+52,7061,Yokohama FC,Yokohama,#374df5,#374df5,JPN
+53,3137,Yokohama F. Marinos,Yokohama FM,#374df5,#374df5,JPN
+54,33895,Sport Huancayo,Sport Huancayo,#374df5,#374df5,PER
+55,87854,Universidad Técnica de Cajamarca,UTC,#374df5,#374df5,PER
+56,252254,Los Chankas CYC,Los Chankas,#374df5,#374df5,PER
+57,335557,Asociación Deportiva Tarma,ADT,#374df5,#374df5,PER
+58,310969,Loudoun United FC,Loudoun United,#374df5,#374df5,USA
+59,217781,Orange County SC,Orange County SC,#374df5,#374df5,USA
+60,23635,Pittsburgh Riverhounds,Pittsburgh Riverhounds,#374df5,#374df5,USA
+61,310531,New Mexico United,New Mexico United,#374df5,#374df5,USA
+62,197065,Colorado Springs Switchbacks FC,Switchbacks FC,#374df5,#374df5,USA
+63,197070,Louisville City FC,Louisville City,#374df5,#374df5,USA
+64,310532,El Paso Locomotive FC,Locomotive,#374df5,#374df5,USA
+65,217134,San Antonio FC,San Antonio,#374df5,#374df5,USA
+66,276898,Las Vegas Lights,,#374df5,#374df5,USA
+67,153498,Sacramento Republic FC,Sacramento Republic,#374df5,#374df5,USA
+68,154018,Phoenix Rising FC,Phoenix Rising,#374df5,#374df5,USA
+69,460707,Lexington SC,Lexington SC,#374df5,#374df5,USA
+70,4739,Senegal,Senegal,#374df5,#374df5,SEN
+71,4826,Guinea,Guinea,#374df5,#374df5,GIN
+72,314293,Cheongju FC,Cheongju,#374df5,#374df5,KOR
+73,189422,Seoul E-Land FC,,#374df5,#374df5,KOR
+74,339827,Chungnam Asan FC,Chungnam Asan,#374df5,#374df5,KOR
+75,7652,Suwon Samsung Bluewings,Suwon Bluewings,#374df5,#374df5,KOR
+76,22020,Gyeongnam FC,Gyeongnam,#374df5,#374df5,KOR
+77,248375,Ansan Greeners FC,,#374df5,#374df5,KOR
+78,7643,Jeonnam Dragons,Jeonnam,#374df5,#374df5,KOR
+79,7648,Incheon United,Incheon Utd,#374df5,#374df5,KOR
+80,4937,Instituto De Córdoba,Instituto,#374df5,#374df5,ARG
+81,7629,Huracán,Huracán,#374df5,#374df5,ARG
+82,381792,ML Vitebsk,ML Vitebsk,#374df5,#374df5,BLR
+83,3361,Dinamo Minsk,Dinamo Minsk,#374df5,#374df5,BLR
+84,3359,Torpedo-BelAZ Zhodino,Torpedo-BelAZ,#374df5,#374df5,BLR
+85,197956,Molodechno-2018,Molodechno,#374df5,#374df5,BLR
+86,3353,Dynamo Brest,Dynamo Brest,#374df5,#374df5,BLR
+87,36881,SFK Slutsk,Slutsk,#374df5,#374df5,BLR
+88,3356,Neman Grodno,Neman,#374df5,#374df5,BLR
+89,42965,FC Isloch Minsk Region,Isloch,#374df5,#374df5,BLR
+90,6968,Blooming,Blooming,#374df5,#374df5,BOL
+91,7059,Bolívar,Bolívar,#374df5,#374df5,BOL
+92,7878,Jorge Wilstermann,Wilstermann,#374df5,#374df5,BOL
+93,47700,Nacional Potosí,Nacional Potosí,#374df5,#374df5,BOL
+94,32529,The Strongest,The Strongest,#374df5,#374df5,BOL
+95,423186,CD Totora Real Oruro,Totora Real Oruro,#374df5,#374df5,BOL
+96,505268,GV San José,GV San José,#374df5,#374df5,BOL
+97,423188,Academia del Balompié Boliviano,ABB,#374df5,#374df5,BOL
+98,47701,Guabirá,Guabirá,#374df5,#374df5,BOL
+99,372975,Independiente Petrolero,Independiente Petrolero,#374df5,#374df5,BOL
+100,61692,XV de Piracicaba,XV de Piracicaba,#374df5,#374df5,BRA
+101,188777,EC Primavera,Primavera,#374df5,#374df5,BRA
+102,135512,Taubaté,Taubaté,#374df5,#374df5,BRA
+103,225186,Portuguesa Santista,,#374df5,#374df5,BRA
+104,508178,Dalian Kuncheng City,,#374df5,#374df5,CHN
+105,382024,Shijiazhuang Gongfu,SJZ Gongfu,#374df5,#374df5,CHN
+106,311351,Guangxi Pingguo Haliao,Guangxi,#374df5,#374df5,CHN
+107,510602,Shaanxi Union FC,Shaanxi Union FC,#374df5,#374df5,CHN
+108,196341,Jiangxi Dingnan United,Jiangxi Dingnan United,#374df5,#374df5,CHN
+109,164044,Suzhou Dongwu,Suzhou,#374df5,#374df5,CHN
+110,311370,Qingdao Red Lions,Red Lions,#374df5,#374df5,CHN
+111,510603,Shenzhen Juniors FC,,#374df5,#374df5,CHN
+112,32476,Paide Linnameeskond,Paide,#374df5,#374df5,EST
+113,3342,FCI Levadia Tallinn,Levadia,#374df5,#374df5,EST
+114,5114,AC Oulu,Oulu,#374df5,#374df5,FIN
+115,2244,KuPS,KuPS,#374df5,#374df5,FIN
+116,2249,FC Lahti,Lahti,#374df5,#374df5,FIN
+117,2263,Jippo Joensuu,JIPPO,#374df5,#374df5,FIN
+118,2273,KäPa,KäPa,#374df5,#374df5,FIN
+119,2254,TPS,TPS,#374df5,#374df5,FIN
+120,23422,JäPS,JäPS,#374df5,#374df5,FIN
+121,22394,SalPa,,#374df5,#374df5,FIN
+122,1914,Afturelding,,#374df5,#374df5,ISL
+123,1901,Breidablik Kópavogur,Breiðablik,#374df5,#374df5,ISL
+124,3171,Bray Wanderers,,#374df5,#374df5,IRL
+125,7128,Wexford FC,Wexford,#374df5,#374df5,IRL
+126,3185,Cobh Ramblers FC,Cobh Ramblers,#374df5,#374df5,IRL
+127,3198,Athlone Town,Athlone Town,#374df5,#374df5,IRL
+128,3181,Finn Harps,,#374df5,#374df5,IRL
+129,3175,Longford Town,,#374df5,#374df5,IRL
+130,459718,Kerry FC,Kerry FC,#374df5,#374df5,IRL
+131,3179,Dundalk FC,Dundalk ,#374df5,#374df5,IRL
+132,3168,University College Dublin,UC Dublin,#374df5,#374df5,IRL
+133,377765,Treaty United FC,Treaty United,#374df5,#374df5,IRL
+134,3142,Hokkaido Consadole Sapporo,Sapporo,#374df5,#374df5,JPN
+135,38146,Renofa Yamaguchi FC,Yamaguchi,#374df5,#374df5,JPN
+136,44523,Blaublitz Akita,Blaublitz A,#374df5,#374df5,JPN
+137,21901,Mito Hollyhock,Mito Hollyhock,#374df5,#374df5,JPN
+138,38154,V-Varen Nagasaki,Nagasaki,#374df5,#374df5,JPN
+139,5129,Oita Trinita,Oita,#374df5,#374df5,JPN
+140,79907,FC Imabari,Imabari,#374df5,#374df5,JPN
+141,5762,Ventforet Kofu,Ventforet Kofu,#374df5,#374df5,JPN
+142,3144,JEF United Chiba,Chiba,#374df5,#374df5,JPN
+143,21904,Sagan Tosu,S. Tosu,#374df5,#374df5,JPN
+144,5130,RB Omiya Ardija,RB Omiya Ardija,#374df5,#374df5,JPN
+145,256899,Iwaki FC,Iwaki,#374df5,#374df5,JPN
+146,21907,Tokushima Vortis,Tokushima V,#374df5,#374df5,JPN
+147,118500,Fujieda MYFC,Fujieda,#374df5,#374df5,JPN
+148,3148,Vegalta Sendai,Sendai,#374df5,#374df5,JPN
+149,34035,Kataller Toyama,Toyama,#374df5,#374df5,JPN
+150,5172,Kairat Almaty,Kairat,#374df5,#374df5,KAZ
+151,316183,FC Turan,Turan,#374df5,#374df5,KAZ
+152,68718,RFS,RFS,#374df5,#374df5,LVA
+153,146336,FK Liepaja,Liepāja,#374df5,#374df5,LVA
+154,5345,FK Žalgiris,Žalgiris,#374df5,#374df5,LTU
+155,35388,FK Banga Gargždai,Banga,#374df5,#374df5,LTU
+156,94839,Sotra,,#374df5,#374df5,NOR
+157,929,Sandnes Ulf,Sandnes,#374df5,#374df5,NOR
+158,1044341,FC Naples,,#374df5,#374df5,USA
+159,41617,FC Tampa Bay Rowdies,Tampa Bay,#374df5,#374df5,USA
+160,230725,Academia Puerto Cabello,Puerto Cabello,#374df5,#374df5,VEN
+161,162480,Metropolitanos,Metropolitanos,#374df5,#374df5,VEN
+162,36437,Deportivo La Guaira,La Guaira,#374df5,#374df5,VEN
+163,6233,Monagas,Monagas,#374df5,#374df5,VEN
+164,3252,Aris Thessaloniki,Aris,#374df5,#374df5,GRC
+165,2356,Livingston,Livingston,#374df5,#374df5,SCO
+166,2218,AC Sparta Praha,Sparta Praha,#374df5,#374df5,CZE
+167,1284,FC København,København,#374df5,#374df5,DNK
+168,6059,Paksi FC,Paks,#374df5,#374df5,HUN
+169,267828,Sabah FK,Sabah FK,#374df5,#374df5,AZE
+170,3273,Levski Sofia,Levski Sofia,#374df5,#374df5,BGR
+171,3281,Beroe Stara Zagora,Beroe,#374df5,#374df5,BGR
+172,2445,Young Boys,Young Boys,#374df5,#374df5,CHE
+173,2464,SC Kriens,Kriens,#374df5,#374df5,CHE
+174,2321,Zenit St. Petersburg,Zenit,#374df5,#374df5,RUS
+175,362016,Dinamo Makhachkala,Dinamo Makhachkala,#374df5,#374df5,RUS
+176,5181,Cliftonville FC,,#374df5,#374df5,NIR
+177,5276,Loughgall,,#374df5,#374df5,NIR
+178,5235,FK Borac Banja Luka,Borac,#374df5,#374df5,BIH
+179,5159,FK Voždovac,Voždovac,#374df5,#374df5,SRB
+180,3212,Newell's Old Boys,Newell's,#374df5,#374df5,ARG
+181,1946,Mazatlán FC,Mazatlán ,#374df5,#374df5,MEX
+182,1947,Cruz Azul,Cruz Azul,#374df5,#374df5,MEX
+183,6118,Once Caldas,Once Caldas,#374df5,#374df5,COL
+184,1915,MTK Budapest,MTK Budapest,#374df5,#374df5,HUN
+185,116223,Universitatea Craiova,U. Craiova,#374df5,#374df5,ROU
+186,2597,SV Wehen Wiesbaden,Wehen,#374df5,#374df5,DEU
+187,5887,TSG Hoffenheim II U23,Hoffenheim II U23,#374df5,#374df5,DEU
+188,43254,Austria Klagenfurt,A. Klagenfurt,#374df5,#374df5,AUT
+189,2103,Sturm Graz II,Sturm II,#374df5,#374df5,AUT
+190,1371,Hillerød,Hillerød,#374df5,#374df5,DNK
+191,1290,AaB,Aalborg,#374df5,#374df5,DNK
+192,2586,Kickers Offenbach,Offenbach,#374df5,#374df5,DEU
+193,2598,SV 07 Elversberg,Elversberg,#374df5,#374df5,DEU
+194,7827,TSV Havelse,Havelse,#374df5,#374df5,DEU
+195,2552,SC Rot-Weiß Oberhausen,Oberhausen,#374df5,#374df5,DEU
+196,2205,FK Jablonec,Jablonec,#374df5,#374df5,CZE
+197,2088,FC Wacker Innsbruck,Wacker,#374df5,#374df5,AUT
+198,2220,FC Zlín,Zlín,#374df5,#374df5,CZE
+199,2398,AS Trenčín,Trenčín,#374df5,#374df5,SVK
+200,2139,SV Oberwart,Oberwart,#374df5,#374df5,AUT
+201,2075,TSV Hartberg,Hartberg,#374df5,#374df5,AUT
+202,2315,Dynamo Moscow,Dynamo,#374df5,#374df5,RUS
+203,5152,FK Partizan,Partizan,#374df5,#374df5,SRB
+204,52767,Eintracht Bamberg 2010,E. Bamberg,#374df5,#374df5,DEU
+205,2536,TSV 1860 München,1860 München,#374df5,#374df5,DEU
+206,2449,Grasshopper Club Zürich,Grasshoppers,#374df5,#374df5,CHE
+207,2463,FC Vaduz,Vaduz,#374df5,#374df5,LIE
+208,2052,Grazer AK 1902,GAK 1902,#374df5,#374df5,AUT
+209,309013,SV Tillmitsch,SV Tillmitsch,#374df5,#374df5,AUT
+210,2353,Heart of Midlothian,Hearts,#374df5,#374df5,SCO
+211,4875,Crawley Town,Crawley,#374df5,#374df5,ENG
+212,159396,SC Admira Dornbirn,Admira Dornbirn,#374df5,#374df5,AUT
+213,2062,SC Austria Lustenau,A. Lustenau,#374df5,#374df5,AUT
+214,162360,SV Leobendorf,Leobendorf,#374df5,#374df5,AUT
+215,7785,Floridsdorfer AC,FAC,#374df5,#374df5,AUT
+216,3313,Shakhtar Donetsk,Shakhtar,#374df5,#374df5,UKR
+217,43917,HNK Gorica,Gorica,#374df5,#374df5,HRV
+218,5405,WSG Tirol,Tirol,#374df5,#374df5,AUT
+219,2217,FC Hradec Králové,Hradec Králové,#374df5,#374df5,CZE
+220,422627,SC Freital,SC Freital,#374df5,#374df5,DEU
+221,2620,FSV Zwickau,Zwickau,#374df5,#374df5,DEU
+222,2100,SR Donaufeld,Donaufeld,#374df5,#374df5,AUT
+223,2054,First Vienna,,#374df5,#374df5,AUT
+224,2957,Fortuna Sittard,Fortuna,#374df5,#374df5,NLD
+225,2890,KRC Genk,Genk,#374df5,#374df5,BEL
+226,292680,Ilzer SV,,#374df5,#374df5,AUT
+227,2143,SC Weiz,Weiz,#374df5,#374df5,AUT
+228,35076,Patro Eisden Maasmechelen,Patro,#374df5,#374df5,BEL
+229,6188,Bonner SC,Bonner SC,#374df5,#374df5,DEU
+230,2106,SC Krems,Krems,#374df5,#374df5,AUT
+231,164372,LASK Amateure OÖ,LASK Amateure ,#374df5,#374df5,AUT
+232,213929,USV Gnas,Gnas,#374df5,#374df5,AUT
+233,292322,Jennersdorf,Jennersdorf,#374df5,#374df5,AUT
+234,219,Aveley FC,,#374df5,#374df5,ENG
+235,121,Dagenham & Redbridge,Dag & Red,#374df5,#374df5,ENG
+236,34725,Chippenham Town,Chippenham,#374df5,#374df5,ENG
+237,76,Bristol Rovers,,#374df5,#374df5,ENG
+238,2347,Kilmarnock,Kilmarnock,#374df5,#374df5,SCO
+239,2364,Ayr United,Ayr,#374df5,#374df5,SCO
+240,2203,Austria Wien,Austria Wien,#374df5,#374df5,AUT
+241,6064,Bohemians Praha 1905,Bohemians,#374df5,#374df5,CZE
+242,53296,Chrobry Głogów,Chrobry Głogów,#374df5,#374df5,POL
+243,283734,Świt Skolwin Szczecin,Świt Szczecin,#374df5,#374df5,POL
+244,7790,FC Liefering,Liefering,#374df5,#374df5,AUT
+245,162364,Union Gurten,,#374df5,#374df5,AUT
+246,2443,FC Lugano,Lugano,#374df5,#374df5,CHE
+247,37390,FC Rapperswil-Jona,Rapperswil-Jona,#374df5,#374df5,CHE
+248,2453,FC Luzern,Luzern,#374df5,#374df5,CHE
+249,2458,FC Winterthur,Winterthur,#374df5,#374df5,CHE
+250,2211,FK Viktoria Žižkov,Viktoria Žižkov,#374df5,#374df5,CZE
+251,2213,1.FK Příbram,Příbram,#374df5,#374df5,CZE
+252,6178,Holstein Kiel II U23,Kiel II U23,#374df5,#374df5,DEU
+253,24072,Eintracht Norderstedt,Norderstedt,#374df5,#374df5,DEU
+254,3121,Lech Poznań,Lech,#374df5,#374df5,POL
+255,2204,Baník Ostrava,Baník,#374df5,#374df5,CZE
+256,4,Milton Keynes Dons,MK Dons,#374df5,#374df5,ENG
+257,2359,St. Mirren,St Mirren,#374df5,#374df5,SCO
+258,2224,Mladá Boleslav,Mladá Boleslav,#374df5,#374df5,CZE
+259,7739,Dukla Praha,Dukla Praha,#374df5,#374df5,CZE
+260,2402,MŠK Žilina,Žilina,#374df5,#374df5,SVK
+261,23951,MFK Karviná,Karviná,#374df5,#374df5,CZE
+262,7692,Polonia Bytom,,#374df5,#374df5,POL
+263,201973,Śląsk Wrocław II,Śląsk Wrocław II,#374df5,#374df5,POL
+264,2221,SK Dynamo České Budějovice,Dynamo Č.B.,#374df5,#374df5,CZE
+265,36024,FC Sellier & Bellot Vlašim,Sellier & Bellot Vlašim,#374df5,#374df5,CZE
+266,2119,SKN St. Pölten,St. Pölten,#374df5,#374df5,AUT
+267,201430,FCM Traiskirchen,FCM Traiskirchen,#374df5,#374df5,AUT
+268,6475,De Treffers,Treffers,#374df5,#374df5,NLD
+269,2949,De Graafschap,De Graafschap,#374df5,#374df5,NLD
+270,2953,AFC Ajax,Ajax,#374df5,#374df5,NLD
+271,2354,Hibernian,Hibernian,#374df5,#374df5,SCO
+272,35031,Bradford Park Avenue,Bradford PA,#374df5,#374df5,ENG
+273,87,FC Halifax Town,Halifax,#374df5,#374df5,ENG
+274,2455,FC Wil 1900,FC Wil,#374df5,#374df5,CHE
+275,2450,FC Zürich,Zürich,#374df5,#374df5,CHE
+276,36095,HB Køge,HB Køge,#374df5,#374df5,DNK
+277,22163,Middelfart,,#374df5,#374df5,DNK
+278,1,Queens Park Rangers,QPR,#374df5,#374df5,ENG
+279,133,Stevenage,,#374df5,#374df5,ENG
+280,31,Leicester City,Leicester,#374df5,#374df5,ENG
+281,54,Peterborough United,Peterborough Utd,#374df5,#374df5,ENG
+282,49281,Chile,Chile,#374df5,#374df5,CHL
+283,282524,Bolivia,Bolivia,#374df5,#374df5,BOL
+284,7410,Australia,Australia,#374df5,#374df5,AUS
+285,132954,Panama,Panama,#374df5,#374df5,PAN
+288,2697,Inter,Inter,#1a57cc,#000000,ITA
+289,7665,Mamelodi Sundowns,Sundowns,#ffe000,#008100,ZAF
+290,7653,Ulsan HD,Ulsan,#0066ff,#0066ff,KOR
+291,2673,Borussia Dortmund,Dortmund,#ffe600,#000000,DEU
+292,2001,Ceará,Ceará,#000000,#ffffff,BRA
+293,1966,Internacional,Internacional,#cc0000,#cc0000,BRA
+295,1974,Vasco da Gama,Vasco,#ffffff,#000000,BRA
+296,32794,AA Aparecidense,Aparecidense,#ffffff,#000042,BRA
+297,1980,Juventude,Juventude,#006600,#ffffff,BRA
+298,17,Manchester City,Man City,#66ccff,#ffffff,ENG
+299,1936,CF Pachuca,Pachuca,#ffffff,#008bce,MEX
+300,2046,Red Bull Salzburg,RB Salzburg,#ffffff,#ff0000,AUT
+301,2829,Real Madrid,Real Madrid,#ffffff,#004996,ESP
+302,56027,Al-Qadsiah,Al-Qadsiah,#cc0000,#cc0000,SAU
+303,32994,Al-Wehda,Al-Wehda,#ff0000,#ff0000,SAU
+304,56023,Al-Fateh,Al-Fateh,#0084c8,#ffffff,SAU
+305,114259,Al-Orobah,Al-Orobah,#02872e,#ffff66,SAU
+306,56031,Al-Raed,Al-Raed,#ff0000,#000000,SAU
+307,34469,Al-Ahli,Al-Ahli,#339900,#ffffff,SAU
+309,1958,Botafogo,Botafogo,#000000,#ffffff,BRA
+310,337602,Inter Miami CF,Inter Miami,#212322,#f6b5cc,USA
+311,6910,Al Ahly FC,Al Ahly,#cc0000,#990000,EGY
+312,3002,FC Porto,Porto,#194f93,#ffffff,PRT
+313,1954,Cruzeiro,Cruzeiro,#0033cc,#0033cc,BRA
+314,2302,Club Sporting Cristal,Sporting Cristal,#33ccff,#ffffff,PER
+315,5981,Flamengo,Flamengo,#ff0000,#000000,BRA
+316,1999,Red Bull Bragantino,RB Bragantino,#363636,#d8d8d6,BRA
+318,3006,Benfica,Benfica,#cc0000,#ffffff,PRT
+320,59628,Espérance Tunis,Espérance,#ede664,#e04f5b,TUN
+321,274650,Los Angeles FC,Los Angeles,#303030,#c39e69,USA
+322,2816,Real Betis,Real Betis,#ffffff,#006633,ESP
+323,14,Nottingham Forest,Forest,#cc0000,#cc0000,ENG
+324,35,Manchester United,Man Utd,#ff0000,#373737,ENG
+325,39,Newcastle United,Newcastle,#000000,#ffffff,ENG
+326,1759,Djurgårdens IF,Djurgården,#33ccff,#000099,SWE
+327,44,Liverpool,Liverpool,#cc0000,#ffffff,ENG
+330,35316,Greece,Greece,#ffffff,#005bae,GRC
+331,32485,France,France,#01509e,#e30613,FRA
+334,7415,England,England,#ffffff,#cc0000,ENG
+335,32483,Ukraine,Ukraine,#ffcc00,#0033ff,UKR
+336,34015,Wales,Wales,#ff0000,#00813c,WAL
+340,41488,Malta,Malta,#ff0000,#ffffff,MLT
+341,21802,Finland,Finland,#ffffff,#0066b3,FIN
+342,7418,Japan,Japan,#000080,#ed1b24,JPN
+343,21922,South Korea,South Korea,#ff0000,#0000ff,KOR
+344,7420,Nigeria,Nigeria,#39b54a,#ffffff,NGA
+345,7752,Czechia,Czechia,#cc0000,#025095,CZE
+346,38080,Azerbaijan,Azerbaijan,#0071b8,#ffffff,AZE
+347,22024,Iceland,Iceland,#0033ff,#ffffff,ISL
+348,32484,Netherlands,Netherlands,#ff6600,#281fe0,NLD
+349,65336,South Africa,South Africa,#ffd800,#008040,ZAF
+350,7422,Norway,Norway,#ef2b2d,#001f5b,NOR
+351,38100,Serbia,Serbia,#ff0033,#ffffff,SRB
+352,38097,Luxembourg,Luxembourg,#ff0000,#ffffff,LUX
+354,34014,Austria,Austria,#ff0000,#ffffff,AUT
+355,37372,Scotland,Scotland,#00005e,#ffffff,SCO
+356,38103,Switzerland,Switzerland,#ff0000,#ffffff,CHE
+358,7611,Romania,Romania,#f7bd00,#ff0000,ROU
+359,38099,Northern Ireland,Northern Ireland,#1c9239,#ffffff,NIR
+360,38082,Bosnia & Herzegovina,Bosnia & Herzegovina,#2d4a99,#ffffff,BIH
+363,22006,CF Montréal,Montréal,#0033ff,#000000,CAN
+364,243211,Atlanta United,Atlanta,#000000,#80000a,USA
+365,337612,Nashville SC,Nashville,#0f1545,#ece83a,USA
+366,2508,Houston Dynamo,Houston,#ff6600,#ffffff,USA
+367,2505,Chicago Fire,Chicago,#ff0000,#000066,USA
+368,2506,New York Red Bulls,NY Red Bulls,#ffffff,#cc0000,USA
+369,2502,DC United,DC United,#000000,#ff0000,USA
+371,215167,FC Cincinnati,Cincinnati,#0433ff,#ff7309,USA
+372,22007,Portland Timbers,Portland,#006633,#006633,USA
+373,404108,Charlotte FC,Charlotte,#3180ff,#010101,USA
+374,39833,Philadelphia Union,Philadelphia,#000033,#999900,USA
+375,2511,New England Revolution,New England,#000066,#ff0000,USA
+377,1043961,San Diego FC,San Diego FC,#374df5,#374df5,USA
+378,21825,San Jose Earthquakes,San Jose,#3366ff,#000000,USA
+380,22009,Seattle Sounders FC,Seattle,#33cc00,#0066ff,USA
+381,5133,Real Salt Lake,Salt Lake,#cc0000,#ffff00,USA
+382,1044343,AV Alta FC,AV Alta FC,#374df5,#374df5,USA
+385,377973,Austin FC,Austin,#1ca949,#000000,USA
+386,407803,St.Louis City,St. Louis,#374df5,#374df5,USA
+390,52237,Orlando City SC,Orlando,#660099,#ffffff,USA
+391,2504,Columbus Crew,Columbus,#000000,#ffff00,USA
+393,313717,Valour FC,Valour,#bb2529,#000000,CAN
+396,2021,Vila Nova FC,Vila Nova,#ff0000,#ffffff,BRA
+399,1967,Athletico,Athletico,#000000,#cc0000,BRA
+400,1960,Goiás,Goiás,#006633,#ffffff,BRA
+401,1973,América Mineiro,América-MG,#056635,#ffffff,BRA
+402,2012,Remo,Remo,#182748,#222226,BRA
+403,7315,Avaí,Avaí,#0066ff,#ffffff,BRA
+404,135514,Novorizontino,Novorizontino,#b4982d,#1d2329,BRA
+405,336664,Amazonas FC,Amazonas,#fec900,#000000,BRA
+406,35285,Ferroviária,Ferroviária,#9c271a,#ffffff,BRA
+407,1979,Botafogo-SP,Botafogo-SP,#ffffff,#ff0000,BRA
+408,1968,Santos,Santos,#ffffff,#ffffff,BRA
+409,1984,Criciúma,Criciúma,#ffff00,#000000,BRA
+410,49202,Cuiabá,Cuiabá,#ffffff,#006600,BRA
+411,39634,Operário-PR,Operário-PR,#ffffff,#000000,BRA
+412,1997,Paysandu SC,Paysandu,#ffffff,#3333ff,BRA
+413,342775,Athletic Club,Athletic,#222220,#ffffff,BRA
+414,5997,Olimpia,Olimpia,#ffffff,#000000,PRY
+417,5998,Sportivo Luqueño,Sportivo Luqueño,#ffffff,#ffffff,PRY
+418,318176,Club Atlético Tembetary,Tembetary,#374df5,#374df5,PRY
+419,323510,Sportivo Ameliano,,#ffffff,#00008b,PRY
+420,5994,Guaraní,Guaraní,#000000,#ffff33,PRY
+421,5991,Cerro Porteño,Cerro Porteño,#cc0000,#003366,PRY
+422,33001,Nacional Asunción,Nacional,#ffffff,#ffffff,PRY
+423,5996,Libertad,Libertad,#ffffff,#000000,PRY
+424,5992,CS 2 de Mayo,2 de Mayo,#0000cc,#ffffff,PRY
+425,387619,General Caballero,General Caballero,#374df5,#374df5,PRY
+426,5250,Barcelona SC,Barcelona SC,#fce000,#000000,ECU
+428,21941,Técnico Universitario,Técnico,#b80606,#dfdfdf,ECU
+429,39723,Independiente Del Valle,Ind. Del Valle,#002945,#e8ac35,ECU
+430,465299,Vinotinto Fútbol Club,,#374df5,#374df5,ECU
+431,6001,Macará,Macará,#80cfee,#091249,ECU
+432,5257,LDU,LDU,#ffffff,#ffffff,ECU
+433,213638,Delfín,Delfín,#004597,#ffc414,ECU
+434,5249,Aucas,Aucas,#d4252a,#ffdd00,ECU
+435,21942,Universidad Católica del Ecuador,Universidad Católica,#4bacd2,#222226,ECU
+436,134976,Mushuc Runa,Mushuc Runa,#00e100,#009933,ECU
+437,5255,Emelec,Emelec,#0000cc,#333399,ECU
+439,5254,El Nacional,,#f60404,#222226,ECU
+440,277525,Orense SC,Orense,#7cfc00,#00009a,ECU
+441,33561,Manta FC,Manta,#00ccff,#4b0082,ECU
+449,3177,Shamrock Rovers,Shamrock Rovers,#008100,#ffffff,IRL
+451,3190,Sligo Rovers,Sligo Rovers,#ff0000,#ffffff,IRL
+456,519658,Kyoto Sangyo University,,#374df5,#374df5,JPN
+466,26011,Matsumoto Yamaga FC,Matsumoto,#008130,#ffffff,JPN
+469,3143,Avispa Fukuoka,Fukuoka,#023d7d,#023d7d,JPN
+470,40029,Giravanz Kitakyushu,Kitakyushu,#ffd20d,#ed1c24,JPN
+473,317853,Brew Saga,Brew Saga,#374df5,#374df5,JPN
+476,79905,Arterivo Wakayama,Wakayama,#374df5,#374df5,JPN
+477,3145,Urawa Red Diamonds,Urawa Reds,#cc0033,#cc0033,JPN
+478,162636,Veertien Mie,Veertien Mie,#374df5,#374df5,JPN
+479,3132,Jubilo Iwata,Jubilo Iwata,#66ccff,#000033,JPN
+480,1042571,Toyo University,Toyo University,#374df5,#374df5,JPN
+482,38138,Zweigen Kanazawa,Zweigen Kanazawa,#e30000,#fb7d00,JPN
+483,38140,Fukushima United FC,Fukushima Utd,#ed1c24,#ca0628,JPN
+484,21906,Thespa Gunma,Kusatsu,#ffc90e,#000000,JPN
+485,38148,Nara Club,Nara,#374df5,#374df5,JPN
+486,368307,Fukuyama City FC,,#374df5,#374df5,JPN
+487,556310,Veroskronos Tsuno,,#374df5,#374df5,JPN
+488,26009,Tochigi SC,Tochigi,#fee401,#00003e,JPN
+489,230706,Kochi United SC,Kochi,#374df5,#374df5,JPN
+490,21900,FC Gifu,Gifu,#247d37,#044a0f,JPN
+491,44519,Iwate Grulla Morioka,Iwate,#ffffff,#000000,JPN
+492,281540,ReinMeer Aomori FC,ReinMeer Aomori,#374df5,#374df5,JPN
+495,275839,Deportivo Binacional,Binacional,#215fba,#feffff,PER
+496,2308,Melgar,Melgar,#000000,#ff0000,PER
+497,2311,Alianza Lima,Alianza Lima,#091d47,#ffffff,PER
+498,2312,Sport Boys,Sport Boys,#ffc0db,#000000,PER
+499,306660,Alianza Universidad,Alianza Universidad,#ff0000,#0000c8,PER
+500,282538,Club Atlético Grau,Atlético Grau,#ffffff,#ff0000,PER
+501,2301,Cienciano,,#ff0000,#ff0000,PER
+502,213609,Comerciantes Unidos,,#ffff00,#ffff00,PER
+504,458584,Deportivo Garcilaso,,#374df5,#374df5,PER
+505,2305,Universitario,Universitario,#ffffcc,#ffffcc,PER
+507,33894,Ayacucho,Ayacucho,#ffffff,#000000,PER
+508,511206,ADC Juan Pablo II,,#374df5,#374df5,PER
+509,2307,Alianza Atlético de Sullana,Alianza Atlético,#ffffff,#6600ff,PER
+510,63760,Cusco FC,Cusco,#00ffff,#33ffff,PER
+513,197072,Charlotte Independence,,#3038af,#3038af,USA
+514,310968,Hartford Athletic,,#009943,#ffffff,USA
+515,285642,Detroit City FC,,#802629,#c7990b,USA
+516,22004,Charleston Battery,Charleston Battery,#fddf12,#fddf12,USA
+517,218106,Miami FC,Miami FC,#66ccff,#ff8c00,USA
+523,405944,Monterey Bay FC,Monterey Bay,#374df5,#374df5,USA
+526,22003,North Carolina FC,NCFC,#01426a,#01426a,USA
+527,197071,FC Tulsa,FC Tulsa,#ff7f00,#ff7f00,USA
+528,325107,Oakland Roots SC,Oakland Roots,#000000,#ffffff,USA
+529,1044342,Westchester SC,,#374df5,#374df5,USA
+531,148992,Indy Eleven,Indy Eleven,#18324d,#18324d,USA
+532,502355,Rhode Island FC,Rhode Island,#374df5,#374df5,USA
+534,338006,Union Omaha SC,Union Omaha,#000000,#cddc29,USA
+535,310967,Birmingham Legion FC,Birmingham Legion,#000000,#ffffff,USA
+536,1044344,Texoma FC,,#374df5,#374df5,USA
+537,502354,Spokane Velocity FC,Spokane Velocity,#374df5,#374df5,USA
+538,23841,Richmond Kickers,Richmond Kickers,#600d12,#ffffff,USA
+541,4713,England,England,#ffffff,#cc0000,ENG
+542,4693,Ireland,Ireland,#139442,#ffffff,IRL
+543,4836,Togo,,#ffff00,#5cb640,TGO
+544,4734,Sudan,Sudan,#ff0000,#ffffff,SDN
+545,8034,Liberia,Liberia,#3333ff,#ff0000,LBR
+546,4750,Burundi,Burundi,#ff0000,#00a04d,BDI
+547,4749,Burkina Faso,Burkina Faso,#008000,#fc0303,BFA
+548,8043,Malawi,Malawi,#ff0000,#5abb5f,MWI
+549,4726,Uganda,Uganda,#ff0606,#f4f300,UGA
+550,23472,Somalia,Somalia,#75aadb,#ffffff,SOM
+551,23478,Guinea-Bissau,Guinea-Bissau,#ff0000,#116f36,GNB
+552,4768,Côte d'Ivoire,Côte d'Ivoire,#f77f00,#009e60,CIV
+553,4835,Tanzania,Tanzania,#1400c7,#000000,TZA
+554,4823,DR Congo,DR Congo,#007fff,#f8181e,COD
+555,8036,Ethiopia,Ethiopia,#339900,#ffdd00,ETH
+558,7642,Busan I Park,Busan,#e01510,#000000,KOR
+559,7651,Seongnam FC,Seongnam,#000000,#000000,KOR
+564,41263,Cheonan City FC,Cheonan City,#67242c,#a0a0a0,KOR
+566,92539,Bucheon FC 1995,Bucheon,#ff0000,#ffc700,KOR
+567,195174,Hwaseong FC,Hwaseong FC,#374df5,#374df5,KOR
+568,195172,Gimpo FC,,#374df5,#374df5,KOR
+572,3216,Argentinos Juniors,Argentinos Jrs.,#cc0000,#ffffff,ARG
+573,3210,Talleres,Talleres,#050040,#ffffff,ARG
+574,42338,Sarmiento,Sarmiento,#006600,#006600,ARG
+575,3217,Rosario Central,Rosario Central,#000066,#ffcc00,ARG
+576,189723,Deportivo Riestra,Dep. Riestra,#ffffff,#000000,ARG
+577,36833,Atlético Tucumán,Atlético Tucumán,#ffffff,#33ccff,ARG
+578,222120,Deportivo Madryn,,#ffcc00,#000000,ARG
+579,7772,San Martín de San Juan,San Martín,#006600,#000000,ARG
+580,3218,Lanús,Lanús,#660033,#ffffff,ARG
+581,36837,Platense,Platense,#442b0b,#f2f2f2,ARG
+582,1957,Corinthians,Corinthians,#ffffff,#000000,BRA
+583,3209,CA Independiente,Independiente,#cc0000,#cc0000,ARG
+584,6102,América de Cali,América,#ff0000,#ff0000,COL
+585,25010,Racing de Montevideo,Racing,#339900,#ffffff,URY
+586,65668,Barracas Central,Barracas,#ffffff,#ff0000,ARG
+590,3349,Gomel,Gomel,#ffffff,#0f9251,BLR
+593,317897,Arsenal Dzerzhinsk,Arsenal ,#e41f26,#ffffff,BLR
+594,3351,Vitebsk,Vitebsk,#0078f5,#ffffff,BLR
+595,7304,FC Minsk,Minsk,#026ce2,#026ce2,BLR
+596,3350,BATE Borisov,BATE ,#0000cc,#ffcc00,BLR
+597,3358,Slavia Mozyr,Slavia,#ff0000,#000000,BLR
+602,5234,Naftan Novopolotsk,Naftan,#00003e,#ffe517,BLR
+603,289816,FK Bumprom,Bumprom,#66adfb,#074eb8,BLR
+604,7518,KAMAZ Naberezhnye Chelny,KAMAZ,#ffffff,#0000ff,RUS
+605,7305,Smorgon,Smorgon,#ff0000,#000000,BLR
+606,36924,FC Orsha,Orsha,#2020ff,#ffffff,BLR
+607,73172,Neftekhimik Nizhnekamsk,Neftekhimik,#0000ff,#ffffff,RUS
+611,33820,Oriente Petrolero,Oriente,#009900,#ffffff,BOL
+612,335685,CD Real Tomayapo,Real Tomayapo,#00661a,#de1021,BOL
+614,396625,San Antonio Bulo-Bulo,San Antonio,#374df5,#374df5,BOL
+617,268083,Club Always Ready,Always Ready,#ffffff,#cc252b,BOL
+618,268082,FC Universitario de Vinto,Univ. de Vinto,#ffffff,#e50412,BOL
+619,33714,Club Aurora,Club Aurora,#33ccff,#66ccff,BOL
+622,174970,Boston River,Boston River,#265c32,#ff0000,URY
+624,3153,Unión Española,Unión Española,#ff0000,#ffff00,CHL
+625,1972,Guarani,Guarani,#006214,#006214,BRA
+627,6964,Rio Branco-SP,Rio Branco-SP,#374df5,#374df5,BRA
+628,6967,EC São Bento,São Bento,#304593,#6bbef7,BRA
+629,88738,Capivariano,,#ff0000,#ffffff,BRA
+632,88744,São José EC,São José,#000060,#0000ff,BRA
+633,2025,Ituano,Ituano,#c1394e,#181d25,BRA
+634,135524,Votuporanguense,Votuporanguense,#ffffff,#000000,BRA
+635,243813,Paulista,Paulista,#000000,#f40000,BRA
+636,6966,EC Santo André,Santo André,#ffffff,#000080,BRA
+637,6960,Juventus-SP,Juventus,#810000,#ffffff,BRA
+638,32779,Oeste,Oeste,#ff0000,#000000,BRA
+639,252408,Grêmio Prudente,Grêmio Prudente,#374df5,#374df5,BRA
+640,1964,São Caetano,São Caetano,#003399,#ff0033,BRA
+642,6965,Rio Claro FC,Rio Claro,#1f1063,#ffffff,BRA
+645,369532,Qingdao West Coast,Qingdao ,#ff2245,#c9a75e,CHN
+647,474989,Chongqing Tonglianglong FC,,#374df5,#374df5,CHN
+648,221238,Shanghai Jiading Huilong,Jiading,#ff0000,#222226,CHN
+649,508366,Foshan Nanshi,Foshan,#374df5,#374df5,CHN
+650,34694,Changchun Yatai,Changchun,#ff0000,#ff0000,CHN
+652,221240,Liaoning Tieren FC,Liaoning Tieren ,#0057a1,#0176bc,CHN
+654,251278,Nantong Zhiyun,Nantong,#0040ff,#000000,CHN
+656,369494,Nanjing City,Nanjing,#79c5ea,#0f1839,CHN
+657,3376,Beijing Guoan,Beijing,#006633,#006633,CHN
+659,510606,Guangzhou E-Power FC,Guangzhou E-Power FC,#374df5,#374df5,CHN
+661,382025,Yanbian Longding,Yanbian Longding,#374df5,#374df5,CHN
+662,221241,Chengdu Rongcheng,Chengdu,#52d017,#ffff00,CHN
+663,474991,Yunnan Yukun,Yunnan Yukun,#374df5,#374df5,CHN
+664,295152,Wuhan Three Towns,Three Towns,#1932b1,#ffffff,CHN
+665,41537,Shanghai Port,Port,#d90000,#840000,CHN
+666,3371,Shandong Taishan,Shandong,#ff6600,#ffffff,CHN
+667,474992,Dalian Yingbo FC,Dalian Yingbo,#374df5,#374df5,CHN
+670,138566,Tartu JK Tammeka,Tammeka,#0033ff,#0033ff,EST
+671,3346,Flora Tallinn,Flora,#008000,#ffffff,EST
+672,247090,Pärnu JK Vaprus,Pärnu,#fde910,#000000,EST
+673,3343,Narva Trans,Trans,#cc0000,#cc0000,EST
+674,8091,Nõmme Kalju,Kalju,#000000,#ff00ff,EST
+675,197994,Harju Jalgpallikool,,#ff1600,#ffffff,EST
+676,7106,FC Kuressaare,Kuressaare,#ffff33,#ffffff,EST
+677,7105,Tallinna Kalev,T. Kalev,#000000,#000000,EST
+680,2246,VPS,VPS,#000000,#ffffff,FIN
+681,22395,SJK,SJK,#000000,#000000,FIN
+682,2252,FF Jaro,Jaro,#ff0000,#ff0000,FIN
+683,2242,HJK,HJK,#0000cc,#ffffff,FIN
+684,50525,PK-35,PK-35,#f22b0c,#000000,FIN
+685,283886,VJS,VJS,#ffffff,#ff0000,FIN
+686,22386,Ilves,Ilves,#ffff00,#ffff00,FIN
+687,5058,IFK Mariehamn,Mariehamn,#ffffff,#ffffff,FIN
+688,2271,IF Gnistan,Gnistan,#ffff00,#0000ff,FIN
+689,2240,FC Haka,Haka,#ffffff,#000000,FIN
+690,35395,FC Jazz,Jazz,#ff0000,#fed13b,FIN
+691,2269,TPV,TPV,#ff0000,#008000,FIN
+695,5918,HJK Klubi 04,Klubi 04,#0000ff,#ffffff,FIN
+696,22372,EIF,EIF,#438d80,#000000,FIN
+700,89908,SJK Akatemia,SJK Akatemia,#000000,#000000,FIN
+701,2255,KTP,KTP,#339900,#ffffff,FIN
+702,5119,Atlantis FC,Atlantis,#ff0000,#000066,FIN
+703,252567,HJS,HJS,#ed1c24,#000000,FIN
+706,1908,Víkingur Reykjavík,Víkingur,#ff0100,#000000,ISL
+707,1895,ÍBV Vestmannaeyjar,Vestmannaeyjar,#ffffff,#000000,ISL
+708,1893,Fram Reykjavík,Fram,#0000cc,#ffffff,ISL
+709,1898,ÍA Akranes,ÍA,#feb726,#000000,ISL
+710,1894,FH Hafnarfjörður,Hafnarfjörður,#ffffff,#000000,ISL
+711,1899,Valur Reykjavík,Valur,#ff0000,#ff0000,ISL
+712,1904,KA Akureyri,KA Akureyri,#fff200,#0636ad,ISL
+713,1902,KR Reykjavík,KR Reykjavík,#000000,#ffffff,ISL
+714,221305,IF Vestri,IF Vestri,#111749,#ffffff,ISL
+715,1912,Stjarnan Garðabær,Stjarnan,#ffffff,#336699,ISL
+726,3192,Rockmount AFC,Rockmount AFC,#374df5,#374df5,IRL
+728,21903,Roasso Kumamoto,Kumamoto,#ff0000,#000000,JPN
+735,21902,Montedio Yamagata,Yamagata,#0000a0,#ffffff,JPN
+738,8060,Ehime FC,Ehime,#fd1c02,#ffffff,JPN
+743,189234,SC Sagamihara,Sagamihara,#004d00,#000000,JPN
+745,56481,Tsukuba University,Tsukuba,#374df5,#374df5,JPN
+746,1093251,Revenirosso NC,,#374df5,#374df5,JPN
+747,162632,Kagoshima United,Kagoshima Utd,#0d1941,#ffffff,JPN
+748,317851,Fukui United FC,Fukui United,#374df5,#374df5,JPN
+749,368308,FC Baleine Shimonoseki,Shimonoseki,#374df5,#374df5,JPN
+750,35308,Juntendo University,Juntendo U,#374df5,#374df5,JPN
+753,5366,FC Ordabasy,Ordabasy,#ffffff,#2049b7,KAZ
+754,5367,FC Kyzylzhar,Kyzylzhar,#0000ff,#ffffff,KAZ
+755,5364,Zhetysu Taldykorgan,Zhetysu,#ffffff,#0000ff,KAZ
+756,5355,FK Aktobe,Aktobe,#ffffff,#000000,KAZ
+757,5359,FC Okzhetpes,Okzhetpes,#3a478d,#ffffff,KAZ
+758,464803,Yelimay Semey,Yelimay,#374df5,#374df5,KAZ
+759,5363,FK Zhenys,Zhenys,#374df5,#374df5,KAZ
+760,464804,Ulytau FC,Ulytau,#374df5,#374df5,KAZ
+761,5362,FC Tobol,Tobol,#ffff00,#000000,KAZ
+762,36142,FC Kaysar,Kaysar,#ec1937,#000000,KAZ
+763,5356,Atyrau,Atyrau,#ffffff,#008200,KAZ
+766,41498,BFC Daugavpils,Daugavpils,#0000ff,#ffffff,LVA
+767,36081,FS Jelgava,Jelgava,#660000,#000033,LVA
+768,5346,FK Auda,Auda,#40a36d,#000000,LVA
+769,162368,Riga FC,Riga,#002b5b,#ffffff,LVA
+770,282126,SK Super Nova,,#ffff00,#173d7b,LVA
+771,52220,FK Grobiņa,Grobiņa,#e0ffff,#000000,LVA
+772,146782,FK Plavinas DM,FK Plavinas,#374df5,#374df5,LVA
+773,36080,FK Tukums 2000,Tukums 2000,#46c152,#ffffff,LVA
+774,36082,FK Metta,METTA,#008000,#ffffff,LVA
+775,516692,Bauskas Bjss / SC Memele,,#374df5,#374df5,LVA
+778,192763,FK Panevėžys,Panevėžys,#ff0000,#ffffff,LTU
+779,171484,FC Hegelmann,Hegelmann,#0080ff,#000000,LTU
+780,5343,FK Sūduva Marijampolė,Sūduva,#cc0000,#000000,LTU
+781,312564,Šiauliai FA,Šiauliai,#ffff00,#000000,LTU
+782,168446,Džiugas Telšiai,Džiugas,#8c1116,#ffffff,LTU
+783,192536,Dainava Alytus,Dainava,#ff0088,#000080,LTU
+784,80741,FK Kauno Žalgiris,Kauno Žalgiris,#006d3e,#ffffff,LTU
+785,310557,FK Riteriai,Riteriai,#ffff00,#ffff00,LTU
+786,254328,Atmosfera Mažeikiai,Atmosfera Mažeikiai,#ffffff,#db0a34,LTU
+787,689,Træff,Træff,#ffffff,#2e8b57,NOR
+789,954,Brattvåg,Brattvåg,#ffde00,#0000ff,NOR
+790,872,SK Brann II,Brann II,#ff0000,#ffffff,NOR
+791,862,Jerv,,#ffcc00,#ffcc00,NOR
+792,729,Pors Grenland,,#0d7cb4,#867643,NOR
+793,7472,Sandviken,Sandviken,#ffffff,#ff0000,NOR
+794,339270,Eik Tønsberg,Eik Tønsberg,#ffffff,#000000,NOR
+795,755,Arendal,,#ffffff,#000066,NOR
+796,833,Notodden FK,Notodden,#0073c5,#ffffff,NOR
+797,682,Åsane,Åsane,#ff6600,#ff6600,NOR
+798,703,Vard Haugesund,Vard Haugesund,#ff0000,#0000d0,NOR
+800,781,Flekkerøy,Flekkerøy,#0000d0,#ff0000,NOR
+801,193952,Lysekloster IL,Lysekloster,#ffffff,#004691,NOR
+802,709,Vidar,,#ff0000,#ffffff,NOR
+804,253417,South Georgia Tormenta FC,Tormenta FC,#111e3e,#d70056,USA
+805,312631,Chattanooga Red Wolves SC,Chattanooga Red Wolves,#c53d61,#b8cec9,USA
+806,312633,Greenville Triumph SC,Greenville Triumph,#76a041,#2a425f,USA
+807,1044345,Portland Hearts of Pine,,#374df5,#374df5,USA
+808,407748,One Knoxville SC,ONE Knoxville,#374df5,#374df5,USA
+809,6231,Deportivo Táchira,Dep. Táchira,#ffff00,#000000,VEN
+811,6229,Carabobo,Carabobo,#31060f,#222226,VEN
+813,6234,Portuguesa FC,Portuguesa,#8e1212,#000000,VEN
+814,386310,Rayo Zuliano,,#374df5,#374df5,VEN
+815,249952,Universidad Central,UCV,#374df5,#374df5,VEN
+816,7745,Estudiantes de Mérida,Estudiantes de Mérida,#000077,#ff0000,VEN
+819,418693,Anzoátegui FC,Anzoátegui,#374df5,#374df5,VEN
+820,6237,Zamora,Zamora,#ffffff,#000000,VEN
+821,36435,Yaracuyanos FC,Yaracuyanos,#ffffff,#ff0000,VEN
+822,338548,Bolívar SC,Bolívar,#374df5,#374df5,VEN
+823,263715,Angostura FC,,#374df5,#374df5,VEN
+824,6232,Mineros de Guayana,Mineros,#333366,#000000,VEN
+825,6230,Caracas F.C.,Caracas,#cc0000,#ffffff,VEN
+828,6342,Asteras Aktor,Asteras,#ff9900,#0000ff,GRC
+829,3241,OFI Crete,OFI,#000000,#000000,GRC
+830,5062,Atromitos Athens,Atromitos,#0000ff,#0000ff,GRC
+831,3250,AEK Athens,AEK,#000000,#ffff00,GRC
+832,267459,NPS Volos,Volos,#1752bd,#ff0000,GRC
+833,7004,Panetolikos,Panetolikos,#ffff33,#0000ff,GRC
+834,5063,APO Levadiakos,Levadiakos,#339900,#339900,GRC
+835,2369,Alloa Athletic,Alloa,#ffa500,#000000,SCO
+836,2365,Ross County,,#ffffff,#000088,SCO
+837,2358,Partick Thistle,,#ff0000,#000000,SCO
+838,2376,Hamilton Academical,Hamilton,#ffffff,#a80054,SCO
+840,2374,Greenock Morton,Greenock Morton,#0000ff,#ffffff,SCO
+841,2379,Queen's Park FC,Queen's Park,#070707,#ffffff,SCO
+845,2207,SK Sigma Olomouc,Sigma Olomouc,#00519b,#ffffff,CZE
+847,2216,SK Slavia Praha,Slavia Praha,#ffffff,#e10000,CZE
+849,4502,Viktoria Plzeň,Viktoria Plzeň,#ff0000,#0066ff,CZE
+850,2230,FK Pardubice,Pardubice,#e4191f,#ffffff,CZE
+851,43840,Ludogorets,Ludogorets,#006837,#ffffff,BGR
+852,1285,Silkeborg IF,Silkeborg,#ff0000,#ff0000,DNK
+853,1292,FC Nordsjælland,Nordsjælland,#cc0000,#ff0000,DNK
+854,1301,Randers FC,Randers,#3399cc,#3399cc,DNK
+855,1289,FC Midtjylland,Midtjylland,#000000,#cc0000,DNK
+856,1288,Viborg FF,Viborg,#ffffff,#006600,DNK
+857,1281,Brøndby IF,Brøndby,#ffff00,#ffff00,DNK
+858,1291,AGF,AGF,#ffffff,#ffffff,DNK
+861,283972,FK Csíkszereda Miercurea Ciuc,FK Csíkszereda,#e62224,#000000,ROU
+862,25624,Szeged-Csanád Grosics Akadémia,Szeged CSGA,#243560,#000000,HUN
+863,168454,Kalocsai FC,Kalocsai,#374df5,#374df5,HUN
+864,25329,Budaörsi SC,Budaörs,#000084,#ffffff,HUN
+865,23956,Kecskemét TE,Kecskemét,#374df5,#374df5,HUN
+866,1921,Debreceni VSC,Debreceni VSC,#cc0000,#cc0000,HUN
+867,1925,Ferencváros TC,Ferencváros,#339900,#ffffff,HUN
+868,1926,Fehérvár FC,Fehérvár,#f00000,#000d5b,HUN
+869,1923,ETO FC Győr,Győr,#006666,#ffffff,HUN
+870,295403,FC Rapid București,Rapid București,#990000,#ffffff,ROU
+871,5962,Qarabağ,Qarabağ,#000000,#ffffff,AZE
+872,5215,Neftçi Baku PFK,Neftçi,#ffffff,#ffffff,AZE
+873,173406,Zirə FK,Zirə,#67c7ff,#67c7ff,AZE
+874,24036,Şamaxı FK,Şamaxı,#ffffff,#ffffff,AZE
+875,119066,Araz Naxçıvan PFK,Araz,#374df5,#374df5,AZE
+876,231384,Səbail FK,Səbail,#ccf3ff,#000000,AZE
+877,36951,Turan Tovuz,Turan Tovuz,#9f0000,#000000,AZE
+880,32642,PFK Montana 1921,Montana,#0033b2,#ffffff,BGR
+881,111127,FK Radnik Surdulica,Radnik,#0000aa,#ffffff,SRB
+882,45657,OFK Spartak Pleven,Spartak (P),#173aab,#d8b66d,BGR
+883,3280,Cherno More Varna,Cherno More,#00862d,#fbfbfb,BGR
+884,274971,Arda Kardzhali,Arda,#0058fd,#ffffff,BGR
+885,201203,FK Septemvri Sofia,Septemvri,#910d27,#89cbff,BGR
+886,389096,FK Krumovgrad,Krumovgrad,#374df5,#374df5,BGR
+887,3283,FC Chernomorets 1919 Burgas,Chernomorets,#374df5,#374df5,BGR
+888,3278,FK Spartak Varna,Spartak Varna,#2479b3,#e30e3e,BGR
+889,3275,CSKA Sofia,CSKA Sofia,#b40000,#ffffff,BGR
+890,5241,Botev Plovdiv,Botev Plovdiv,#fff200,#fff200,BGR
+891,252080,FC CSKA 1948 Sofia,CSKA 1948 Sofia,#ff0000,#ffffff,BGR
+894,2454,FC Thun,Thun,#cc0000,#cc0000,CHE
+895,34762,FC Breitenrain,Breitenrain,#ffffff,#ff0000,CHE
+897,2501,Basel,Basel,#000099,#990000,CHE
+899,2448,Servette FC,Servette,#660000,#660000,CHE
+900,2446,FC Lausanne-Sport,Lausanne,#ffffff,#31489b,CHE
+901,2472,FC Biel-Bienne 1896,,#ff0000,#ff0000,CHE
+903,2462,FC Baden,Baden,#374df5,#374df5,CHE
+904,200731,FC Grand-Saconnex,Grand-Saconnex,#374df5,#374df5,CHE
+905,309488,Young Boys U21,Young Boys U21,#ffcf00,#000000,CHE
+906,200013,FC Luzern II U21,Luzern U21,#374df5,#374df5,CHE
+907,4497,FC Bulle,Bulle,#374df5,#374df5,CHE
+909,2466,Vevey-Sports,Vevey-Sports,#ffff00,#000000,CHE
+910,2482,FC Zürich II U21,Zürich U21,#ffffff,#ffffff,CHE
+911,2456,SR Delemont,Delemont,#374df5,#374df5,CHE
+914,5149,FK Crvena zvezda,Crvena zvezda,#d90512,#ffffff,SRB
+915,5131,Akhmat Grozny,Akhmat,#ffffff,#009966,RUS
+916,2326,FC Rostov,Rostov,#ffff00,#3300ff,RUS
+917,2325,CSKA Moscow,CSKA,#cc0000,#0000ce,RUS
+918,201654,Pari Nizhny Novgorod,Pari NN,#0000fe,#ffffff,RUS
+920,2338,FC Khimki,Khimki,#000000,#ff0000,RUS
+921,34425,FK Krasnodar,Krasnodar,#005e37,#000000,RUS
+922,74241,FC Ufa,Ufa,#aedfc8,#ff0033,RUS
+923,285689,Akron Togliatti,Akron ,#ff0000,#ffffff,RUS
+924,24118,Orenburg,Orenburg,#0000ff,#ffffff,RUS
+925,2323,FC Spartak Moscow,Spartak ,#cc0000,#cc0000,RUS
+928,39533,Dundela,,#006600,#ffffff,NIR
+929,5270,Coleraine FC,Coleraine FC,#306eff,#ffffff,NIR
+930,5179,Glentoran FC,Glentoran,#41a317,#ff0000,NIR
+931,5271,Dungannon Swifts,,#0000ff,#ffffff,NIR
+932,5279,Portadown FC,Portadown,#ff0000,#ffffff,NIR
+933,5183,Glenavon,Glenavon,#0000ff,#ffffff,NIR
+934,5269,Ballymena United,,#66ccff,#ffffff,NIR
+935,36783,Carrick Rangers,,#ff7800,#000000,NIR
+936,5182,Ards FC,Ards,#0029ff,#ff0000,NIR
+937,5180,Crusaders FC,Crusaders ,#010101,#222226,NIR
+938,5184,Larne FC,Larne FC,#ff0000,#ffffff,NIR
+941,2406,FC Spartak Trnava,FC Spartak Trnava,#ff0000,#000000,SVK
+942,2424,NK Aluminij Kidričevo,Aluminij,#ffffff,#ff0000,SVN
+943,37250,Igman Konjic,Igman,#eb0000,#ffffff,BIH
+944,6144,FK Leotar Trebinje,Leotar,#254e88,#ffffff,BIH
+945,6147,HŠK Posušje,Posušje,#33ccff,#090f0d,BIH
+946,5178,HŠK Zrinjski Mostar,Zrinjski,#ffffff,#f43142,BIH
+947,6149,FK Radnik Bijeljina,Radnik,#0000ff,#ffffff,BIH
+948,6151,FK Velež Mostar,Velež,#ff0000,#ffffff,BIH
+949,353846,FK Borac Kozarska Dubica,Borac Kozarska Dubica,#b21318,#ffffff,BIH
+950,5239,NK Široki Brijeg,Široki Brijeg,#2662bc,#28429f,BIH
+951,5144,FK Javor Ivanjica,Javor,#cc3333,#ffffff,SRB
+952,354394,FK Mladost GAT Novi Sad,Mladost GAT,#d01919,#0033ff,SRB
+953,56019,FK Mačva Šabac,Mačva,#000000,#ff0000,SRB
+954,270973,RFK Grafičar Beograd,Grafičar,#5b0cb3,#e7bece,SRB
+955,416560,OFK Vršac,Vršac,#374df5,#374df5,SRB
+956,5160,FK Borac 1926 Čačak,Borac 1926,#ff0000,#222226,SRB
+957,5157,FK Zemun,Zemun,#00a000,#0000aa,SRB
+959,36839,Defensa y Justicia,Def y Justicia,#ffff00,#339900,ARG
+960,3215,Racing Club,Racing,#00ccff,#ffffff,ARG
+961,3204,Club Atlético Unión de Santa Fe,Unión de Santa Fe,#ffffff,#cc0000,ARG
+962,7628,Tigre,Tigre,#000099,#ff0000,ARG
+963,340428,Kimberley,Kimberley,#374df5,#374df5,ARG
+964,3202,Boca Juniors,Boca Juniors,#003399,#ffcc66,ARG
+965,3206,Estudiantes de La Plata,Estudiantes,#ff0000,#ffffff,ARG
+966,3203,Belgrano,,#3399ff,#3399ff,ARG
+967,1939,Club América,América,#ffff99,#000000,MEX
+968,36525,Club Tijuana,Tijuana,#ff0000,#ffffff,MEX
+969,1938,CD Guadalajara,Guadalajara,#bb0000,#ffffff,MEX
+970,1950,Atlético San Luis,San Luis,#ff0000,#0000ff,MEX
+971,1949,Atlas FC,Atlas ,#e70b17,#000000,MEX
+972,1951,Querétaro FC,Querétaro,#0058b0,#000000,MEX
+973,1932,CF Monterrey,Monterrey,#ffffff,#000000,MEX
+974,1944,Club Necaxa,Necaxa,#ff0000,#ffffff,MEX
+975,159946,Mineros de Zacatecas,Mineros,#aa4243,#222226,MEX
+976,1943,Atlante FC,Atlante,#590900,#222226,MEX
+977,36534,Club León,León,#008040,#66cc33,MEX
+978,1940,Tigres UANL,Tigres,#ffcc00,#0080ff,MEX
+979,6106,Atlético Nacional,Atl. Nacional,#339933,#ffffff,COL
+980,6116,Independiente Santa Fe,Santa Fe,#ffffff,#ff0033,COL
+981,6117,Millonarios,Millonarios,#0000cc,#0000cc,COL
+982,6112,Deportivo Cali,Dep. Cali,#006600,#ffffff,COL
+983,6113,Deportivo Pasto,Dep. Pasto,#cc0000,#cc0000,COL
+986,204657,UTA Arad,UTA Arad,#dc041c,#ffffff,ROU
+987,213357,NŠ Mura,Mura,#000000,#ffffff,SVN
+988,2416,NK Olimpija Ljubljana,Olimpija,#66ff00,#66ff00,SVN
+989,1924,Újpest,Újpest,#660099,#ffffff,HUN
+990,5121,Diósgyőri VTK,DVTK,#ff0000,#ff0000,HUN
+992,3292,FC Dinamo București,Dinamo București,#ff0000,#ffffff,ROU
+993,3301,FCSB,FCSB,#ff0000,#0080ff,ROU
+994,5287,CFR 1907 Cluj,CFR Cluj,#8d2642,#ffffff,ROU
+995,7734,FC Universitatea Cluj,U. Cluj,#ffffff,#000000,ROU
+998,5790,TSG Wörsdorf,Worsdorf,#374df5,#374df5,DEU
+999,5781,KSV Hessen Kassel,Hessen Kassel,#ff0000,#ffffff,DEU
+1000,2546,Alemannia Aachen,Aachen,#000000,#ffff00,DEU
+1001,5880,FC Ingolstadt 04,Ingolstadt,#ff0000,#ff0000,DEU
+1002,2535,Borussia Dortmund II U23,Dortmund II  U23,#ffff00,#000000,DEU
+1003,5777,FSV Frankfurt,,#000000,#0000ff,DEU
+1004,53365,FC Viktoria Köln,Viktoria Köln,#ffffff,#000000,DEU
+1005,2555,SpVgg Unterhaching,Unterhaching,#ff0000,#ff0000,DEU
+1006,2554,1. FC Saarbrücken,Saarbrücken,#000000,#0000ff,DEU
+1007,2540,Arminia Bielefeld,Bielefeld,#092288,#000000,DEU
+1008,162354,TSV Schott Mainz,Schott Mainz,#0101df,#ffffff,DEU
+1009,291534,FC Gießen,Gießen,#ffffff,#be1522,DEU
+1010,6184,FC 08 Villingen,Villingen,#ffffff,#000000,DEU
+1011,5824,FC 08 Homburg,Homburg,#00703c,#ffffff,DEU
+1012,2545,Eintracht Frankfurt II,Eintracht II,#000000,#ff1111,DEU
+1013,2571,1. FSV Mainz 05 II U23,Mainz II U23,#b30000,#ffffff,DEU
+1014,2682,Stuttgarter Kickers,Stuttgarter K.,#33ccff,#ffffff,DEU
+1015,2558,Eintracht Trier,Trier,#0000ff,#000000,DEU
+1016,291536,SG Barockstadt Fulda-Lehnerz,Fulda,#ff0000,#0000ff,DEU
+1019,2158,SC Kalsdorf,SC Kalsdorf,#cd2429,#000000,AUT
+1020,203808,Treibach,Treibach,#374df5,#374df5,AUT
+1022,4856,SC Rheindorf Altach,SCR Altach,#ffffff,#000000,AUT
+1025,2058,LASK,LASK,#ffffff,#000000,AUT
+1026,200733,SV Wildon,SV Wildon,#374df5,#374df5,
+1028,105969,SV Lafnitz,Lafnitz,#fffa2c,#233657,AUT
+1029,2049,SV Ried,Ried,#009b4e,#000000,AUT
+1032,2050,Admira Wacker,Admira,#ff0000,#ff0000,AUT
+1033,2111,SV Horn,Horn,#3300cc,#0000cc,AUT
+1034,2081,ASK Voitsberg,Voitsberg,#374df5,#374df5,AUT
+1037,1756,Lyngby,Lyngby,#003366,#000000,DNK
+1038,1314,Vendsyssel FF,Vendsyssel FF,#ffffff,#000000,DNK
+1039,4873,FC Roskilde,FC Roskilde,#ffffff,#0088cc,DNK
+1040,1298,Boldklubben af 1893,B 93,#ffffff,#323c55,DNK
+1041,1392,Hobro,Hobro,#ffff00,#ffff00,DNK
+1043,506204,Vejgaard,,#374df5,#374df5,DNK
+1044,1295,Sønderjyske Fodbold,Sønderjyske,#66ccff,#66ccff,DNK
+1045,4872,Vejle,Vejle,#fb0000,#ffffff,DNK
+1048,323242,SV Rot-Weiss Walldorf,RW Walldorf,#ff0000,#ffffff,DEU
+1049,165922,TSV Steinbach Haiger,Steinbach,#ff0000,#0081ca,DEU
+1050,229117,1. Göppinger SV,1. Göppinger SV,#ff0000,#000000,DEU
+1051,7872,FC-Astoria Walldorf,Walldorf,#0033ff,#ffffff,DEU
+1052,5885,1. FC Heidenheim,Heidenheim,#243475,#400040,DEU
+1053,2530,FC Schalke 04,Schalke,#0541cd,#ffffff,DEU
+1054,2557,Eintracht Braunschweig,Braunschweig,#ffcc00,#0000e1,DEU
+1055,2523,1. FC Nürnberg,Nürnberg,#990000,#000000,DEU
+1056,2561,SC Paderborn 07,Paderborn,#0000bb,#0000a6,DEU
+1057,2588,Fortuna Düsseldorf,Fortuna,#ffffff,#ff0000,DEU
+1058,2541,Hannover 96,Hannover,#bf0000,#ffffff,DEU
+1059,2567,SSV Jahn Regensburg,Regensburg,#ffffff,#ff0000,DEU
+1062,42600,MTV Wolfenbüttel,Wolfenbuttel,#004f9f,#e30613,DEU
+1063,24093,1. FC Lokomotive Leipzig,Lok Leipzig,#ffec43,#4c66ff,DEU
+1064,7870,VfB Oldenburg,Oldenburg,#0000cc,#0000cc,DEU
+1065,360190,Blau-Weiss Lohne,BW Lohne,#374df5,#374df5,DEU
+1066,5047,Kickers Emden,Emden,#0000ff,#0000ff,DEU
+1067,323848,1.FC Phönix Lübeck,Phönix Lübeck,#00008b,#e50033,DEU
+1068,258984,FC Teutonia 05 Ottensen,Teutonia 05,#008000,#ffffff,DEU
+1070,5804,SV Meppen,Meppen,#0000ff,#ffffff,DEU
+1071,2593,SC Verl,Verl,#ffffff,#ffffff,DEU
+1072,321682,Schwarz Weiss Alstaden,Schwarz Weiss Alstaden,#374df5,#374df5,DEU
+1073,290408,SF Königshardt,Königshardt,#374df5,#374df5,
+1074,2525,1. FC Köln II U23,Köln II U23,#ffffff,#ffffff,DEU
+1075,293430,1. FC Düren,1. FC Düren,#00285f,#00a0e4,DEU
+1076,6156,1. FC Bocholt,Bocholt,#ffffff,#000000,DEU
+1077,108351,SV Rödinghausen,Rödinghausen,#049f5f,#ffffff,DEU
+1078,260007,FC Schalke 04 II U23,Schalke II U23,#0541cd,#ffffff,DEU
+1079,7875,SC Wiedenbrück,Wiedenbrück,#000000,#000099,DEU
+1080,2683,SC Fortuna Köln,Fortuna Köln,#ffffff,#ffffff,DEU
+1082,3106,Legia Warszawa,Legia,#ffffff,#000000,POL
+1083,24798,FC Botoșani,FC Botoșani,#ffffff,#ffffff,ROU
+1084,36741,MFK Chrudim,MFK Chrudim,#ff0000,#222226,CZE
+1085,287020,SPG Mötz/Silz,,#374df5,#374df5,AUT
+1086,43081,SVG Reichenau,Reichenau,#bc2322,#000000,AUT
+1087,470228,SV Kematen,,#374df5,#374df5,AUT
+1088,351012,SC Mils 05,Mils,#374df5,#374df5,AUT
+1089,285132,SV Vols,SV Vols,#374df5,#374df5,AUT
+1090,190274,Innsbrucker AC,,#374df5,#374df5,AUT
+1091,384445,SK Ebbs,SK Ebbs,#374df5,#374df5,
+1092,386571,SV Fugen,SV Fügen,#374df5,#374df5,AUT
+1093,190293,SV Wörgl,Wörgl,#dd0000,#ffffff,AUT
+1094,199493,Oberperfuss,,#374df5,#374df5,
+1098,2210,FC Zbrojovka Brno,Zbrojovka Brno,#ff0000,#ff0000,CZE
+1099,35264,SK Artis Brno,Artis,#2970ba,#e80c0c,CZE
+1100,35244,MFK Vyškov,Vyškov,#ffffff,#00cd66,CZE
+1101,2215,Slezský FC Opava,Opava,#1c3557,#feb801,CZE
+1102,34789,FK Varnsdorf,Varnsdorf,#ffff00,#ffffff,CZE
+1103,4866,Sparta Praha B U21,Sparta Praha B,#942536,#ffffff,CZE
+1104,323652,Baník Ostrava B,Baník Ostrava B,#ffffff,#3366ff,CZE
+1105,4863,Vysočina Jihlava,Vysočina Jihlava,#f7eb09,#f7eb09,CZE
+1107,7084,FC ViOn Zlaté Moravce,Zlaté Moravce,#ffffff,#ff0000,SVK
+1108,111061,MFK Skalica,Skalica,#ffffff,#66cc00,SVK
+1109,2397,MFK Ružomberok,Ružomberok,#ff6600,#ff6600,SVK
+1110,189813,KFC Komárno,Komárno,#9725a0,#ffffff,SVK
+1111,4503,Dukla Banská Bystrica,Banská Bystrica,#cc0000,#ffffff,SVK
+1112,7885,MFK Zemplín Michalovce,Michalovce,#ffff00,#0000ff,SVK
+1114,314330,TSV Hartberg II,TSV Hartberg II,#374df5,#374df5,
+1115,73885,Wiener Viktoria,Viktoria,#d20100,#ffffff,AUT
+1117,202799,ASV Siegendorf,,#374df5,#374df5,AUT
+1118,212847,FC Mauerwerk,Mauerwerk,#ffffff,#890000,AUT
+1119,271457,Sportunion Mauer,,#323163,#222226,AUT
+1120,386185,TWL Elektra,,#374df5,#374df5,AUT
+1122,2108,Young Violets Austria Wien,YVA,#660099,#ffffff,AUT
+1123,43848,Favoritner AC,FavAC,#374df5,#374df5,AUT
+1124,312118,SV Stiwoll,,#374df5,#374df5,
+1125,2076,Wolfsberger AC,WAC,#ffffff,#000000,AUT
+1127,5153,OFK Beograd,OFK Beograd,#374df5,#374df5,SRB
+1128,420650,2DROTS Moskau,2DROTS,#374df5,#374df5,RUS
+1129,2322,Krylya Sovetov Samara,Krylya Sovetov,#00f4f4,#ffffff,RUS
+1130,2333,Rubin Kazan,Rubin,#b70000,#dddd00,RUS
+1131,322699,Rodina Moscow,Rodina Moscow,#59b6f8,#ffffff,RUS
+1132,5150,FK Vojvodina,Vojvodina,#cc0000,#000000,SRB
+1133,7771,FK Mladost Lučani,Mladost,#ffffff,#0094d2,SRB
+1134,263360,FK TSC Bačka Topola,TSC,#191970,#ffffff,SRB
+1135,25736,FK Novi Pazar,Novi Pazar,#ffffff,#222226,SRB
+1136,43981,FK Radnički 1923,Radnički 1923,#ff0000,#888895,SRB
+1139,75115,TSV Aubstadt,Aubstadt,#ee1111,#ffffff,DEU
+1140,70944,FC Augsburg II,Augsburg II,#ffffff,#cd1719,DEU
+1141,23537,DJK Vilzing,Vilzing,#ffd700,#000000,DEU
+1142,23947,FC Würzburger Kickers,Würzburger Kickers,#ffffff,#ff0000,DEU
+1143,2559,SV Wacker Burghausen,Burghausen,#ffffff,#000000,DEU
+1144,5791,SV Viktoria Aschaffenburg,Aschaffenburg,#0000ff,#ffffff,DEU
+1145,2568,Bayern München II,Bayern II,#ff0000,#ffffff,DEU
+1146,5872,1. FC Nürnberg II,Nürnberg II,#990000,#000000,DEU
+1147,2599,SpVgg Ansbach,Ansbach,#13736f,#ff0000,DEU
+1148,2566,Erzgebirge Aue,Aue,#5b00b7,#ffffff,DEU
+1149,2562,Rot-Weiss Essen,RW Essen,#ffffff,#ffffff,DEU
+1150,2533,F.C. Hansa Rostock,Rostock,#0033ff,#0033ff,DEU
+1151,2680,SV Waldhof Mannheim,Mannheim,#000080,#ffffff,DEU
+1152,6157,SV Sandhausen,Sandhausen,#c0c0c0,#ffffff,DEU
+1153,2532,Energie Cottbus,Cottbus,#ff0000,#ff0000,DEU
+1154,2581,VfL Osnabrück,Osnabrück,#ffffff,#ffffff,DEU
+1155,2580,SSV Ulm 1846,Ulm,#ffffff,#000000,DEU
+1158,2447,FC Aarau,Aarau,#000000,#ffffff,CHE
+1159,2442,FC St. Gallen 1879,St. Gallen,#ffffff,#009933,CHE
+1160,2452,FC Sion,Sion,#ff0000,#ffffff,CHE
+1161,2460,Yverdon-Sport FC,Yverdon-Sport,#ffffff,#ffffff,CHE
+1163,162348,TSV 1882 Landsberg,Landsberg,#ff0000,#ffffff,DEU
+1164,35162,FC Stade-Lausanne-Ouchy,Stade Ls Ouchy,#ffffff,#ff0000,CHE
+1165,38614,FC Balzers,Balzers,#ffff00,#000080,LIE
+1166,2461,Schaffhausen,Schaffhausen,#ffff33,#ffff33,CHE
+1167,2490,Stade Nyonnais,,#ffff00,#ffff00,CHE
+1168,2497,Étoile Carouge FC,Étoile Carouge,#000080,#ffffff,CHE
+1169,38620,USV Eschen-Mauren,Eschen-Mauren,#ffffff,#0000ff,LIE
+1172,73883,Deutschlandsberger SC,DSC,#fcea19,#000066,AUT
+1173,189472,SV Lebring,SV Lebring,#374df5,#374df5,AUT
+1174,258912,SV Lafnitz II,SV Lafnitz II,#374df5,#374df5,AUT
+1175,335285,FC Kindberg Murzhofen,FC Kindberg Murzhofen,#374df5,#374df5,
+1176,368302,FC Schladming,FC Schladming,#374df5,#374df5,
+1177,6015,SV Allerheiligen,Allerheiligen,#fadf00,#000000,AUT
+1181,2348,St. Johnstone,St. Johnstone,#0066ff,#ffffff,SCO
+1182,2346,Motherwell,,#ffcc00,#97004b,SCO
+1183,2357,Dundee FC,Dundee,#000093,#000000,SCO
+1184,2355,Aberdeen,,#cc0000,#ffffff,SCO
+1185,2349,Dundee United,Dundee Utd,#ff6600,#ff6600,SCO
+1186,2352,Celtic,Celtic,#ffffff,#009933,SCO
+1187,82,Shrewsbury Town,Shrewsbury,#0000ff,#ffff00,ENG
+1188,57,Northampton Town,Northampton,#890000,#890000,ENG
+1189,86,Exeter City,Exeter,#ffffff,#e92553,ENG
+1190,9,Birmingham City,Birmingham,#000099,#ffffff,ENG
+1191,83,Leyton Orient,Leyton Orient,#ff0000,#ffffff,ENG
+1194,13,Rotherham United,Rotherham,#ff0000,#ffffff,ENG
+1196,59,Huddersfield Town,Huddersfield,#ffffff,#0000ff,ENG
+1199,2186,FC Wolfurt,Wolfurt,#ecdb43,#153185,AUT
+1200,369132,SC Göfis,SC Göfis,#374df5,#374df5,AUT
+1201,2184,FC Nenzing,Nenzing,#374df5,#374df5,AUT
+1202,388995,SV Ludesch,,#374df5,#374df5,
+1203,106983,Dornbirner SV,Dornbirner,#007e54,#000000,AUT
+1204,2063,Lustenau,Lustenau,#374df5,#374df5,AUT
+1205,2133,RW Rankweil,Rankweil,#fd0000,#ffffff,AUT
+1206,2187,SC Röthis,SC Röthis,#ffffff,#003d8f,AUT
+1207,201691,SV Lochau,,#374df5,#374df5,AUT
+1208,353845,FC Rotenberg,,#374df5,#374df5,AUT
+1209,203029,SV Stripfing,Stripfing,#2755a7,#fef403,AUT
+1210,6281,SKU Amstetten,Amstetten,#e90808,#ffffff,AUT
+1211,7786,Schwarz-Weiß Bregenz,SW Bregenz,#ffffff,#000000,AUT
+1215,291621,FC Marchfeld Donauauen,Marchfeld Donauauen,#e10d23,#294898,AUT
+1216,2092,Rapid Wien II,Rapid II,#00794b,#ffffff,AUT
+1219,229644,Rukh Lviv,Rukh Lviv,#1a1a1a,#ffff00,UKR
+1220,200123,Inhulets Petrove,Inhulets,#ffff28,#0080ff,UKR
+1221,3305,Dynamo Kyiv,Dynamo Kyiv,#ffffff,#0071bc,UKR
+1222,5987,Zorya Luhansk,Zorya Luhansk,#000000,#ffffff,UKR
+1223,3310,Chornomorets Odesa,Chornomorets,#000000,#ffffff,UKR
+1224,258536,Polissya Zhytomyr,Polissya,#f0cc00,#1a863a,UKR
+1225,200776,Kolos Kovalivka,Kolos Kovalivka,#ffffff,#000000,UKR
+1226,294048,FC Kryvbas Kryvyi Rih,Kryvbas,#374df5,#374df5,UKR
+1227,284427,LNZ Cherkasy,LNZ Cherkasy,#ffffff,#222226,
+1228,36246,NK Lokomotiva Zagreb,Lokomotiva,#0000ff,#ffffff,HRV
+1229,2042,NK Slaven Belupo,Slaven,#4f6abc,#ffffff,HRV
+1230,2036,HNK Hajduk Split,Hajduk,#ffffff,#ffffff,HRV
+1231,2039,HNK Rijeka,Rijeka,#ffffff,#6699ff,HRV
+1232,2029,HNK Šibenik,Šibenik,#fd6d19,#000080,HRV
+1233,2032,GNK Dinamo Zagreb,Dinamo,#0b59a1,#ffffff,HRV
+1234,2040,NK Osijek,Osijek,#08246d,#ffffff,HRV
+1235,25529,NK Istra 1961,Istra,#eee447,#222226,HRV
+1236,231380,NK Varaždin,Varaždin,#004194,#ffffff,HRV
+1238,2208,FK Teplice,Teplice,#fdde02,#fdde02,CZE
+1239,2219,FC Slovan Liberec,Slovan Liberec,#0b89c5,#ffffff,CZE
+1240,4871,1. FC Slovácko,Slovácko,#ffffff,#00006c,CZE
+1243,36363,VfL Halle,Halle,#ff0000,#2574ad,DEU
+1244,74487,Einheit Rudolstadt,Rudolstadt,#ffdc00,#027a3d,DEU
+1245,5564,VfB Germania Halberstadt,Halberstadt,#ff0000,#ffffff,DEU
+1246,5864,Ludwigsfelder FC,Ludwigsfelde,#ff0000,#ffff00,DEU
+1247,258720,VfB 1921 Krieschow,1921 Krieschow,#000000,#676767,DEU
+1248,386486,FC Einheit Wernigerode,Einheit Wernigerode,#374df5,#374df5,DEU
+1249,24094,1. FC Magdeburg II,Magdeburg II,#374df5,#374df5,DEU
+1250,201243,Bischofswerdaer FV 08,,#0000ff,#ffffff,DEU
+1251,201242,BSG Wismut Gera,Wismut Gera,#374df5,#374df5,DEU
+1252,290878,SV Blau-Weiss Zorbau,BW Zorbau,#374df5,#374df5,DEU
+1253,524891,SV Naunhof,,#374df5,#374df5,
+1254,257504,Ebersbrunner SV,,#374df5,#374df5,
+1255,2617,VfB 09 Pössneck,Pössneck,#374df5,#374df5,DEU
+1256,5861,Berliner FC Dynamo,BFC Dynamo,#990000,#ffffff,DEU
+1257,228141,BSG Chemie Leipzig,Chemie Leipzig,#127c4b,#ffffff,DEU
+1258,5567,ZFC Meuselwitz,Meuselwitz,#ffffff,#ffffff,DEU
+1259,2549,SV Babelsberg 03,,#ffffff,#000000,DEU
+1260,2614,FC Carl Zeiss Jena,Jena,#ffffff,#ffff00,DEU
+1261,36358,FSV Luckenwalde,Luckenwalde,#0000ff,#ffd700,DEU
+1262,74483,VSG Altglienicke,Altglienicke,#1e90ff,#ffffff,DEU
+1263,5043,SC Neusiedl 1919,Neusiedl,#13896c,#ffffff,AUT
+1264,2066,Wiener Sport-Club,Wiener SC,#000000,#ffffff,AUT
+1265,321219,SV Gloggnitz,,#374df5,#374df5,AUT
+1266,201932,SC Lassee,,#374df5,#374df5,
+1267,2067,Kapfenberger SV,KSV 1919,#ff0000,#ffffff,AUT
+1270,2948,FC Utrecht,Utrecht,#ff0000,#ffffff,NLD
+1271,2990,Almere City FC,Almere City,#620709,#222226,NLD
+1272,2947,NAC Breda,NAC Breda,#ffcc00,#000000,NLD
+1273,2952,PSV Eindhoven,PSV,#ff0000,#ffffff,NLD
+1274,2961,Willem II Tilburg,Willem II,#ffffff,#0000ff,NLD
+1275,2959,Feyenoord,Feyenoord,#ff0000,#ffffff,NLD
+1276,2955,FC Twente,Twente,#ff0000,#ff0000,NLD
+1277,2960,Sparta Rotterdam,Sparta,#ffffff,#ff0000,NLD
+1278,2951,FC Groningen,Groningen,#ffffff,#009933,NLD
+1279,2977,Heracles Almelo,Heracles,#ffffff,#000000,NLD
+1280,224604,Eendracht Termien,,#374df5,#374df5,BEL
+1281,2900,RSC Anderlecht,Anderlecht,#330066,#ffffff,BEL
+1282,2903,KAA Gent,Gent,#0033ff,#ffffff,BEL
+1283,2888,Club Brugge KV,Club Brugge,#0080ff,#000000,BEL
+1284,4860,Royale Union Saint-Gilloise,USG,#ffec06,#1649fa,BEL
+1285,2889,Royal Antwerp FC,Royal Antwerp,#d10f2f,#ffffff,BEL
+1287,246943,ASK Koflach,ASK Koflach,#374df5,#374df5,AUT
+1288,36905,SK Fürstenfeld,Fürstenfeld,#374df5,#374df5,AUT
+1289,315414,Junge Wikinger Ried,Wikinger,#017d66,#000000,AUT
+1290,34978,Vorwärts Steyr,Steyr,#ffffff,#ff0000,AUT
+1291,6280,Sparkasse Gleisdorf,Gleisdorf,#ffffff,#109b25,AUT
+1294,2060,DSV Leoben,Leoben,#374df5,#374df5,AUT
+1295,291016,USV Weindorf St. Anna am Aigen,Weindorf St Anna,#ffffff,#034eb6,AUT
+1296,258640,Oedt,,#374df5,#374df5,AUT
+1299,2929,Cercle Brugge,Cercle Brugge,#006633,#003333,BEL
+1300,371484,KSC Lokeren,Lokeren,#374df5,#374df5,BEL
+1301,4859,SK Beveren,Beveren,#ffff00,#ffff00,BEL
+1302,2926,KAS Eupen,Eupen,#ffffff,#000000,BEL
+1303,116075,Koninklijke Lierse Sportkring,K. Lierse SK,#ffe500,#000000,BEL
+1304,204219,Daring Brussels,Daring Brussels,#ffffff,#000000,BEL
+1305,389226,RFC Liège,Club Liège,#374df5,#374df5,BEL
+1306,6173,SV Bergisch Gladbach 09,Bergisch Gladbach,#ff0000,#000000,DEU
+1307,112441,SSV Merten,Merten,#374df5,#374df5,DEU
+1308,309159,FV Bonn-Endenich 1908,Bonn-Endenich,#374df5,#374df5,DEU
+1309,228073,Siegburger SV 04,Siegburg,#0000ff,#848482,DEU
+1310,75755,FC Hürth,Hürth,#e50033,#ffffff,DEU
+1311,263382,FC Pesch,,#4190f4,#1d2a55,DEU
+1312,338850,BW Konigsdorf,,#374df5,#374df5,
+1313,398173,Teutonia Weiden,Teutonia Weiden,#374df5,#374df5,DEU
+1314,5813,FC Wegberg-Beeck,Wegberg-B.,#c21e29,#717075,DEU
+1315,323923,Fortuna Köln II,Fortuna Köln II,#ffffff,#ffffff,DEU
+1316,260658,Wolfsberger AC II,WAC II,#ffffff,#000000,AUT
+1317,291619,FC Hertha Wels,Wels,#1f519a,#458d48,AUT
+1318,5169,Union Vocklamarkt,Vöcklamarkt,#318c2c,#ffed00,AUT
+1321,24735,UFC Fehring,Fehring,#374df5,#374df5,AUT
+1322,325203,Pertlstein/Fehring II,,#374df5,#374df5,
+1323,246322,FC Weinland Gamlitz,FC Weinland Gamlitz,#374df5,#374df5,AUT
+1324,2090,ESV Parndorf,Parndorf,#ff0000,#ff0000,AUT
+1325,188873,Deutschkreutz,,#374df5,#374df5,AUT
+1326,201557,Leithaprodersdorf,,#374df5,#374df5,AUT
+1327,320628,SPG Edelserpentin,SPG Edelserpentin,#374df5,#374df5,
+1328,200934,ASK Royal Sped Klingenbach,,#374df5,#374df5,AUT
+1329,106979,ASV Draßburg,Draßburg,#127ddd,#f8212d,AUT
+1330,226688,SV Schattendorf,,#374df5,#374df5,AUT
+1331,528526,SK Pama,,#374df5,#374df5,AUT
+1332,2061,Mattersburger SV,Mattersburg,#339900,#800000,AUT
+1333,2192,Horitschon,Horitschon,#374df5,#374df5,AUT
+1336,7944,Bath City,Bath,#ffffff,#000000,ENG
+1337,25940,Hornchurch,,#ff0000,#ffffff,ENG
+1338,23958,Chelmsford City,Chelmsford,#960000,#ffffff,ENG
+1339,220,Salisbury,Salisbury,#ffffff,#000000,ENG
+1340,198,Slough Town,Slough,#f2bf41,#222226,ENG
+1341,104,Torquay United,Torquay,#ead429,#222226,ENG
+1342,47045,Hemel Hempstead,,#008000,#222226,ENG
+1343,147,Eastbourne Borough,Eastbourne,#c51425,#ffffff,ENG
+1344,47289,Worthing FC,Worthing,#ff0000,#89cff0,ENG
+1345,36467,Boreham Wood,Boreham,#edeeef,#222226,ENG
+1346,7942,Solihull Moors,Solihull Moors,#ffff00,#0000ff,ENG
+1347,110,Altrincham,Altrincham,#ff0000,#ffffff,ENG
+1348,182,Braintree Town,Braintree,#ff6600,#ffffff,ENG
+1349,114,Ebbsfleet United,Ebbsfleet,#e30f10,#ffffff,ENG
+1350,101,Hartlepool United,Hartlepool,#014083,#cacbd0,ENG
+1351,157,Gateshead,,#39596e,#222226,ENG
+1352,166,Maidenhead United,Maidenhead,#ffffff,#222226,ENG
+1353,6339,Sutton United,Sutton,#fcf042,#fcf042,ENG
+1355,102,Tamworth,Tamworth,#be1414,#f6d562,ENG
+1357,192,Mangotsfield United,Mangotsfield Utd,#374df5,#374df5,ENG
+1358,215,Clevedon Town,Clevedon,#374df5,#374df5,ENG
+1359,6341,Weston Super Mare,,#000000,#997f4e,ENG
+1360,45361,Enfield Town,Enfield,#ffffff,#121a66,ENG
+1361,178,Weymouth FC,Weymouth,#00bfff,#a93838,ENG
+1362,26003,Maidstone United,Maidstone,#ffce00,#000000,ENG
+1363,67,Blackpool,Blackpool,#ff6600,#ffffff,ENG
+1364,28,Reading,,#ffffff,#003399,ENG
+1365,64,Wrexham,Wrexham,#b11921,#222226,WAL
+1366,5,Bolton Wanderers,Bolton,#ffffff,#000033,ENG
+1367,70,Mansfield Town,Mansfield,#f3ba2b,#1d56db,ENG
+1368,92,Lincoln City,Lincoln,#ff0000,#ffffff,ENG
+1369,2950,AZ Alkmaar,AZ,#ff0000,#000000,NLD
+1372,2393,The Spartans FC,The Spartans,#374df5,#374df5,SCO
+1373,4921,The New Saints,TNS,#ffffff,#41a317,WAL
+1374,2381,East Stirlingshire,East Stirlingshire,#374df5,#374df5,SCO
+1375,2367,Airdrieonians,,#ffffff,#ff0000,SCO
+1376,2363,Falkirk FC,Falkirk,#333399,#ff0000,SCO
+1377,2361,Raith Rovers,,#000000,#000000,SCO
+1379,2113,FC Blau Weiss Linz,BW Linz,#ffffff,#0000b2,AUT
+1380,2055,SK Rapid Wien,Rapid,#00794b,#ffffff,AUT
+1381,2051,SK Sturm Graz,Sturm,#000000,#0000ff,AUT
+1382,5124,Nyiregyháza Spartacus,Nyíregyháza,#101e82,#bb1514,HUN
+1383,3108,Śląsk Wrocław,Śląsk,#006633,#006633,POL
+1386,3122,Wisła Płock,Wisła Płock,#ffffff,#3333ff,POL
+1387,7916,OKS Odra Opole,Odra Opole,#0061af,#ffe600,POL
+1388,3105,Ruch Chorzów,Ruch Chorzów,#0066ff,#0066ff,POL
+1389,7922,Warta Poznań,Warta Poznań,#00552b,#ffffff,POL
+1390,36886,Kotwica Kołobrzeg,Kotwica Kołobrzeg,#ffffff,#0c6ac2,POL
+1391,35330,Miedź Legnica,Miedź,#3565ad,#d8b46a,POL
+1392,3125,Górnik Łęczna,Górnik Łęczna,#009933,#000000,POL
+1393,5064,MZKS Arka Gdynia,Arka Gdynia,#ffff00,#000099,POL
+1394,3111,Wisła Kraków,Wisła Kraków,#cc0000,#ffffff,POL
+1396,105963,MKS Chojniczanka Chojnice,Chojniczanka,#f20000,#ffcc00,POL
+1397,387754,ŁKS Łódź II,ŁKS Łódź II,#374df5,#374df5,POL
+1398,269193,Zagłębie Lubin II,Zagłębie Lubin II,#ff3300,#000000,POL
+1399,212848,Rekord Bielsko-Biała,Rekord,#2e8b57,#ffffff,POL
+1400,37204,Resovia Rzeszów,,#e3061b,#ffffff,POL
+1401,37179,Olimpia Grudziądz,Olimpia Grudziądz,#005a23,#dcbf81,POL
+1402,7693,Zagłębie Sosnowiec,Zagłębie S.,#ffffff,#161616,POL
+1403,334956,Wieczysta Kraków,Wieczysta,#374df5,#374df5,POL
+1404,25196,FC Bavois,Bavois,#ff0000,#ffffff,CHE
+1405,2476,SC Cham,Cham,#ff0000,#ffffff,CHE
+1406,25220,SC Brühl SG,Brühl,#00aa00,#ffffff,CHE
+1407,2451,Neuchâtel Xamax,Xamax,#000000,#990000,CHE
+1408,2468,SC YF Juventus,YF Juventus,#ffffff,#1e1e1e,CHE
+1410,24782,FC Silon Táborsko,Silon Táborsko,#0000ff,#ff0000,CZE
+1412,324982,SK Slavia Praha B,,#ffffff,#e10000,CZE
+1413,228544,Slovan Velvary,Slovan Velvary,#234ca3,#ffffff,CZE
+1415,53101,Povltavska FA,Povltavska ,#ff0000,#ffffff,CZE
+1416,24775,TJ Jiskra Domažlice,Jiskra,#0000ff,#ffffff,CZE
+1417,53133,Loko Vltavín,Loko Vltavín,#addfff,#ffffff,CZE
+1418,37114,FK Admira Praha,Ad. Praha,#000000,#ffffff,CZE
+1419,321886,Viktoria Plzeň B,Viktoria Plzeň B,#ff0000,#0066ff,CZE
+1420,2233,FC Chomutov,FC Chomutov,#374df5,#374df5,CZE
+1421,246010,Sokol Hostouň,Sokol Hostouň,#0c7128,#ffffff,CZE
+1422,25417,FC Písek,FC Písek,#ffe400,#0056b6,CZE
+1423,229341,MAS Táborsko II,MAS Táborsko II,#374df5,#374df5,CZE
+1424,106317,Petrin Plzen,,#374df5,#374df5,CZE
+1425,36572,SC Weiche Flensburg 08,Weiche Flensburg,#ba1a2b,#82bcd2,DEU
+1427,2531,Hamburger SV II U23,HSV II U23,#ffffff,#ffffff,DEU
+1428,5800,FC St Pauli II U23,St. Pauli II U23,#300202,#fd0000,DEU
+1429,43901,SV Todesfelde,Todesfelde,#ffe500,#0033ff,DEU
+1430,2577,SV Werder Bremen II U23,Werder II U23,#009966,#ffffff,DEU
+1431,75853,SSV Jeddeloh,Jeddeloh,#ffffff,#0000ff,DEU
+1432,421508,Tura Harksheide,,#374df5,#374df5,DEU
+1433,323505,Union Tornesch,,#ffffff,#2c5dac,DEU
+1434,2560,VfB Lübeck,Lübeck,#ffffff,#006600,DEU
+1435,7918,Piast Gliwice,Piast,#3366ff,#ff0000,POL
+1436,3112,GKS Katowice,,#ffe710,#000000,POL
+1437,38729,Puszcza Niepołomice,Puszcza,#ffffff,#b13e30,POL
+1438,7295,Radomiak Radom,Radomiak,#fefefe,#06852c,POL
+1439,4901,Cracovia,Cracovia,#cc0000,#ffffff,POL
+1440,7915,Motor Lublin,Motor,#ffff00,#113885,POL
+1441,5065,MKS Korona Kielce,Korona,#ff0000,#ffff00,POL
+1442,7691,Jagiellonia Białystok,Jagiellonia,#ffff00,#ff0000,POL
+1443,3115,Widzew Łódź,Widzew Łódź,#ff0000,#ffffff,POL
+1444,3117,Pogoń Szczecin,Pogoń,#cc0000,#000066,POL
+1445,53,Swindon Town,Swindon,#cc0000,#ffffff,ENG
+1447,18,Grimsby Town,Grimsby,#000000,#000000,ENG
+1448,19,Crewe Alexandra,Crewe,#ba0b12,#222226,ENG
+1449,79,Newport County,Newport,#ffc709,#000000,WAL
+1450,20,Gillingham,,#0033ff,#0033ff,ENG
+1451,97,Barrow,Barrow,#ffffff,#000081,ENG
+1452,56,Notts County,Notts County,#84754e,#222226,ENG
+1453,23959,Fleetwood Town,Fleetwood,#cc0000,#cc0000,ENG
+1454,78,Carlisle United,Carlisle,#0000ff,#ffffff,ENG
+1455,69,Cheltenham Town,Cheltenham,#ffffff,#d5283c,ENG
+1456,55,Port Vale,,#e1dce3,#e4bf3a,ENG
+1457,2377,Dumbarton,,#ffffff,#000000,SCO
+1458,2351,Rangers,Rangers,#0033a0,#ff0000,SCO
+1461,23833,DAC 1904,DAC 1904,#ffff00,#3300cc,SVK
+1462,168476,FC Košice,Košice,#ffd413,#002744,SVK
+1463,2404,ŠK Slovan Bratislava,Slovan,#99ccff,#99ccff,SVK
+1464,7887,FK Železiarne Podbrezová,Podbrezová,#990000,#ffffff,SVK
+1465,76775,1. SK Prostějov,1. SK Prostějov,#00c5cd,#ffffff,CZE
+1466,35272,GKS Tychy,GKS Tychy,#000000,#ffffff,POL
+1468,36769,ZKS Olimpia Elbląg,Olimpia Elbląg,#ecd604,#508bbc,POL
+1469,38719,Hutnik Kraków,Hutnik,#5063de,#ffa500,POL
+1470,228019,KKS 1925 Kalisz,KKS Kalisz,#164cb0,#ffffff,POL
+1471,38736,Wisła Puławy,Wisła Puławy,#0000ff,#222226,POL
+1472,202428,Skra Częstochowa,Skra,#27448a,#04a5e7,POL
+1474,294071,Warta Gorzów Wielkopolski,Warta Gorzów Wielkopolski,#cd000c,#c9aa71,POL
+1475,325178,Lechia Zielona Góra,Lechia Zielona Góra,#ffff00,#0000ff,POL
+1476,281975,Miedź Legnica II,Miedź II,#3565ad,#d8b46a,POL
+1477,322635,LKS Goczałkowice-Zdrój,Goczałkowice-Zdrój,#2f62b3,#ffffff,POL
+1478,387759,MKP Carina Gubin,,#374df5,#374df5,POL
+1479,202426,Pniówek Pawłowice Śląskie,Pniówek Pawłowice,#99c65f,#000000,POL
+1480,36036,Ślęza Wrocław,Ślęza Wrocław,#ec1c24,#fefa73,POL
+1481,227348,Stal Brzeg,,#0000fd,#fffe03,POL
+1482,35786,MKS Polonia Słubice,Polonia Słubice,#374df5,#374df5,POL
+1483,24159,Stilon Gorzów Wielkopolski,Stilon,#374df5,#374df5,POL
+1484,467294,Podlesianka Katowice,Podlesianka Katowice,#374df5,#374df5,POL
+1485,44343,VV Katwijk,Katwijk,#ff8c00,#000000,NLD
+1487,55841,SVV Scheveningen,Scheveningen,#2e8b57,#222226,NLD
+1488,2992,ACV Assen,Assen,#374df5,#374df5,NLD
+1489,6490,Rijnsburgse Boys,Rijnsburg,#f6b221,#000000,NLD
+1490,34731,Excelsior Maassluis,Excelsior M.,#0000ff,#ff0000,NLD
+1491,46170,Jong Sparta Rotterdam,Jong Sparta,#ffffff,#ff0000,NLD
+1492,6480,HHC Hardenberg,Hardenberg,#ff6f00,#010101,NLD
+1493,8055,Quick Boys,Quick Boys,#0000ff,#ffffff,NLD
+1494,2985,SV Spakenburg,SV Spakenburg,#3232cd,#ffffff,NLD
+1495,297890,RKAV Volendam,RKAV Volendam,#cc0033,#000000,NLD
+1496,37800,BVV Barendrecht,Barendrecht,#ff0000,#ffffff,NLD
+1497,2973,FC Dordrecht,Dordrecht,#00cc66,#00cc66,NLD
+1499,2974,Helmond Sport,Helmond Sport,#b30a29,#b30a29,NLD
+1500,2972,SC Telstar,Telstar,#0076bf,#222226,NLD
+1501,2980,VVV-Venlo,VVV-Venlo,#ffff00,#000000,NLD
+1502,46160,Jong Ajax,Jong Ajax,#bb002b,#ffffff,NLD
+1503,2994,FC Eindhoven,Eindhoven,#24528e,#ffffff,NLD
+1504,2954,Roda JC Kerkrade,Roda,#ffff00,#ffff00,NLD
+1505,2970,SC Cambuur,Cambuur,#ffff00,#0099ff,NLD
+1506,2976,MVV Maastricht,MVV,#d31100,#ffffff,NLD
+1507,2978,TOP Oss,TOP Oss,#91110e,#222226,NLD
+1509,2962,NEC Nijmegen,NEC,#ff0000,#008000,NLD
+1510,2674,Eintracht Frankfurt,Frankfurt,#000000,#ff1111,DEU
+1511,2971,PEC Zwolle,Zwolle,#0066cc,#ffffff,NLD
+1512,2543,MSV Duisburg,Duisburg,#ffffff,#0033ff,DEU
+1514,45360,Ashington AFC,Ashington,#374df5,#374df5,ENG
+1515,231337,Pontefract Collieries,,#374df5,#374df5,ENG
+1516,257425,Grimsby Borough FC,Grimsby Borough,#374df5,#374df5,ENG
+1517,46893,Brighouse Town,Brighouse,#374df5,#374df5,ENG
+1518,391047,Sherwood Colliery,,#374df5,#374df5,ENG
+1519,174380,Cleethorpes Town,Cleethorpes Town,#374df5,#374df5,ENG
+1520,46967,Dunston UTS,Dunston,#374df5,#374df5,ENG
+1521,206420,Newton Aycliffe,,#374df5,#374df5,ENG
+1522,26000,Sheffield FC,Sheffield,#374df5,#374df5,ENG
+1523,291566,Ossett United,,#374df5,#374df5,ENG
+1524,65,Oldham Athletic,Oldham,#2869b2,#f2f2f1,ENG
+1525,238,Wealdstone,Wealdstone,#2b6bb4,#cf362e,ENG
+1526,38739,AFC Fylde,Fylde,#28285b,#222226,ENG
+1527,6191,Eastleigh,,#ffffff,#0000ff,ENG
+1528,128,Woking,Woking,#a51121,#222226,ENG
+1529,25201,FC Kreuzlingen,Kreuzlingen,#374df5,#374df5,CHE
+1531,2459,AC Bellinzona,Bellinzona,#990000,#990000,CHE
+1532,35111,FC Dietikon,Dietikon,#374df5,#374df5,CHE
+1533,35412,Fremad Amager,,#1b47a5,#ffffff,DNK
+1534,24946,Ringsted IF,Ringsted,#374df5,#374df5,DNK
+1536,1304,Skive,Skive,#ffff00,#0000ff,DNK
+1537,203406,AB,AB,#228b22,#ffffff,DNK
+1538,4874,Aarhus Fremad,Aarhus Fr,#ffd700,#000000,DNK
+1539,1320,Næstved Boldklub,Næstved,#008000,#ffffff,DNK
+1540,1308,HIK,HIK,#ffffff,#1e90ff,DNK
+1541,41,Sunderland,Sunderland,#ffffff,#ca0000,ENG
+1543,6,Burnley,Burnley,#81204c,#8fd2f4,ENG
+1544,74,Swansea City,Swansea,#ffffff,#ffffff,WAL
+1545,21,Preston North End,Preston,#ffffff,#ffffff,ENG
+1546,58,Bristol City,Bristol City,#ff0000,#ff0000,ENG
+1547,95,Oxford United,Oxford Utd,#f1ea39,#0b2254,ENG
+1548,61,Cardiff City,Cardiff,#0000eb,#ffffff,WAL
+1549,29,Stoke City,Stoke,#ffffff,#ff0000,ENG
+1550,34,Leeds United,Leeds,#ffffff,#1d4189,ENG
+1551,36,Middlesbrough,Middlesbrough,#d90000,#d90000,ENG
+1552,8,West Bromwich Albion,West Brom,#ffffff,#2d2f84,ENG
+1553,62,Wycombe Wanderers,Wycombe,#0099ff,#000099,ENG
+1554,10,Stockport County,Stockport,#7e7e7e,#0000ff,ENG
+1555,60,Bournemouth,Bournemouth,#000000,#cc0000,ENG
+1557,32,Ipswich Town,Ipswich,#0000ff,#ffffff,ENG
+1558,45,Southampton,Southampton,#ff0000,#ffffff,ENG
+1559,3,Wolverhampton,Wolves,#ff9900,#000000,ENG
+1560,30,Brighton & Hove Albion,Brighton,#0054a6,#ffffff,ENG
+1561,23,Barnsley,Barnsley,#ff3333,#ffffff,ENG
+1564,187176,Catalunya,Catalunya,#374df5,#374df5,
+1565,178948,Haiti,Haiti,#3b5aa3,#be0027,HTI
+1566,7409,Argentina,Argentina,#66ccff,#ffffff,ARG
+1567,60270,Uruguay,Uruguay,#7eacfe,#000000,URY
+1568,182526,Ecuador,,#ffff00,#000063,ECU
+1569,323786,Paraguay,,#ff0000,#045ca3,PRY
+1571,323787,Peru,,#ffffff,#cc0000,PER
+1572,132932,El Salvador,El Salvador,#3300ff,#ffffff,SLV
+1573,178950,Jamaica,Jamaica,#ffff00,#33a64f,JAM
+1574,132928,Costa Rica,Costa Rica,#ed1c24,#2366b3,CRI
+1575,37373,Slovenia,Slovenia,#ffffff,#153d96,SVN
+1576,46631,Colombia,Colombia,#ffd808,#000066,COL
+1577,7424,USA,USA,#ffffff,#ff0000,USA
+1578,39990,Chinese Taipei,Chinese Taipei,#0000ff,#ffffff,TWN
+1579,255979,Venezuela,,#aa0f39,#ffffff,VEN
+1580,35317,Mexico,Mexico,#1a4d3e,#960000,MEX
+1581,273019,Nicaragua,Nicaragua,#333ebd,#ffffff,NIC
